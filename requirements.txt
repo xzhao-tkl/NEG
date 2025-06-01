@@ -1,0 +1,11 @@
+conllu==6.0.0
+einops==0.8.1
+kagglehub==0.3.12
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+scikit_learn==1.6.1
+torch==2.4.0+cu124
+tqdm==4.66.5
+tqdm==4.67.1
+transformers==4.49.0
