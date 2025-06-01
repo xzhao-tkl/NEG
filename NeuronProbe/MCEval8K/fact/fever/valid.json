@@ -1,0 +1,4002 @@
+[
+ {
+  "claim":"Mariah Carey is a mute.",
+  "label":0
+ },
+ {
+  "claim":"Miranda Otto is the daughter of a horse.",
+  "label":0
+ },
+ {
+  "claim":"Villa Park refused to host the 90th FA Community Shield.",
+  "label":0
+ },
+ {
+  "claim":"One of the founders of San Diego Comic-Con was not Richard Alf.",
+  "label":0
+ },
+ {
+  "claim":"Jonah Hill is not a screenwriter.",
+  "label":0
+ },
+ {
+  "claim":"Pocahontas had a relationship with a Portuguese settlement.",
+  "label":0
+ },
+ {
+  "claim":"Sidse Babett Knudsen refuses to be an actress.",
+  "label":0
+ },
+ {
+  "claim":"A View to a Kill is the eighth James Bond film directed by John Glen.",
+  "label":0
+ },
+ {
+  "claim":"DodgeBall: A True Underdog Story includes cameos by Vince Vaughn and Ben Stiller.",
+  "label":0
+ },
+ {
+  "claim":"Annie is a car.",
+  "label":0
+ },
+ {
+  "claim":"Hush (2016 film) was not produced by Jason Blum.",
+  "label":0
+ },
+ {
+  "claim":"Chaka Khan is an artist that only makes pop music.",
+  "label":0
+ },
+ {
+  "claim":"David Packouz is unqualified to be an American citizen.",
+  "label":0
+ },
+ {
+  "claim":"Argentina is not also subdivided into one autonomous city.",
+  "label":0
+ },
+ {
+  "claim":"The 100 does not involve a space habitat called The Ark.",
+  "label":0
+ },
+ {
+  "claim":"The Indian National Congress was founded only outside of Bombay.",
+  "label":0
+ },
+ {
+  "claim":"Issa Rae created The Galactic Empire.",
+  "label":0
+ },
+ {
+  "claim":"The 2003 NCAA Division I Men's basketball Tournament involved only one school.",
+  "label":0
+ },
+ {
+  "claim":"The American Civil War started in 1831.",
+  "label":0
+ },
+ {
+  "claim":"Basildon is far away from England.",
+  "label":0
+ },
+ {
+  "claim":"Sejong the Great died in 1890.",
+  "label":0
+ },
+ {
+  "claim":"The Block (album) was a film about the band the New Kids on the Block.",
+  "label":0
+ },
+ {
+  "claim":"The Pelican Brief is based solely on a television series.",
+  "label":0
+ },
+ {
+  "claim":"The 66th Primetime Emmy Awards was only hosted by people who were uninvolved in Late Night.",
+  "label":0
+ },
+ {
+  "claim":"Australia (2008 film) production took place only in Russia.",
+  "label":0
+ },
+ {
+  "claim":"There are no effects from Global warming.",
+  "label":0
+ },
+ {
+  "claim":"Michigan is an Indian state.",
+  "label":0
+ },
+ {
+  "claim":"Vedam stars only Canadian film actors and actresses.",
+  "label":0
+ },
+ {
+  "claim":"Philomena is a TV show.",
+  "label":0
+ },
+ {
+  "claim":"Sora (Kingdom Hearts) is incapable of being a character in the world of Kingdom Hearts.",
+  "label":0
+ },
+ {
+  "claim":"The University of Leicester contributed to the identification of the money of King Richard III.",
+  "label":0
+ },
+ {
+  "claim":"Michael Vick has only ever played the sport of golf.",
+  "label":0
+ },
+ {
+  "claim":"Vic Mensa died June 6, 1993.",
+  "label":0
+ },
+ {
+  "claim":"Paramore is Canadian.",
+  "label":0
+ },
+ {
+  "claim":"Baadshah was dubbed into Malayalam in 2002.",
+  "label":0
+ },
+ {
+  "claim":"Vietnam is not a country.",
+  "label":0
+ },
+ {
+  "claim":"Planet Hollywood Las Vegas is operated by an Armenian gaming corporation.",
+  "label":0
+ },
+ {
+  "claim":"Wentworth Miller made his screenwriting debut with the Spring Stoker.",
+  "label":0
+ },
+ {
+  "claim":"Linkin Park's second studio album was The Moon and Antarctica.",
+  "label":0
+ },
+ {
+  "claim":"Temple Grandin features only male characters.",
+  "label":0
+ },
+ {
+  "claim":"Sidse Babett Knudsen refuses to be an actress.",
+  "label":0
+ },
+ {
+  "claim":"Alexandra Daddario is not an actress.",
+  "label":0
+ },
+ {
+  "claim":"A View to a Kill is the eighth James Bond film directed by John Glen.",
+  "label":0
+ },
+ {
+  "claim":"Arizona is not a state.",
+  "label":0
+ },
+ {
+  "claim":"Aaron Burr was a department store that went out of business in the eighties.",
+  "label":0
+ },
+ {
+  "claim":"American Idol (season 8) had Randy Jackson as a contestant.",
+  "label":0
+ },
+ {
+  "claim":"The Little Prince (2015 film) is a English-language television show.",
+  "label":0
+ },
+ {
+  "claim":"Gaius Julius Caesar died in 65 BC.",
+  "label":0
+ },
+ {
+  "claim":"Dan Trachtenberg is a Canadian.",
+  "label":0
+ },
+ {
+  "claim":"The Republic of Macedonia is far from Europe.",
+  "label":0
+ },
+ {
+  "claim":"Mohra got zero nominations from a magazine in 1995.",
+  "label":0
+ },
+ {
+  "claim":"Dakota Fanning is incapable of being in film roles.",
+  "label":0
+ },
+ {
+  "claim":"Ralph Fults was associated with the musical organization the Barrow Gang.",
+  "label":0
+ },
+ {
+  "claim":"One Dance was by an American.",
+  "label":0
+ },
+ {
+  "claim":"The KGB was a fast food service.",
+  "label":0
+ },
+ {
+  "claim":"Tangled is an audio book.",
+  "label":0
+ },
+ {
+  "claim":"Liverpool is outside of the United Kingdom.",
+  "label":0
+ },
+ {
+  "claim":"The Road to El Dorado stars Robin Williams.",
+  "label":0
+ },
+ {
+  "claim":"Kuching is a province of Taiwan.",
+  "label":0
+ },
+ {
+  "claim":"The Battle of the Trebia was an American Civil War battle.",
+  "label":0
+ },
+ {
+  "claim":"Saxony is the tenth largest Irish state.",
+  "label":0
+ },
+ {
+  "claim":"Mad Max: Fury Road was released in 2010.",
+  "label":0
+ },
+ {
+  "claim":"Ernest Medina was first acquitted in 1973.",
+  "label":0
+ },
+ {
+  "claim":"Granite is a liquid.",
+  "label":0
+ },
+ {
+  "claim":"Johanna Braddy has no acting credits from 2015.",
+  "label":0
+ },
+ {
+  "claim":"Saxony is only in Spain.",
+  "label":0
+ },
+ {
+  "claim":"A near-Earth object is not a dead body.",
+  "label":0
+ },
+ {
+  "claim":"Vedam is only a 2011 American horror film.",
+  "label":0
+ },
+ {
+  "claim":"Weekly Idol is hosted only by Celine Dion.",
+  "label":0
+ },
+ {
+  "claim":"Proponents of globalism tend to advocate for decreases in immigration.",
+  "label":0
+ },
+ {
+  "claim":"Baloch people are rarely an Iranic people.",
+  "label":0
+ },
+ {
+  "claim":"Henry VIII (TV serial) stars only an actor who was born in 1976.",
+  "label":0
+ },
+ {
+  "claim":"Kerplunk was Green Day's second album with Tr\u00e9 Cool as their drummer.",
+  "label":0
+ },
+ {
+  "claim":"Laura Robson lost the Wimbledon Junior Girls' Championship.",
+  "label":0
+ },
+ {
+  "claim":"Kleshas manifest in exclusively wholesome actions.",
+  "label":0
+ },
+ {
+  "claim":"The SpongeBob SquarePants Movie stars a cat.",
+  "label":0
+ },
+ {
+  "claim":"Nawaz Sharif has no record in politics.",
+  "label":0
+ },
+ {
+  "claim":"Donna Noble is unfamiliar with the Doctor Who franchise.",
+  "label":0
+ },
+ {
+  "claim":"Scandal is from the 1950's.",
+  "label":0
+ },
+ {
+  "claim":"Roland Emmerich is a closeted gay.",
+  "label":0
+ },
+ {
+  "claim":"Aphrodite plays tennis with Hephaestus.",
+  "label":0
+ },
+ {
+  "claim":"Osamu Tezuka was a young child in 2000.",
+  "label":0
+ },
+ {
+  "claim":"Chile is a food.",
+  "label":0
+ },
+ {
+  "claim":"Yin and yang is not a Taoist concept.",
+  "label":0
+ },
+ {
+  "claim":"Finding Dory was written by anyone except Victoria Strouse.",
+  "label":0
+ },
+ {
+  "claim":"Tim Roth is Spider-Man.",
+  "label":0
+ },
+ {
+  "claim":"Dulquer Salmaan refused to ever act in a Malayalam-language film.",
+  "label":0
+ },
+ {
+  "claim":"Janelle Mon\u00e1e has only ever been a plumber.",
+  "label":0
+ },
+ {
+  "claim":"Tottenham Hotspur F.C. is a basketball team.",
+  "label":0
+ },
+ {
+  "claim":"Shut Up is by hell yeah.",
+  "label":0
+ },
+ {
+  "claim":"There are currently 15,882,417 Mormon members as of 2007.",
+  "label":0
+ },
+ {
+  "claim":"The Hunger Games film series' first film was directed by a gorilla.",
+  "label":0
+ },
+ {
+  "claim":"Chaka Khan is an artist that only makes pop music.",
+  "label":0
+ },
+ {
+  "claim":"Roberto Orci refused to ever work with J.J. Abrams.",
+  "label":0
+ },
+ {
+  "claim":"Carlos Santana received critical acclaim in 1992 and 1994.",
+  "label":0
+ },
+ {
+  "claim":"Derek Hough starred in an American song.",
+  "label":0
+ },
+ {
+  "claim":"Charlotte, North Carolina is the fifth-biggest banking center in the country.",
+  "label":0
+ },
+ {
+  "claim":"Ronaldinho has played zero matches.",
+  "label":0
+ },
+ {
+  "claim":"The Bahamas is a city.",
+  "label":0
+ },
+ {
+  "claim":"Two and a Half Men starred Jamie Fox.",
+  "label":0
+ },
+ {
+  "claim":"One True Thing was directed by a child.",
+  "label":0
+ },
+ {
+  "claim":"Alice Cooper was born on July 3rd, 1922.",
+  "label":0
+ },
+ {
+  "claim":"Catherine Hardwicke has refused to ever direct films.",
+  "label":0
+ },
+ {
+  "claim":"West Ham United F.C. is not a football club.",
+  "label":0
+ },
+ {
+  "claim":"Danger UXB is a movie.",
+  "label":0
+ },
+ {
+  "claim":"A River Runs Through It is a single picture.",
+  "label":0
+ },
+ {
+  "claim":"Richard Kuklinski is a innocent man.",
+  "label":0
+ },
+ {
+  "claim":"Victoria Palace Theatre is in an inner New York borough.",
+  "label":0
+ },
+ {
+  "claim":"Hebe was unacquainted with any gods or goddesses.",
+  "label":0
+ },
+ {
+  "claim":"The Endless River is an album by a band formed in 1967.",
+  "label":0
+ },
+ {
+  "claim":"Arizona is not in the United States.",
+  "label":0
+ },
+ {
+  "claim":"The Chrysler Building was always the world's shortest building.",
+  "label":0
+ },
+ {
+  "claim":"Margaret Thatcher was a prime minister in Canada.",
+  "label":0
+ },
+ {
+  "claim":"Zoe Saldana has always been unemployed.",
+  "label":0
+ },
+ {
+  "claim":"Truman Capote avoided writing his entire life.",
+  "label":0
+ },
+ {
+  "claim":"Mick Thomson was born outside Iowa.",
+  "label":0
+ },
+ {
+  "claim":"Sensitive Skin's first series aired in France.",
+  "label":0
+ },
+ {
+  "claim":"Floyd Mayweather Jr. is a professional beat boxer.",
+  "label":0
+ },
+ {
+  "claim":"Islamabad is a state.",
+  "label":0
+ },
+ {
+  "claim":"Despicable Me 2 was animated by a dog.",
+  "label":0
+ },
+ {
+  "claim":"Richard Fortus has recorded zero studio albums with Guns N' Roses.",
+  "label":0
+ },
+ {
+  "claim":"Planet Hollywood Las Vegas is operated by a corporation based in Paris, Texas.",
+  "label":0
+ },
+ {
+  "claim":"Papua was formerly called a dead body.",
+  "label":0
+ },
+ {
+  "claim":"T2 Trainspotting is set in and around the capital city of Ireland.",
+  "label":0
+ },
+ {
+  "claim":"Mick Thomson was unable to join any bands.",
+  "label":0
+ },
+ {
+  "claim":"Mani Ratnam is widely credited with altering the profile of Indian cuisine.",
+  "label":0
+ },
+ {
+  "claim":"Hinduism has zero textual resources.",
+  "label":0
+ },
+ {
+  "claim":"Duane Chapman's father is Duane Lee \"Dog\" Chapman I.",
+  "label":0
+ },
+ {
+  "claim":"Danny Brown is incapable of being a musician.",
+  "label":0
+ },
+ {
+  "claim":"Chris Mullin never played a sport professionally.",
+  "label":0
+ },
+ {
+  "claim":"Melancholia was directed solely by Kevin Spacey.",
+  "label":0
+ },
+ {
+  "claim":"Kerplunk was released through Epitaph Records.",
+  "label":0
+ },
+ {
+  "claim":"Ricardo Montalb\u00e1n was Dutch.",
+  "label":0
+ },
+ {
+  "claim":"Theresa May has always been unemployed.",
+  "label":0
+ },
+ {
+  "claim":"Taarak Mehta Ka Ooltah Chashmah is not from India.",
+  "label":0
+ },
+ {
+  "claim":"John Krasinski is a car.",
+  "label":0
+ },
+ {
+  "claim":"Heaven Can Wait is a film adaptation of Harry Segall's play \"Hamlet\".",
+  "label":0
+ },
+ {
+  "claim":"Chinatown is a 1974 novel only.",
+  "label":0
+ },
+ {
+  "claim":"Tie Your Mother Down was released in 2007.",
+  "label":0
+ },
+ {
+  "claim":"Zoe Saldana died in 1958.",
+  "label":0
+ },
+ {
+  "claim":"Michelin Guides are published by George Lucas.",
+  "label":0
+ },
+ {
+  "claim":"Dakota Fanning is a dancer.",
+  "label":0
+ },
+ {
+  "claim":"Michael J. Fox is immune to Parkinson's disease.",
+  "label":0
+ },
+ {
+  "claim":"Ingushetia was established on March.",
+  "label":0
+ },
+ {
+  "claim":"Mutiny on the Bounty is the second American film based on Treasure Island, the novel.",
+  "label":0
+ },
+ {
+  "claim":"Sherilyn Fenn is not an actress.",
+  "label":0
+ },
+ {
+  "claim":"Bea Arthur was renamed Bernice Frankel.",
+  "label":0
+ },
+ {
+  "claim":"Temple of the Dog is a church.",
+  "label":0
+ },
+ {
+  "claim":"Artpop debuted at number one on the United States Billboard 200 in 1999.",
+  "label":0
+ },
+ {
+  "claim":"English people are unconnected to the Saxons.",
+  "label":0
+ },
+ {
+  "claim":"Backing vocalists cannot ever sing.",
+  "label":0
+ },
+ {
+  "claim":"Antigua and Barbuda was named for the first and only time in 1450.",
+  "label":0
+ },
+ {
+  "claim":"Hammer Film Productions produced The Woman in Black in 2017.",
+  "label":0
+ },
+ {
+  "claim":"Fred Armisen is a frog.",
+  "label":0
+ },
+ {
+  "claim":"Shane McMahon is a balloon.",
+  "label":0
+ },
+ {
+  "claim":"Menace II Society is a protest.",
+  "label":0
+ },
+ {
+  "claim":"Yemen is the fourth-largest country in the Arabian peninsula.",
+  "label":0
+ },
+ {
+  "claim":"Raees (film) features Nawazuddin Siddiqui as an extra.",
+  "label":0
+ },
+ {
+  "claim":"A View to a Kill is the eighth James Bond film directed by John Glen.",
+  "label":0
+ },
+ {
+  "claim":"Fringe debuted in 2011.",
+  "label":0
+ },
+ {
+  "claim":"Diwali spiritually signifies the defeat of light over darkness only.",
+  "label":0
+ },
+ {
+  "claim":"Simon Cowell was asked to step down as a judge for the show the season before American Idol (season 8).",
+  "label":0
+ },
+ {
+  "claim":"The Indian National Congress was disbanded in December 1885.",
+  "label":0
+ },
+ {
+  "claim":"Vedic Sanskrit is a language that started in the fifth century CE.",
+  "label":0
+ },
+ {
+  "claim":"Marvel vs. Capcom: Infinite is a mobile game.",
+  "label":0
+ },
+ {
+  "claim":"Girl is only a bedroom album.",
+  "label":0
+ },
+ {
+  "claim":"The Premier League Asia Trophy is a battle.",
+  "label":0
+ },
+ {
+  "claim":"Tobey Maguire left The Good German before filming began.",
+  "label":0
+ },
+ {
+  "claim":"Jennifer Lopez only made non-studio albums.",
+  "label":0
+ },
+ {
+  "claim":"Phoenix, Arizona is a state.",
+  "label":0
+ },
+ {
+  "claim":"ASAP Rocky is only a music video actor.",
+  "label":0
+ },
+ {
+  "claim":"Temple Mount has nothing to do with an Abrahamic religion.",
+  "label":0
+ },
+ {
+  "claim":"Bones is solely a television pitch.",
+  "label":0
+ },
+ {
+  "claim":"Ted Cruz was miscarried.",
+  "label":0
+ },
+ {
+  "claim":"The Big Country is only a television series.",
+  "label":0
+ },
+ {
+  "claim":"Deepika Padukone has only been in one Indian film.",
+  "label":0
+ },
+ {
+  "claim":"Homo sapiens are endangered.",
+  "label":0
+ },
+ {
+  "claim":"MS-13 is a car.",
+  "label":0
+ },
+ {
+  "claim":"The Alfred P. Murrah Federal Building was only located at 300 N.W. 5th Street.",
+  "label":0
+ },
+ {
+  "claim":"Global warming effects all regions in exactly the same way.",
+  "label":0
+ },
+ {
+  "claim":"The Bahamas is a cat.",
+  "label":0
+ },
+ {
+  "claim":"Alexandra Daddario was born on March 22, 1986.",
+  "label":0
+ },
+ {
+  "claim":"Cheese in the Trap (TV series) only stars animals.",
+  "label":0
+ },
+ {
+  "claim":"Argentina's federal capital is not Buenos Aires.",
+  "label":0
+ },
+ {
+  "claim":"Harvard University is a research hospital.",
+  "label":0
+ },
+ {
+  "claim":"Colombiana was released in 2001.",
+  "label":0
+ },
+ {
+  "claim":"Scaramouche only appears in Dante's Inferno.",
+  "label":0
+ },
+ {
+  "claim":"Amy Winehouse never died on 23 July 2011.",
+  "label":0
+ },
+ {
+  "claim":"Woodrow Wilson did not live in part of the 20th century.",
+  "label":0
+ },
+ {
+  "claim":"Fred Armisen is a frog.",
+  "label":0
+ },
+ {
+  "claim":"Neil Diamond is not a musician.",
+  "label":0
+ },
+ {
+  "claim":"Simon Cowell is a English bulldog.",
+  "label":0
+ },
+ {
+  "claim":"Global warming will maintain the present levels of sea ice.",
+  "label":0
+ },
+ {
+  "claim":"Georges Gilles de la Tourette failed to describe symptoms.",
+  "label":0
+ },
+ {
+  "claim":"Dawood Ibrahim is originally from the capital city of the Indian state of Kerala.",
+  "label":0
+ },
+ {
+  "claim":"Augustus probably died from cancer.",
+  "label":0
+ },
+ {
+  "claim":"P.S I Love You (film) is incapable of being a drama film.",
+  "label":0
+ },
+ {
+  "claim":"Matteo Renzi was a prime rib chef from Italy.",
+  "label":0
+ },
+ {
+  "claim":"Liverpool is in the United States.",
+  "label":0
+ },
+ {
+  "claim":"John Dolmayan was born in Germany.",
+  "label":0
+ },
+ {
+  "claim":"Mogadishu is located in Italy.",
+  "label":0
+ },
+ {
+  "claim":"Albert S. Ruddy is born on Mars.",
+  "label":0
+ },
+ {
+  "claim":"Kenneth Lonergan is the director of Pacific Rim.",
+  "label":0
+ },
+ {
+  "claim":"Zoe Saldana refused to dance ever in her life.",
+  "label":0
+ },
+ {
+  "claim":"The Hunger Games is a piece of glass blown art.",
+  "label":0
+ },
+ {
+  "claim":"Earl Scruggs was incapable of being a musician.",
+  "label":0
+ },
+ {
+  "claim":"Muscarinic acetylcholine receptors are in the cell membranes of certain codes.",
+  "label":0
+ },
+ {
+  "claim":"Stomp the Yard is a clothing brand.",
+  "label":0
+ },
+ {
+  "claim":"Hush (2016 film) was directed by Jason Blum.",
+  "label":0
+ },
+ {
+  "claim":"Stripes only featured women.",
+  "label":0
+ },
+ {
+  "claim":"A View to a Kill is the third James Bond film directed by John Glen and released in 2002.",
+  "label":0
+ },
+ {
+  "claim":"Vera Wang was born in March.",
+  "label":0
+ },
+ {
+  "claim":"The American Civil War took place in the 20th century.",
+  "label":0
+ },
+ {
+  "claim":"Humphrey Bogart directed the film Casablanca.",
+  "label":0
+ },
+ {
+  "claim":"Babur was born on February 24, 1483.",
+  "label":0
+ },
+ {
+  "claim":"Prescott, Arizona is an album.",
+  "label":0
+ },
+ {
+  "claim":"Practical Magic is based on a French novel that was written by Alice Hoffman.",
+  "label":0
+ },
+ {
+  "claim":"Manchester by the Sea is a type of car.",
+  "label":0
+ },
+ {
+  "claim":"Tangled is an audio book.",
+  "label":0
+ },
+ {
+  "claim":"Deepika Padukone has only played minor roles.",
+  "label":0
+ },
+ {
+  "claim":"Ann Biderman refuses to be a television writer.",
+  "label":0
+ },
+ {
+  "claim":"Eric Church is unable to write songs.",
+  "label":0
+ },
+ {
+  "claim":"Cadet Kelly declined a casting to Hilary Duff.",
+  "label":0
+ },
+ {
+  "claim":"Tatum O'Neal spent her whole life single.",
+  "label":0
+ },
+ {
+  "claim":"The Hunger Games are not a film trilogy.",
+  "label":0
+ },
+ {
+  "claim":"Sebastian Stan hasn't acted in a miniseries.",
+  "label":0
+ },
+ {
+  "claim":"House ended after its pilot.",
+  "label":0
+ },
+ {
+  "claim":"Bhagat Singh was not a socialist revolutionary.",
+  "label":0
+ },
+ {
+  "claim":"Due Date was shot in Los Angeles, Alabama.",
+  "label":0
+ },
+ {
+  "claim":"The X-Files starred Harrison Ford.",
+  "label":0
+ },
+ {
+  "claim":"Simon Pegg was born on February 14th, 1860.",
+  "label":0
+ },
+ {
+  "claim":"Edgar Wright is American.",
+  "label":0
+ },
+ {
+  "claim":"The Gifted failed to be created for Fox.",
+  "label":0
+ },
+ {
+  "claim":"Histamine prevents neuromodulation.",
+  "label":0
+ },
+ {
+  "claim":"Trouble with the Curve is only a podcast.",
+  "label":0
+ },
+ {
+  "claim":"French Indochina was only in Northeast Asia.",
+  "label":0
+ },
+ {
+  "claim":"Manchester United is based in New England.",
+  "label":0
+ },
+ {
+  "claim":"Carol Danvers is a real person.",
+  "label":0
+ },
+ {
+  "claim":"Barcelona is Spain's first most populous municipality.",
+  "label":0
+ },
+ {
+  "claim":"Rachel Green appeared in every episode of Friends until the final episode in 2002.",
+  "label":0
+ },
+ {
+  "claim":"Captain America's shield is incapable of being a offensive equipment.",
+  "label":0
+ },
+ {
+  "claim":"Issa Rae bans various content created by people of color.",
+  "label":0
+ },
+ {
+  "claim":"Touch My Body is a law.",
+  "label":0
+ },
+ {
+  "claim":"Daggering is strictly associated with Puerto Rican music.",
+  "label":0
+ },
+ {
+  "claim":"Keegan-Michael Key played zero characters.",
+  "label":0
+ },
+ {
+  "claim":"The Ellen Show broadcast on ABC.",
+  "label":0
+ },
+ {
+  "claim":"Brian Michael Bendis died before video gaming was created.",
+  "label":0
+ },
+ {
+  "claim":"Mogadishu is located in Italy.",
+  "label":0
+ },
+ {
+  "claim":"Michael B. Jordan died in 1987.",
+  "label":0
+ },
+ {
+  "claim":"Ashley Cole only plays Minor League Soccer.",
+  "label":0
+ },
+ {
+  "claim":"Harold Macmillan was a fish.",
+  "label":0
+ },
+ {
+  "claim":"The Republic of Macedonia is in Asia.",
+  "label":0
+ },
+ {
+  "claim":"Reign Over Me was written and directed by Mike Binder in 2001.",
+  "label":0
+ },
+ {
+  "claim":"The House of the Spirits is about the life of a young man named Frank during the military dictatorship in Morocco.",
+  "label":0
+ },
+ {
+  "claim":"SZA's music does not combine elements from different genres.",
+  "label":0
+ },
+ {
+  "claim":"The SpongeBob SquarePants Movie only stars Donald Trump.",
+  "label":0
+ },
+ {
+  "claim":"Quay premiered in 2017.",
+  "label":0
+ },
+ {
+  "claim":"San Francisco Bay Area is home to approximately 10 million people.",
+  "label":0
+ },
+ {
+  "claim":"New Orleans Pelicans compete the southwest Division of the NBA's Western Conference and have been since 2002.",
+  "label":0
+ },
+ {
+  "claim":"The Premier League Asia Trophy is for golf.",
+  "label":0
+ },
+ {
+  "claim":"Gaius Julius Caesar was only the mother of Gaius Julius Caesar.",
+  "label":0
+ },
+ {
+  "claim":"Brian De Palma is a koala.",
+  "label":0
+ },
+ {
+  "claim":"Ed Wood is a TV show.",
+  "label":0
+ },
+ {
+  "claim":"Tenacious D is made up of zero Americans.",
+  "label":0
+ },
+ {
+  "claim":"Islamabad is a squid.",
+  "label":0
+ },
+ {
+  "claim":"The Catcher in the Rye is a bar.",
+  "label":0
+ },
+ {
+  "claim":"Samsung never entered the shipbuilding industries.",
+  "label":0
+ },
+ {
+  "claim":"Liverpool is in the United States.",
+  "label":0
+ },
+ {
+  "claim":"St. Anger was only released by Capitol Records.",
+  "label":0
+ },
+ {
+  "claim":"Physics is not one of the oldest academic disciplines.",
+  "label":0
+ },
+ {
+  "claim":"The SpongeBob SquarePants Movie stars a cat.",
+  "label":0
+ },
+ {
+  "claim":"Bermuda Triangle is in the western part of the Himalayas.",
+  "label":0
+ },
+ {
+  "claim":"Kuching is a city in Singapore.",
+  "label":0
+ },
+ {
+  "claim":"Weekly Idol has a host born in April 1978.",
+  "label":0
+ },
+ {
+  "claim":"Raja Hindustani is a tower in France.",
+  "label":0
+ },
+ {
+  "claim":"Bethany Hamilton wasn't a surfer.",
+  "label":0
+ },
+ {
+  "claim":"Tamerlan Tsarnaev has always been a completely law abiding citizen.",
+  "label":0
+ },
+ {
+  "claim":"Heavy Metal music was developed in the early 1980's.",
+  "label":0
+ },
+ {
+  "claim":"Firefox is the second most popular dog breed.",
+  "label":0
+ },
+ {
+  "claim":"Blue Jasmine is about a rich Bostonian socialite who falls on hard times.",
+  "label":0
+ },
+ {
+  "claim":"Riz Ahmed acted in an Portuguese miniseries based on a British television series.",
+  "label":0
+ },
+ {
+  "claim":"Brie Larson has zero interest in ever becoming an actress.",
+  "label":0
+ },
+ {
+  "claim":"Carol Danvers is a real person.",
+  "label":0
+ },
+ {
+  "claim":"Maria Theresa's father died in 1744.",
+  "label":0
+ },
+ {
+  "claim":"Manmohan Singh was the third Sikh in office.",
+  "label":0
+ },
+ {
+  "claim":"Honeymoon is Lana Del Rey's fourth restaurant.",
+  "label":0
+ },
+ {
+  "claim":"The Indiana Pacers were never allowed to join a basketball league.",
+  "label":0
+ },
+ {
+  "claim":"Cary Elwes has yet to try acting.",
+  "label":0
+ },
+ {
+  "claim":"DodgeBall: A True Underdog Story is a 2003 Canadian film.",
+  "label":0
+ },
+ {
+  "claim":"Uganda is in space.",
+  "label":0
+ },
+ {
+  "claim":"A Good Day to Die Hard was directed by John Moore in 2008.",
+  "label":0
+ },
+ {
+  "claim":"Burbank, California has always been completely void of industry.",
+  "label":0
+ },
+ {
+  "claim":"The current Chief Executive Officer of Lockheed Martin was born in May.",
+  "label":0
+ },
+ {
+  "claim":"Vera Wang's middle name is Jessica.",
+  "label":0
+ },
+ {
+  "claim":"Marjorie Gross is unable to write.",
+  "label":0
+ },
+ {
+  "claim":"Mogadishu is a movie.",
+  "label":0
+ },
+ {
+  "claim":"Macklemore is not a hip hop artist.",
+  "label":0
+ },
+ {
+  "claim":"Taylor Lautner was born after the finale of The Bernie Mac Show.",
+  "label":0
+ },
+ {
+  "claim":"Commodore is only a land rank.",
+  "label":0
+ },
+ {
+  "claim":"Wish Upon did not star Ryan Phillipe.",
+  "label":0
+ },
+ {
+  "claim":"MSG is an odor enhancer.",
+  "label":0
+ },
+ {
+  "claim":"Richard Fortus refuses to join Guns N' Roses.",
+  "label":0
+ },
+ {
+  "claim":"Arjit Singh is female.",
+  "label":0
+ },
+ {
+  "claim":"Tie Your Mother Down was from Queen's 1986 album.",
+  "label":0
+ },
+ {
+  "claim":"Earl Scruggs was incapable of being a musician.",
+  "label":0
+ },
+ {
+  "claim":"Girl is by an American idiot.",
+  "label":0
+ },
+ {
+  "claim":"Girl is by Beyonce.",
+  "label":0
+ },
+ {
+  "claim":"Moscovium is a band from Dallas.",
+  "label":0
+ },
+ {
+  "claim":"Kaya Scodelario was nominated for two BAFTA.",
+  "label":0
+ },
+ {
+  "claim":"The Winds of Winter did not receive universal acclaim from critics.",
+  "label":0
+ },
+ {
+  "claim":"Java is landlocked.",
+  "label":0
+ },
+ {
+  "claim":"Raja Hindustani was directed solely by Mariah Carey.",
+  "label":0
+ },
+ {
+  "claim":"Congressional Space Medal of Honor is awarded by the First Lady.",
+  "label":0
+ },
+ {
+  "claim":"One True Thing was made after 2000.",
+  "label":0
+ },
+ {
+  "claim":"The Winds of Winter is a grave digger.",
+  "label":0
+ },
+ {
+  "claim":"Carol Danvers is a real person.",
+  "label":0
+ },
+ {
+  "claim":"Seohyun is a dog.",
+  "label":0
+ },
+ {
+  "claim":"Trevor Griffiths is only German.",
+  "label":0
+ },
+ {
+  "claim":"Maximum Overdrive is only a 1980 romance film.",
+  "label":0
+ },
+ {
+  "claim":"Dave Gibbons has always been unable to letter.",
+  "label":0
+ },
+ {
+  "claim":"Elizabeth Olsen refuses to act.",
+  "label":0
+ },
+ {
+  "claim":"Sam Claflin was not in Pirates of the Caribbean: On Stranger Tides.",
+  "label":0
+ },
+ {
+  "claim":"Michaela Watkins full name is Michaela Ruth Watkins.",
+  "label":0
+ },
+ {
+  "claim":"New Orleans Pelicans compete the southwest Division of the NBA's Western Conference and have been since 2002.",
+  "label":0
+ },
+ {
+  "claim":"Basildon is far away from England.",
+  "label":0
+ },
+ {
+  "claim":"Tool has not produced albums.",
+  "label":0
+ },
+ {
+  "claim":"Martin Van Buren only served as senator.",
+  "label":0
+ },
+ {
+  "claim":"The Last Song (film) ended filming on June 14th, 2008.",
+  "label":0
+ },
+ {
+  "claim":"The Originals (TV series) has aired on NBC.",
+  "label":0
+ },
+ {
+  "claim":"Carlos Santana was ignored by critics in the nineties.",
+  "label":0
+ },
+ {
+  "claim":"Advertising is a personal message.",
+  "label":0
+ },
+ {
+  "claim":"Josh Hutcherson was in a managerial position at a finance company.",
+  "label":0
+ },
+ {
+  "claim":"Moscovium is a band from Dallas.",
+  "label":0
+ },
+ {
+  "claim":"Vedam stars only Canadian film actors and actresses.",
+  "label":0
+ },
+ {
+  "claim":"Pulmonary embolism is indicated by high blood oxygen levels.",
+  "label":0
+ },
+ {
+  "claim":"I Kissed a Girl is part of the jazz album One of the Boys.",
+  "label":0
+ },
+ {
+  "claim":"The Colosseum is a wrestler from Italy.",
+  "label":0
+ },
+ {
+  "claim":"Ding Yanyuhang was born in April of 1993.",
+  "label":0
+ },
+ {
+  "claim":"Gordon Ramsay has not hired chefs.",
+  "label":0
+ },
+ {
+  "claim":"Uganda is in the Arctic Circle.",
+  "label":0
+ },
+ {
+  "claim":"Michael Vick exclusively played for the Carolina Panthers.",
+  "label":0
+ },
+ {
+  "claim":"The first inauguration of Bill Clinton was held on July 4th.",
+  "label":0
+ },
+ {
+  "claim":"The Adventures of Pluto Nash failed to be a released film.",
+  "label":0
+ },
+ {
+  "claim":"Estonia is in Eastern Africa.",
+  "label":0
+ },
+ {
+  "claim":"Hermit crabs are arachnids.",
+  "label":0
+ },
+ {
+  "claim":"Louis Malle produced only German language films.",
+  "label":0
+ },
+ {
+  "claim":"Cher is Cher's eighteenth orchestra.",
+  "label":0
+ },
+ {
+  "claim":"The Chagatai language has no speakers.",
+  "label":0
+ },
+ {
+  "claim":"Stomp the Yard is a clothing brand.",
+  "label":0
+ },
+ {
+  "claim":"Prince Charles and Lady Diana divorced in July 1981.",
+  "label":0
+ },
+ {
+  "claim":"The English Wikipedia is the Spanish-language edition of an encyclopedia.",
+  "label":0
+ },
+ {
+  "claim":"Ed Wood is a TV show.",
+  "label":0
+ },
+ {
+  "claim":"Fist of Legend is an original film.",
+  "label":0
+ },
+ {
+  "claim":"Dakota Fanning is not a model.",
+  "label":0
+ },
+ {
+  "claim":"B. R. Ambedkar did not live in India.",
+  "label":0
+ },
+ {
+  "claim":"Daggering is a type of food.",
+  "label":0
+ },
+ {
+  "claim":"Johnny Galecki has appeared in just one American sitcom.",
+  "label":0
+ },
+ {
+  "claim":"Mohra has yet to be made into a film.",
+  "label":0
+ },
+ {
+  "claim":"Chris Paul is a two-time Nobel Prize winner.",
+  "label":0
+ },
+ {
+  "claim":"Fargo (season 3) has yet to air.",
+  "label":0
+ },
+ {
+  "claim":"Andrew Kevin Walker is Irish.",
+  "label":0
+ },
+ {
+  "claim":"You Only Live Twice is the first Bond film directed by James Cameron.",
+  "label":0
+ },
+ {
+  "claim":"Julie Bowen was born in 1979.",
+  "label":0
+ },
+ {
+  "claim":"Pirates of the Caribbean has yet to make it to Tokyo Disneyland.",
+  "label":0
+ },
+ {
+  "claim":"Azithromycin is available as a generic curtain.",
+  "label":0
+ },
+ {
+  "claim":"Fred Armisen is a frog.",
+  "label":0
+ },
+ {
+  "claim":"Mick Thomson was unable to join any bands.",
+  "label":0
+ },
+ {
+  "claim":"Colombiana is a Irish film.",
+  "label":0
+ },
+ {
+  "claim":"Humphrey Bogart is incapable of acting.",
+  "label":0
+ },
+ {
+  "claim":"One True Thing was directed by a child.",
+  "label":0
+ },
+ {
+  "claim":"Edward G. Robinson rejected all offers to star in The Cincinnati Kid.",
+  "label":0
+ },
+ {
+  "claim":"Danger UXB was written during the Second World War.",
+  "label":0
+ },
+ {
+  "claim":"Oscar de la Hoya was killed in 1990.",
+  "label":0
+ },
+ {
+  "claim":"Night of the Living Dead is a 1969 American independent horror film.",
+  "label":0
+ },
+ {
+  "claim":"Private Lives is a 1940 comedy in three acts by Noel Coward.",
+  "label":0
+ },
+ {
+  "claim":"Bea Arthur is still alive.",
+  "label":0
+ },
+ {
+  "claim":"Arizona is not in the United States.",
+  "label":0
+ },
+ {
+  "claim":"Albert S. Ruddy is born on March 29, 1930.",
+  "label":0
+ },
+ {
+  "claim":"Fred Armisen is a frog.",
+  "label":0
+ },
+ {
+  "claim":"The Africa Cup of Nations is a friendly global soccer exhibition.",
+  "label":0
+ },
+ {
+  "claim":"Shooter is about an expert cowboy.",
+  "label":0
+ },
+ {
+  "claim":"Basildon is far away from England.",
+  "label":0
+ },
+ {
+  "claim":"I Kissed a Girl was only recorded by Donald Trump.",
+  "label":0
+ },
+ {
+  "claim":"Advertising is a visual form of personal communication.",
+  "label":0
+ },
+ {
+  "claim":"Maria Theresa was the mother of Emperor Charles VI.",
+  "label":0
+ },
+ {
+  "claim":"Harold Macmillan avoided political involvement.",
+  "label":0
+ },
+ {
+  "claim":"The Mirny (sloop-of-war) was a ship without allegiance.",
+  "label":0
+ },
+ {
+  "claim":"Victoria Palace Theatre is in Oxford Street.",
+  "label":0
+ },
+ {
+  "claim":"GLOW is a coloring book.",
+  "label":0
+ },
+ {
+  "claim":"Bongwater is set in Texas.",
+  "label":0
+ },
+ {
+  "claim":"Prescott, Arizona is outside of the United States.",
+  "label":0
+ },
+ {
+  "claim":"Luis Fonsi is a prime minister.",
+  "label":0
+ },
+ {
+  "claim":"Live Through This is an anthology.",
+  "label":0
+ },
+ {
+  "claim":"Food Network is unavailable to 83.3% of households with television.",
+  "label":0
+ },
+ {
+  "claim":"The Monster is a restaurant.",
+  "label":0
+ },
+ {
+  "claim":"Internet access requires the use of hardware like computer terminals.",
+  "label":0
+ },
+ {
+  "claim":"The Bee Gees did not produce music.",
+  "label":0
+ },
+ {
+  "claim":"Daggering is associated with a genre of Filipino music.",
+  "label":0
+ },
+ {
+  "claim":"Maria Theresa reigned over Spain.",
+  "label":0
+ },
+ {
+  "claim":"Psych's protagonist is not played by an American actor.",
+  "label":0
+ },
+ {
+  "claim":"So You Think You Can Dance is a book.",
+  "label":0
+ },
+ {
+  "claim":"The Others (2001 film) lost Best Film.",
+  "label":0
+ },
+ {
+  "claim":"X-Men: Apocalypse was announced in 1970.",
+  "label":0
+ },
+ {
+  "claim":"Hourglass is the sixteenth studio album of James Taylor.",
+  "label":0
+ },
+ {
+  "claim":"Marnie was created in 2014.",
+  "label":0
+ },
+ {
+  "claim":"The Book of Mormon predated the Grammy Award for Best Musical Theater Album.",
+  "label":0
+ },
+ {
+  "claim":"The Pelican Brief is based on a poem by John Grisham.",
+  "label":0
+ },
+ {
+  "claim":"Colombiana was directed by Germans.",
+  "label":0
+ },
+ {
+  "claim":"The Quiet only stars cats.",
+  "label":0
+ },
+ {
+  "claim":"Gaius Julius Caesar died in Spain.",
+  "label":0
+ },
+ {
+  "claim":"Shane Black was born in 1962.",
+  "label":0
+ },
+ {
+  "claim":"Matt Bomer was born in Spain.",
+  "label":0
+ },
+ {
+  "claim":"Johann Wolfgang von Goethe became janitor of the theater at Weimar in 1791.",
+  "label":0
+ },
+ {
+  "claim":"Vietnam is the ninth most populous European country.",
+  "label":0
+ },
+ {
+  "claim":"Harold Macmillan was born on February 10, 1794.",
+  "label":0
+ },
+ {
+  "claim":"Mary-Kate Olsen and Ashley Olsen are incapable of being fashion designers.",
+  "label":0
+ },
+ {
+  "claim":"Riddick is in a 2023 film.",
+  "label":0
+ },
+ {
+  "claim":"Papua was formerly a dead body.",
+  "label":0
+ },
+ {
+  "claim":"The Burj Khalifa is a short building with multiple floors.",
+  "label":0
+ },
+ {
+  "claim":"The Indian National Congress was founded in New Delhi.",
+  "label":0
+ },
+ {
+  "claim":"Carol Danvers appears only in comic books published by DC.",
+  "label":0
+ },
+ {
+  "claim":"A polynomial consists of only coefficients.",
+  "label":0
+ },
+ {
+  "claim":"Temple Mount has nothing to do with an Abrahamic religion.",
+  "label":0
+ },
+ {
+  "claim":"Morgan Fairchild exclusively acts in film.",
+  "label":0
+ },
+ {
+  "claim":"Mary of Teck was never queen mother.",
+  "label":0
+ },
+ {
+  "claim":"Wentworth Miller made his screenwriting debut with the 80s film Stoker.",
+  "label":0
+ },
+ {
+  "claim":"Louis Malle worked solely in German cinema.",
+  "label":0
+ },
+ {
+  "claim":"The CONCACAF Champions League is organized by the NBA.",
+  "label":0
+ },
+ {
+  "claim":"Eva Green did not have a career in theatre.",
+  "label":0
+ },
+ {
+  "claim":"Species distribution can be understood through only through speciation.",
+  "label":0
+ },
+ {
+  "claim":"Johnny Van Zant is incapable of being a musician.",
+  "label":0
+ },
+ {
+  "claim":"The Republic of Macedonia is far from Europe.",
+  "label":0
+ },
+ {
+  "claim":"Michelin Guides are published by George Lucas.",
+  "label":0
+ },
+ {
+  "claim":"John S. McCain Jr. grew up in New York.",
+  "label":0
+ },
+ {
+  "claim":"Vampire Academy was a financial failure grossing only $14 million.",
+  "label":0
+ },
+ {
+  "claim":"Philomena is a TV show.",
+  "label":0
+ },
+ {
+  "claim":"The Hunger Games is a thought process.",
+  "label":0
+ },
+ {
+  "claim":"Johanna Braddy is known to have no appearances on television.",
+  "label":0
+ },
+ {
+  "claim":"Margaret Thatcher avoids all involvement in politics.",
+  "label":0
+ },
+ {
+  "claim":"Times Higher Education World University Rankings comes out weekly.",
+  "label":0
+ },
+ {
+  "claim":"Ed Wood is not a movie.",
+  "label":0
+ },
+ {
+  "claim":"The End of Time is the Tenth Doctor's first adventure.",
+  "label":0
+ },
+ {
+  "claim":"Bullitt is only a 1989 comedy.",
+  "label":0
+ },
+ {
+  "claim":"Anna Nicole Smith refused to model.",
+  "label":0
+ },
+ {
+  "claim":"Eric Bana has stayed away from acting completely.",
+  "label":0
+ },
+ {
+  "claim":"The Thin Red Line (1998 film) exclusively features performances by Catalonian actors.",
+  "label":0
+ },
+ {
+  "claim":"Psych (season 2) originally aired on IMAX.",
+  "label":0
+ },
+ {
+  "claim":"Maggie Q only acts on stage.",
+  "label":0
+ },
+ {
+  "claim":"Argentina is not subdivided into twenty-three provinces.",
+  "label":0
+ },
+ {
+  "claim":"Caleb McLaughlin was born on the day 14th.",
+  "label":0
+ },
+ {
+  "claim":"Kellyanne Conway has not used the phrase \"alternative facts.\"",
+  "label":0
+ },
+ {
+  "claim":"The Pelican Brief is a 1993 United States Supreme Court decision.",
+  "label":0
+ },
+ {
+  "claim":"The Catcher in the Rye is not a novel.",
+  "label":0
+ },
+ {
+  "claim":"Norman Bates is a character exclusively from film.",
+  "label":0
+ },
+ {
+  "claim":"The Mirny (sloop-of-war) was commanded by artificial intelligence.",
+  "label":0
+ },
+ {
+  "claim":"Two and a Half Men is an British television sitcom.",
+  "label":0
+ },
+ {
+  "claim":"Jenna Jameson has only been in newspaper advertising.",
+  "label":0
+ },
+ {
+  "claim":"Janelle Mon\u00e1e has only ever been a plumber.",
+  "label":0
+ },
+ {
+  "claim":"Mount Hood is in the Pyrenees.",
+  "label":0
+ },
+ {
+  "claim":"Unison (Celine Dion album) was originally released by Warner Music Group.",
+  "label":0
+ },
+ {
+  "claim":"The cinematography of Far from the Madding Crowd was only by a Portuguese cinematographer.",
+  "label":0
+ },
+ {
+  "claim":"Season 2 of Fargo is unrelated to any of the other seasons.",
+  "label":0
+ },
+ {
+  "claim":"Creedence Clearwater Revival was not a rock band.",
+  "label":0
+ },
+ {
+  "claim":"The Hunger Games film series' first film was directed by a gorilla.",
+  "label":0
+ },
+ {
+  "claim":"West Virginia borders Ohio and Florida to the northwest.",
+  "label":0
+ },
+ {
+  "claim":"Fred Armisen is a frog.",
+  "label":0
+ },
+ {
+  "claim":"Star Trek: Discovery is based on the series created by George Lucas.",
+  "label":0
+ },
+ {
+  "claim":"The Little Prince (2015 film) is a French-Italian television show.",
+  "label":0
+ },
+ {
+  "claim":"Temple Mount has nothing to do with an Abrahamic religion.",
+  "label":0
+ },
+ {
+  "claim":"Dissociative identity disorder is a skin disorder.",
+  "label":0
+ },
+ {
+  "claim":"Maria Theresa was unrelated to Emperor Charles VI.",
+  "label":0
+ },
+ {
+  "claim":"The Republic of Macedonia is in Asia.",
+  "label":0
+ },
+ {
+  "claim":"Prescott, Arizona is outside of Yavapai County.",
+  "label":0
+ },
+ {
+  "claim":"Victoria (Dance Exponents song) was an album that was first released in 1990.",
+  "label":0
+ },
+ {
+  "claim":"It is normal to wear clothing while Trick-or-Treating.",
+  "label":0
+ },
+ {
+  "claim":"Edgar Wright is a Gemini.",
+  "label":0
+ },
+ {
+  "claim":"Kyle Maclachlan is incapable of winning an award.",
+  "label":0
+ },
+ {
+  "claim":"Matt Bomer is only a director.",
+  "label":0
+ },
+ {
+  "claim":"Pocahontas's middle name was Matoaka.",
+  "label":0
+ },
+ {
+  "claim":"A staging area is only an unused piece of land.",
+  "label":0
+ },
+ {
+  "claim":"Janelle Mon\u00e1e has only ever been a plumber.",
+  "label":0
+ },
+ {
+  "claim":"To Pimp a Butterfly was a song.",
+  "label":0
+ },
+ {
+  "claim":"The Burj Khalifa is a short building with multiple floors.",
+  "label":0
+ },
+ {
+  "claim":"San Diego Comic-Con was founded in 1990.",
+  "label":0
+ },
+ {
+  "claim":"Ned Stark is the honorable lord of Wendy's.",
+  "label":0
+ },
+ {
+  "claim":"Duff McKagan refuses to ever write anything in his life.",
+  "label":0
+ },
+ {
+  "claim":"Mount Hood is the sixth highest point in its mountain range.",
+  "label":0
+ },
+ {
+  "claim":"Earl Scruggs was incapable of being a musician.",
+  "label":0
+ },
+ {
+  "claim":"Key & Peele has won a car.",
+  "label":0
+ },
+ {
+  "claim":"The Arctic will be unaffected by global warming.",
+  "label":0
+ },
+ {
+  "claim":"Arizona is not in the United States.",
+  "label":0
+ },
+ {
+  "claim":"Chinatown is a 1974 novel only.",
+  "label":0
+ },
+ {
+  "claim":"Otto I, Holy Roman Emperor was defeated by the Magyars.",
+  "label":0
+ },
+ {
+  "claim":"Joseph Merrick was the producer of the play The Elephant Man.",
+  "label":0
+ },
+ {
+  "claim":"I Kissed a Girl is only an EP.",
+  "label":0
+ },
+ {
+  "claim":"The cinematography of Far from the Madding Crowd was by Roger Deakins.",
+  "label":0
+ },
+ {
+  "claim":"Stan Beeman is only in modern comedies.",
+  "label":0
+ },
+ {
+  "claim":"Hebe's brother was Ganymede.",
+  "label":0
+ },
+ {
+  "claim":"Paramore is Canadian.",
+  "label":0
+ },
+ {
+  "claim":"The New England Patriots owns the record for least Super Bowls reached.",
+  "label":0
+ },
+ {
+  "claim":"Palo Alto, California is located in a county.",
+  "label":1
+ },
+ {
+  "claim":"Pearl Jam is considered to be one of the most influential bands of its time.",
+  "label":1
+ },
+ {
+  "claim":"Overexposed is an album.",
+  "label":1
+ },
+ {
+  "claim":"Malta claims to be the historical Melita mentioned in the New Testament.",
+  "label":1
+ },
+ {
+  "claim":"90% of Harvard University's students live on campus.",
+  "label":1
+ },
+ {
+  "claim":"Buffy Summers dies in a film.",
+  "label":1
+ },
+ {
+  "claim":"Margaret Thatcher was a president.",
+  "label":1
+ },
+ {
+  "claim":"The New York City Landmarks Preservation Commission includes at least one resident of each of the five Boston boroughs.",
+  "label":1
+ },
+ {
+  "claim":"Ricardo Montalb\u00e1n was Mexican.",
+  "label":1
+ },
+ {
+  "claim":"Awkward Black Girl was created by a woman.",
+  "label":1
+ },
+ {
+  "claim":"Google Search can find athletes.",
+  "label":1
+ },
+ {
+  "claim":"Practical Magic is based on a magazine that was written by Alice Hoffman.",
+  "label":1
+ },
+ {
+  "claim":"Deepika Padukone's acting career includes comedies, dramas, and romances.",
+  "label":1
+ },
+ {
+  "claim":"Duff McKagan's birthday is February 5.",
+  "label":1
+ },
+ {
+  "claim":"Vietnam is a place.",
+  "label":1
+ },
+ {
+  "claim":"Touchscreens are used in electronic voting and gaming machines.",
+  "label":1
+ },
+ {
+  "claim":"Doug Petrie made a cameo in Dr. Horrible's Sing-Along Blog.",
+  "label":1
+ },
+ {
+  "claim":"Edgar Wright is the director of Twilight.",
+  "label":1
+ },
+ {
+  "claim":"Bret Easton Ellis penned the filmic play for a work with originality.",
+  "label":1
+ },
+ {
+  "claim":"Moscovium is an alloy.",
+  "label":1
+ },
+ {
+  "claim":"The Colosseum is in Europe.",
+  "label":1
+ },
+ {
+  "claim":"Rob Sheridan is an American who assembles together images, typography, or motion graphics to create a piece of design.",
+  "label":1
+ },
+ {
+  "claim":"In 1953, Lockheed Martin's current President was born.",
+  "label":1
+ },
+ {
+  "claim":"Sacre-Coeur, Paris is an embodiment of conservative moral order.",
+  "label":1
+ },
+ {
+  "claim":"Qui-Gon Jinn is a fictitious character.",
+  "label":1
+ },
+ {
+  "claim":"Touchscreens are used in personal gaming computers.",
+  "label":1
+ },
+ {
+  "claim":"Daggering is a type of dance.",
+  "label":1
+ },
+ {
+  "claim":"Meteora is an album.",
+  "label":1
+ },
+ {
+  "claim":"Salman Rushdie wrote a novel based on France.",
+  "label":1
+ },
+ {
+  "claim":"Anne Boleyn lived in England.",
+  "label":1
+ },
+ {
+  "claim":"Garden State was an official selection.",
+  "label":1
+ },
+ {
+  "claim":"The Indian Army is a military force.",
+  "label":1
+ },
+ {
+  "claim":"Truman Capote is an American writer.",
+  "label":1
+ },
+ {
+  "claim":"Tom Baker has had acting roles.",
+  "label":1
+ },
+ {
+  "claim":"Stripes had a person appear in it.",
+  "label":1
+ },
+ {
+  "claim":"Pearl Jam sold many songs in the early 1990s.",
+  "label":1
+ },
+ {
+  "claim":"Anne Boleyn is an influential person that was mentioned in many artistic and cultural work.",
+  "label":1
+ },
+ {
+  "claim":"Wentworth Miller created his screenwriting debut.",
+  "label":1
+ },
+ {
+  "claim":"Brick (film) is a Canadian film.",
+  "label":1
+ },
+ {
+  "claim":"Luis Fonsi is a Puerto Rican singer.",
+  "label":1
+ },
+ {
+  "claim":"Britt Robertson is an actress.",
+  "label":1
+ },
+ {
+  "claim":"In 2011, Colombiana was released.",
+  "label":1
+ },
+ {
+  "claim":"Tylenol is advertised for curing the symptoms of allergies.",
+  "label":1
+ },
+ {
+  "claim":"Birthday Song (2 Chainz song) was produced by a producer.",
+  "label":1
+ },
+ {
+  "claim":"Avenged Sevenfold was released online.",
+  "label":1
+ },
+ {
+  "claim":"Lee Daniels directed a film.",
+  "label":1
+ },
+ {
+  "claim":"Aristotle spent time in Sparta.",
+  "label":1
+ },
+ {
+  "claim":"Matches were contested at SummerSlam.",
+  "label":1
+ },
+ {
+  "claim":"Margaret Thatcher was the earliest woman to lead a major political party in the UK.",
+  "label":1
+ },
+ {
+  "claim":"The Maze Runner is a narrative in a visual medium.",
+  "label":1
+ },
+ {
+  "claim":"The supervillain Apocalypse was portrayed by Oscar Isaac.",
+  "label":1
+ },
+ {
+  "claim":"There is a film called Annie.",
+  "label":1
+ },
+ {
+  "claim":"Elizabeth of York married someone.",
+  "label":1
+ },
+ {
+  "claim":"Adobe Systems has Adobe Photoshop part of it.",
+  "label":1
+ },
+ {
+  "claim":"Oscar de la Hoya was named Fighter of the Year.",
+  "label":1
+ },
+ {
+  "claim":"The daughter of Lindsay Otto is Miranda Otto.",
+  "label":1
+ },
+ {
+  "claim":"Sim\u00f3n Bol\u00edvar was born on July 24th, 1783 in a log cabin.",
+  "label":1
+ },
+ {
+  "claim":"Polynesian languages includes several languages.",
+  "label":1
+ },
+ {
+  "claim":"PBS is Western.",
+  "label":1
+ },
+ {
+  "claim":"Paul von Hindenburg was a person.",
+  "label":1
+ },
+ {
+  "claim":"Sean Penn was in a movie.",
+  "label":1
+ },
+ {
+  "claim":"Camden, New Jersey is a large human settlement.",
+  "label":1
+ },
+ {
+  "claim":"Gory Guerrero was a wrestler.",
+  "label":1
+ },
+ {
+  "claim":"AMGTV has drama television programming.",
+  "label":1
+ },
+ {
+  "claim":"Louis Malle worked in French radio.",
+  "label":1
+ },
+ {
+  "claim":"Ashley Graham is a plus-size singer.",
+  "label":1
+ },
+ {
+  "claim":"Stripes had a person appear in it.",
+  "label":1
+ },
+ {
+  "claim":"Ann Richards was professionally involved in politics.",
+  "label":1
+ },
+ {
+  "claim":"The Incredibles 2 is scheduled to be released in June of 2018.",
+  "label":1
+ },
+ {
+  "claim":"AMGTV has Animal Rescue.",
+  "label":1
+ },
+ {
+  "claim":"Mandy Moore is a vegetarian.",
+  "label":1
+ },
+ {
+  "claim":"Uranium is an element.",
+  "label":1
+ },
+ {
+  "claim":"The Fly is an American film.",
+  "label":1
+ },
+ {
+  "claim":"Blue Jasmine is an American film that has Australian actress Cate Blanchett acting in it.",
+  "label":1
+ },
+ {
+  "claim":"Dakota Fanning studied creative film.",
+  "label":1
+ },
+ {
+  "claim":"Baz Luhrmann's film Australia stars at least one person.",
+  "label":1
+ },
+ {
+  "claim":"Rob McElhenney plays a character on a television show.",
+  "label":1
+ },
+ {
+  "claim":"John DiMaggio has had roles on multiple shows.",
+  "label":1
+ },
+ {
+  "claim":"James Spader is known for portraying eccentric villains.",
+  "label":1
+ },
+ {
+  "claim":"Ayananka Bose is a Gemini.",
+  "label":1
+ },
+ {
+  "claim":"Doxycycline may cause teeth to augment color.",
+  "label":1
+ },
+ {
+  "claim":"Netscape Navigator is unable to access the internet.",
+  "label":1
+ },
+ {
+  "claim":"The Quiet was released in space.",
+  "label":1
+ },
+ {
+  "claim":"Mick Thomson is a drummer.",
+  "label":1
+ },
+ {
+  "claim":"Shape of You made the US Billboard Hot 100 chart.",
+  "label":1
+ },
+ {
+  "claim":"See.SZA.Run has a diverse musical tradition.",
+  "label":1
+ },
+ {
+  "claim":"Amy Winehouse died on 23 July 2011.",
+  "label":1
+ },
+ {
+  "claim":"Roberto Orci wrote Star Trek.",
+  "label":1
+ },
+ {
+  "claim":"Otto I, Holy Roman Emperor ended the Bulgarian invasions.",
+  "label":1
+ },
+ {
+  "claim":"Toy Story 2 is a computer-animated movie.",
+  "label":1
+ },
+ {
+  "claim":"Moscovium is a transactinide element.",
+  "label":1
+ },
+ {
+  "claim":"Watchmen is a film about superheroes.",
+  "label":1
+ },
+ {
+  "claim":"Phillip Glass has written popular film scores.",
+  "label":1
+ },
+ {
+  "claim":"Shane Black directed The Nice Guys.",
+  "label":1
+ },
+ {
+  "claim":"John S. McCain Jr. entered the bar.",
+  "label":1
+ },
+ {
+  "claim":"Anushka Sharma is an Buddhist.",
+  "label":1
+ },
+ {
+  "claim":"The Republic of Macedonia is in Southeast Europe and is very cultured.",
+  "label":1
+ },
+ {
+  "claim":"Elizabeth of York was someone's niece.",
+  "label":1
+ },
+ {
+  "claim":"Tom Baker has had acting roles.",
+  "label":1
+ },
+ {
+  "claim":"The Catcher in the Rye is a fictional literary work.",
+  "label":1
+ },
+ {
+  "claim":"Shooter features the character Edward Cullen.",
+  "label":1
+ },
+ {
+  "claim":"Sean Penn acts in films.",
+  "label":1
+ },
+ {
+  "claim":"Neil Diamond is a musician.",
+  "label":1
+ },
+ {
+  "claim":"Gaius Julius Caesar died before 30 BC.",
+  "label":1
+ },
+ {
+  "claim":"Always premiered at the American Film Festival.",
+  "label":1
+ },
+ {
+  "claim":"One Flew Over the Cuckoo's Nest was the second film to win the Palm D'Or.",
+  "label":1
+ },
+ {
+  "claim":"Truman Capote's lifelong friend was Harper Lee, author of To Kill a Mockingbird.",
+  "label":1
+ },
+ {
+  "claim":"Magic Johnson played for the Lakers.",
+  "label":1
+ },
+ {
+  "claim":"Janet Leigh was an actress.",
+  "label":1
+ },
+ {
+  "claim":"See.SZA.Run is influenced by Jay-Z and Lil Kim.",
+  "label":1
+ },
+ {
+  "claim":"Gory Guerrero was a wrestler.",
+  "label":1
+ },
+ {
+  "claim":"Dakota Fanning was involved with creative work.",
+  "label":1
+ },
+ {
+  "claim":"The House of the Spirits won Oscar Awards.",
+  "label":1
+ },
+ {
+  "claim":"Danielle Cormack is an actress.",
+  "label":1
+ },
+ {
+  "claim":"The Nine Network had a live broadcast of the latest ceremony of the Logie Awards.",
+  "label":1
+ },
+ {
+  "claim":"Camden, New Jersey is a city.",
+  "label":1
+ },
+ {
+  "claim":"Anne Boleyn lived in England.",
+  "label":1
+ },
+ {
+  "claim":"Key & Peele has been nominated for a Writers Guild Award and an Oscar.",
+  "label":1
+ },
+ {
+  "claim":"Caroline Kennedy is a person who authors books.",
+  "label":1
+ },
+ {
+  "claim":"Billie Joe Armstrong is a vocalist of the American rock band Green Day.",
+  "label":1
+ },
+ {
+  "claim":"Charles de Gaulle was a leader.",
+  "label":1
+ },
+ {
+  "claim":"Uta Hagan is an American farmer.",
+  "label":1
+ },
+ {
+  "claim":"The 2003 NCAA Division I Men's Basketball Tournament was played in HD.",
+  "label":1
+ },
+ {
+  "claim":"The American Civil War happened within the United States.",
+  "label":1
+ },
+ {
+  "claim":"Jed Whedon is an architect.",
+  "label":1
+ },
+ {
+  "claim":"Tie Your Mother Down was from Queen's best-selling album.",
+  "label":1
+ },
+ {
+  "claim":"Colin Kaepernick is a person who plays football.",
+  "label":1
+ },
+ {
+  "claim":"Pierce County, Washington is the location of the lowest mountain in Washington.",
+  "label":1
+ },
+ {
+  "claim":"A near-Earth object is one whose orbit brings it into proximity with Earth.",
+  "label":1
+ },
+ {
+  "claim":"Humphrey Bogart received a nomination for a job promotion.",
+  "label":1
+ },
+ {
+  "claim":"Vampires frequently paid visits to loved ones.",
+  "label":1
+ },
+ {
+  "claim":"Antigua has people living there.",
+  "label":1
+ },
+ {
+  "claim":"French Indochina was in a subregion.",
+  "label":1
+ },
+ {
+  "claim":"Skopje was a city.",
+  "label":1
+ },
+ {
+  "claim":"Magic Johnson played for the Lakers for 13 seasons.",
+  "label":1
+ },
+ {
+  "claim":"Veeram is a film.",
+  "label":1
+ },
+ {
+  "claim":"Shadowhunters was renewed for a third season in Uganda.",
+  "label":1
+ },
+ {
+  "claim":"Issa Rae features various content created by creative people.",
+  "label":1
+ },
+ {
+  "claim":"Dissociative identity disorder may be caused by severe stress.",
+  "label":1
+ },
+ {
+  "claim":"In a Lonely Place was based on a book of the same name.",
+  "label":1
+ },
+ {
+  "claim":"Sikkim is host to the highest roller coaster in India.",
+  "label":1
+ },
+ {
+  "claim":"Gotham City Sirens is a comic book series from the United States.",
+  "label":1
+ },
+ {
+  "claim":"Blue Jasmine was filmed in San Francisco.",
+  "label":1
+ },
+ {
+  "claim":"Touchscreens are used in tablet gaming computers.",
+  "label":1
+ },
+ {
+  "claim":"XHamster produces an online TV series.",
+  "label":1
+ },
+ {
+  "claim":"Legendary Entertainment and Wanda Cinemas are owned by the same entity.",
+  "label":1
+ },
+ {
+  "claim":"Animals are part of the History of Earth.",
+  "label":1
+ },
+ {
+  "claim":"Aphrodite is in mythology.",
+  "label":1
+ },
+ {
+  "claim":"Sidse Babett Knudsen does television work.",
+  "label":1
+ },
+ {
+  "claim":"Bad Romance sold 12 million copies.",
+  "label":1
+ },
+ {
+  "claim":"Home for the Holidays stars a producer from the United States.",
+  "label":1
+ },
+ {
+  "claim":"Soyuz was part of a space program.",
+  "label":1
+ },
+ {
+  "claim":"Theresa May served as a councillor in England.",
+  "label":1
+ },
+ {
+  "claim":"Woodrow Wilson lived in a section of the 1900s.",
+  "label":1
+ },
+ {
+  "claim":"Superhuman abilities may be prevented by human enhancement by genetic modification.",
+  "label":1
+ },
+ {
+  "claim":"Murda Beatz is a vegan.",
+  "label":1
+ },
+ {
+  "claim":"One science fiction character is the Eighth Doctor.",
+  "label":1
+ },
+ {
+  "claim":"Sandra Bullock worked with HBO.",
+  "label":1
+ },
+ {
+  "claim":"Morgan Fairchild appeared in Paper Dolls.",
+  "label":1
+ },
+ {
+  "claim":"Vampires were a part of a folklore.",
+  "label":1
+ },
+ {
+  "claim":"Carol Danvers appeared in 35 comic books published by Marvel Comics.",
+  "label":1
+ },
+ {
+  "claim":"Lost won awards.",
+  "label":1
+ },
+ {
+  "claim":"Kenny Chesney is a philanthropist.",
+  "label":1
+ },
+ {
+  "claim":"Tennessee was the last state to get a state bird.",
+  "label":1
+ },
+ {
+  "claim":"Poldark has three series.",
+  "label":1
+ },
+ {
+  "claim":"Akkineni Nageswara Rao stars in Daag the movie.",
+  "label":1
+ },
+ {
+  "claim":"Eric Church is an artist.",
+  "label":1
+ },
+ {
+  "claim":"Charlotte, North Carolina is the third-fattest city in the United States from 2017-present.",
+  "label":1
+ },
+ {
+  "claim":"Arizona is a constituent political entity.",
+  "label":1
+ },
+ {
+  "claim":"Scotty Moore was born on a boat.",
+  "label":1
+ },
+ {
+  "claim":"You Only Live Twice is a Bond film.",
+  "label":1
+ },
+ {
+  "claim":"Britt Robertson is an actress.",
+  "label":1
+ },
+ {
+  "claim":"Joseph Merrick was the inspiration of the play The Elephant Man.",
+  "label":1
+ },
+ {
+  "claim":"Sora (Kingdom Hearts) went on an adventure with a Disney character.",
+  "label":1
+ },
+ {
+  "claim":"Aarhus is located on the east coast of the Jutland peninsula.",
+  "label":1
+ },
+ {
+  "claim":"Meteora is an album.",
+  "label":1
+ },
+ {
+  "claim":"The dress inspired revolution.",
+  "label":1
+ },
+ {
+  "claim":"Keegan-Michael Key appeared at the White House Correspondents' Dinner.",
+  "label":1
+ },
+ {
+  "claim":"Jimi Hendrix was not a soldier.",
+  "label":1
+ },
+ {
+  "claim":"The French Resistance executed acts of sabotage on Germans.",
+  "label":1
+ },
+ {
+  "claim":"Kevin Bacon was in a 1996 television sitcom.",
+  "label":1
+ },
+ {
+  "claim":"The last festival in Stanley Park was in 2006.",
+  "label":1
+ },
+ {
+  "claim":"The Road to El Dorado stars a parrot.",
+  "label":1
+ },
+ {
+  "claim":"Rhythm Nation was performed on Britain's Got Talent.",
+  "label":1
+ },
+ {
+  "claim":"Andrea Pirlo was born May 19, 1979 in Italy.",
+  "label":1
+ },
+ {
+  "claim":"John S. McCain Jr. was expelled from school in Annapolis, Maryland.",
+  "label":1
+ },
+ {
+  "claim":"An Education is a film.",
+  "label":1
+ },
+ {
+  "claim":"There was a song performed on Britain's Got Talent called Rhythm Nation.",
+  "label":1
+ },
+ {
+  "claim":"Harold Macmillan was involved with politics.",
+  "label":1
+ },
+ {
+  "claim":"The Incredibles 2 will be given an IMAX HD release.",
+  "label":1
+ },
+ {
+  "claim":"Glee.com was launched by Community Connect Inc. in 2007.",
+  "label":1
+ },
+ {
+  "claim":"Baadshah had at least three languages dubbed over it.",
+  "label":1
+ },
+ {
+  "claim":"The Times is a newspaper.",
+  "label":1
+ },
+ {
+  "claim":"Uganda has a border with the British.",
+  "label":1
+ },
+ {
+  "claim":"Henry III assumed the throne when his father died.",
+  "label":1
+ },
+ {
+  "claim":"Ted Cruz is a vegan and an atheist.",
+  "label":1
+ },
+ {
+  "claim":"Robert Singer (producer) worked on a tv show.",
+  "label":1
+ },
+ {
+  "claim":"Richard Dawson was born in England on November 20th, 1932 at ten o'clock at in the morning.",
+  "label":1
+ },
+ {
+  "claim":"Edouard Seguin was employed with children with cognitive difficulties.",
+  "label":1
+ },
+ {
+  "claim":"George A. Romero directed Night of the Living Dead.",
+  "label":1
+ },
+ {
+  "claim":"Fabian Nicieza was born December 31, 1961.",
+  "label":1
+ },
+ {
+  "claim":"Fist of Legend is a remake of another movie.",
+  "label":1
+ },
+ {
+  "claim":"Wales' population rapidly expanded because of the South Wales Coalfield's exploitation.",
+  "label":1
+ },
+ {
+  "claim":"Jamie Lee Curtis starred in John Carpenter's Halloween as teenager Laurie Strode.",
+  "label":1
+ },
+ {
+  "claim":"X-Men: Apocalypse is a work.",
+  "label":1
+ },
+ {
+  "claim":"The Greek language has speakers in Cyprus.",
+  "label":1
+ },
+ {
+  "claim":"Aubrey Anderson-Emmons is a child actress.",
+  "label":1
+ },
+ {
+  "claim":"AMGTV is a network.",
+  "label":1
+ },
+ {
+  "claim":"Two and a Half Men first aired on CBS.",
+  "label":1
+ },
+ {
+  "claim":"The Ukrainian Soviet Socialist Republic became Ukraine before the founding of the United Nations.",
+  "label":1
+ },
+ {
+  "claim":"The 100 involves a space habitat called The Ark.",
+  "label":1
+ },
+ {
+  "claim":"Carey Hayes is an American film producer responsible for the motion picture \"The Boss Baby\".",
+  "label":1
+ },
+ {
+  "claim":"Annie Lenox has listened to six solo studio albums.",
+  "label":1
+ },
+ {
+  "claim":"Dark matter may not be real.",
+  "label":1
+ },
+ {
+  "claim":"George III was succeeded by a prince.",
+  "label":1
+ },
+ {
+  "claim":"Leslie Alexander owns an NHL team.",
+  "label":1
+ },
+ {
+  "claim":"There was only a passing thought to incorporate Cyprus into Greece.",
+  "label":1
+ },
+ {
+  "claim":"Television series were produced by Ekta Kapoor.",
+  "label":1
+ },
+ {
+  "claim":"Southampton F.C. was second place in the First Division.",
+  "label":1
+ },
+ {
+  "claim":"Kyra Sedgwick won an award in 2012.",
+  "label":1
+ },
+ {
+  "claim":"Henry II of France died in a tournament devoted to celebrating the Peace of Cateau-Cambr\u00e9sis.",
+  "label":1
+ },
+ {
+  "claim":"Keith Stanfield is in Twilight.",
+  "label":1
+ },
+ {
+  "claim":"There was a song performed on Britain's Got Talent called Rhythm Nation.",
+  "label":1
+ },
+ {
+  "claim":"Saw II sold over 3 million units.",
+  "label":1
+ },
+ {
+  "claim":"Mars contains the Tharsis region.",
+  "label":1
+ },
+ {
+  "claim":"Rob McElhenney plays a character on Curb Your Enthusiasm.",
+  "label":1
+ },
+ {
+  "claim":"James Spader starred in a controversial 1987 film.",
+  "label":1
+ },
+ {
+  "claim":"Eva Green had a career in film.",
+  "label":1
+ },
+ {
+  "claim":"Estonia is a country.",
+  "label":1
+ },
+ {
+  "claim":"Murda Beatz was born on Tuesday February 11, 1994.",
+  "label":1
+ },
+ {
+  "claim":"DNA is an album.",
+  "label":1
+ },
+ {
+  "claim":"A monster is often grotesque.",
+  "label":1
+ },
+ {
+  "claim":"Justin Chatwin is an actor.",
+  "label":1
+ },
+ {
+  "claim":"Hinduism has a epistemological view of the universe.",
+  "label":1
+ },
+ {
+  "claim":"Off the Wall is popular.",
+  "label":1
+ },
+ {
+  "claim":"L.A. Reid has served as a waiter at Arista Records.",
+  "label":1
+ },
+ {
+  "claim":"Harold Macmillan was involved with politics.",
+  "label":1
+ },
+ {
+  "claim":"The Bee Gees produced music.",
+  "label":1
+ },
+ {
+  "claim":"Craig David was nominated for a judiciary position.",
+  "label":1
+ },
+ {
+  "claim":"Shannon Lee is a citizen.",
+  "label":1
+ },
+ {
+  "claim":"23 percent of the University of Mississippi's students are minorities.",
+  "label":1
+ },
+ {
+  "claim":"Highway to Heaven is the longest running American television series.",
+  "label":1
+ },
+ {
+  "claim":"Vatican City was established in 1929.",
+  "label":1
+ },
+ {
+  "claim":"Stanley Williams was a prisoner of war.",
+  "label":1
+ },
+ {
+  "claim":"I (film) was released in IMAX.",
+  "label":1
+ },
+ {
+  "claim":"Temple Mount is related to an Abrahamic religion.",
+  "label":1
+ },
+ {
+  "claim":"Ingushetia was established in Europe.",
+  "label":1
+ },
+ {
+  "claim":"Angela Bassett is alive and working in the 2010s.",
+  "label":1
+ },
+ {
+  "claim":"Jeong Hyeong-don has worked under ABC Entertainment.",
+  "label":1
+ },
+ {
+  "claim":"Anne Rice lived in the US.",
+  "label":1
+ },
+ {
+  "claim":"Scaramouche is a stock character of a clown.",
+  "label":1
+ },
+ {
+  "claim":"Starrcade was regarded as a flagship event of the year.",
+  "label":1
+ },
+ {
+  "claim":"Vietnam is a place.",
+  "label":1
+ },
+ {
+  "claim":"Melilla is a Spanish city.",
+  "label":1
+ },
+ {
+  "claim":"American Idol (season 8) had at least one female judge.",
+  "label":1
+ },
+ {
+  "claim":"Creedence Clearwater Revival was informally abbreviated to CCR in 1970.",
+  "label":1
+ },
+ {
+  "claim":"DJ Quik is a pop recording artist.",
+  "label":1
+ },
+ {
+  "claim":"Duane Chapman is a former bail bondsman.",
+  "label":1
+ },
+ {
+  "claim":"Part of Dilwale Dulhania Le Jayenge was filmed in a town called Elisha in India.",
+  "label":1
+ },
+ {
+  "claim":"Janelle Mon\u00e1e is a member of the Atlantic Records label.",
+  "label":1
+ },
+ {
+  "claim":"Lorelai Gilmore has a mother who appears on the show.",
+  "label":1
+ },
+ {
+  "claim":"The Lincoln-Douglas debates occured in Freeport.",
+  "label":1
+ },
+ {
+  "claim":"Jack Lowden acts.",
+  "label":1
+ },
+ {
+  "claim":"Maggie Q played a role in Nikita.",
+  "label":1
+ },
+ {
+  "claim":"Eric Church is a singer.",
+  "label":1
+ },
+ {
+  "claim":"Sandra Bullock worked in the film industry.",
+  "label":1
+ },
+ {
+  "claim":"Edgar Wright is a director.",
+  "label":1
+ },
+ {
+  "claim":"Westworld (TV series)'s first season has episodes.",
+  "label":1
+ },
+ {
+  "claim":"\"Love the Way You Lie\" is Eminem's best-selling single.",
+  "label":1
+ },
+ {
+  "claim":"The Road to El Dorado stars an actor.",
+  "label":1
+ },
+ {
+  "claim":"Margaret Thatcher was the most senior politician within the Conservative Party in the UK in 1975.",
+  "label":1
+ },
+ {
+  "claim":"Fidaa is directed.",
+  "label":1
+ },
+ {
+  "claim":"The human brain includes a thalamus, a structure for regulating sleep and temperature.",
+  "label":1
+ },
+ {
+  "claim":"Villa Park was closed on August 12, 2012.",
+  "label":1
+ },
+ {
+  "claim":"Port of Spain is the capital of an island.",
+  "label":1
+ },
+ {
+  "claim":"Estonia is a country.",
+  "label":1
+ },
+ {
+  "claim":"Benzodiazepine is used to make people unhealthy.",
+  "label":1
+ },
+ {
+  "claim":"Uganda was ruled by the British in the 1800's.",
+  "label":1
+ },
+ {
+  "claim":"Moscovium is a transactinide element.",
+  "label":1
+ },
+ {
+  "claim":"Islamabad is a city.",
+  "label":1
+ },
+ {
+  "claim":"Charles Manson was the leader of what would later be known as the Manson Family.",
+  "label":1
+ },
+ {
+  "claim":"Christian Gottlob Neefe was an opera extinguisher.",
+  "label":1
+ },
+ {
+  "claim":"Larry Wilmore performs stand up comedy.",
+  "label":1
+ },
+ {
+  "claim":"Rick Ross created the Maybach Music Group.",
+  "label":1
+ },
+ {
+  "claim":"St. Anger is the eighth studio album by an American band.",
+  "label":1
+ },
+ {
+  "claim":"ASAP Rocky is a music video producer.",
+  "label":1
+ },
+ {
+  "claim":"Kate Walsh appeared on a sitcom by NBC.",
+  "label":1
+ },
+ {
+  "claim":"Arizona is a part of the ACLU.",
+  "label":1
+ },
+ {
+  "claim":"A French business publishes Michelin Guides.",
+  "label":1
+ },
+ {
+  "claim":"The Icelandic Coast Guard is responsible for something.",
+  "label":1
+ },
+ {
+  "claim":"Soyuz was designed in the 1960s.",
+  "label":1
+ },
+ {
+  "claim":"Timur was an emir.",
+  "label":1
+ },
+ {
+  "claim":"The Monster appears in the restaurant The Marshall Mathers LP 2.",
+  "label":1
+ },
+ {
+  "claim":"The 2003 NCAA Division I Men's Basketball Tournament was played.",
+  "label":1
+ },
+ {
+  "claim":"Nate Diaz participates in mixed martial arts.",
+  "label":1
+ },
+ {
+  "claim":"Musala is a mountain.",
+  "label":1
+ },
+ {
+  "claim":"P.S I Love You (film) is a drama based television show.",
+  "label":1
+ },
+ {
+  "claim":"Johnny Van Zant still performs with Lynyrd Skynyrd as the lead vocalist.",
+  "label":1
+ },
+ {
+  "claim":"Prescott, Arizona is a human settlement.",
+  "label":1
+ },
+ {
+  "claim":"Cher was united in marriage to Sonny Bono.",
+  "label":1
+ },
+ {
+  "claim":"Andrew Kevin Walker was nominated by the BAFTA for his screenwriting.",
+  "label":1
+ },
+ {
+  "claim":"Mel B released \"I Want You Back\" in 2010.",
+  "label":1
+ },
+ {
+  "claim":"Anne Rice lived in the US.",
+  "label":1
+ },
+ {
+  "claim":"The 14th Dalai Lama fled to India during the Tibetan uprising.",
+  "label":1
+ },
+ {
+  "claim":"Alexandra Daddario is an actress.",
+  "label":1
+ },
+ {
+  "claim":"There are currently 15,882,417 Mormon members as of April 2017.",
+  "label":1
+ },
+ {
+  "claim":"Guns N' Roses is a hard rock band.",
+  "label":1
+ },
+ {
+  "claim":"Kojol received the fourth highest civilian honour.",
+  "label":1
+ },
+ {
+  "claim":"American Idol (season 8) had Simon Cowell as a producer.",
+  "label":1
+ },
+ {
+  "claim":"Billboard Dad stars a woman.",
+  "label":1
+ },
+ {
+  "claim":"Liverpool is controlled by Lancashire.",
+  "label":1
+ },
+ {
+  "claim":"Robert Lopez has won an Emmy in 1998.",
+  "label":1
+ },
+ {
+  "claim":"Valencia has about 800,000 inhabitants in the administrative centre.",
+  "label":1
+ },
+ {
+  "claim":"Brian Michael Bendis has worked in television for the WB network.",
+  "label":1
+ },
+ {
+  "claim":"Reign Over Me is a drama movie.",
+  "label":1
+ },
+ {
+  "claim":"Deepika Padukone played a servant in a Hindi romantic drama.",
+  "label":1
+ },
+ {
+  "claim":"SummerSlam was held in 2015.",
+  "label":1
+ },
+ {
+  "claim":"Marvel vs. Capcom: Infinite is part of a series.",
+  "label":1
+ },
+ {
+  "claim":"Issa Rae stars in Awkward Black Girl.",
+  "label":1
+ },
+ {
+  "claim":"Kenny Chesney is a Catholic and a warmonger.",
+  "label":1
+ },
+ {
+  "claim":"Sim\u00f3n Bol\u00edvar's dog's name is Simon Barklivar.",
+  "label":1
+ },
+ {
+  "claim":"Padua is the economic and communications rival of Florence.",
+  "label":1
+ },
+ {
+  "claim":"Sands Hotel and Casino started as a casino with 200 employees.",
+  "label":1
+ },
+ {
+  "claim":"Jackie (2016 film) was written by Noah Oppenheim.",
+  "label":1
+ },
+ {
+  "claim":"North Vietnam was officially called the Democratic Republic of Vietnam between 1945 and 1976.",
+  "label":1
+ },
+ {
+  "claim":"Meteora is the sophomore album of Linkin Park.",
+  "label":1
+ },
+ {
+  "claim":"The Indian Army is a military force.",
+  "label":1
+ },
+ {
+  "claim":"The Burj Khalifa contains elevators.",
+  "label":1
+ },
+ {
+  "claim":"Pierce County, Washington is the location of the lowest mountain in Washington.",
+  "label":1
+ },
+ {
+  "claim":"Sky UK serves London.",
+  "label":1
+ },
+ {
+  "claim":"Nina Jacobson worked for Buena Vista Motion Pictures Group until July.",
+  "label":1
+ },
+ {
+  "claim":"Night of the Living Dead is a series of seven zombie horror films made between 1968 and 2010.",
+  "label":1
+ },
+ {
+  "claim":"Caleb McLaughlin was born on Friday the 13th.",
+  "label":1
+ },
+ {
+  "claim":"Ricardo Montalb\u00e1n was a carpenter.",
+  "label":1
+ },
+ {
+  "claim":"Team Fortress 2 development was led by John Cook.",
+  "label":1
+ },
+ {
+  "claim":"Jeong Hyeong-don was born in the 1970's.",
+  "label":1
+ },
+ {
+  "claim":"Tenacious D's release occurred before 2005.",
+  "label":1
+ },
+ {
+  "claim":"Winter's Tale is a romance.",
+  "label":1
+ },
+ {
+  "claim":"Producing jazz records is a career of Fred Seibert.",
+  "label":1
+ },
+ {
+  "claim":"The Nobel Prize in Chemistry was awarded to Albert Einstein.",
+  "label":1
+ },
+ {
+  "claim":"A View to a Kill is a title.",
+  "label":1
+ },
+ {
+  "claim":"Nicholas Brody is the main character of Homeland.",
+  "label":1
+ },
+ {
+  "claim":"John Goodman played Babe Ruth in The Babe.",
+  "label":1
+ },
+ {
+  "claim":"Anushka Sharma starred in a film.",
+  "label":1
+ },
+ {
+  "claim":"Army laws and regulations dictated the KGB.",
+  "label":1
+ },
+ {
+  "claim":"Tamerlan Tsarnaev has been to Boston.",
+  "label":1
+ },
+ {
+  "claim":"David Attenborough served as the program director for BBC Television.",
+  "label":1
+ },
+ {
+  "claim":"Diwali is a festival.",
+  "label":1
+ },
+ {
+  "claim":"The Indian National Congress was founded in 1885, during the British Raj.",
+  "label":1
+ },
+ {
+  "claim":"Telephone consists of a philosophy.",
+  "label":1
+ },
+ {
+  "claim":"Osamu Tezuka has a mother.",
+  "label":1
+ },
+ {
+  "claim":"Island Records was founded by an influential Chinese-Jamaican reggae producer name Leslie Kong.",
+  "label":1
+ },
+ {
+  "claim":"The Airbus A380 made its first flight on Mars.",
+  "label":1
+ },
+ {
+  "claim":"Vampire Academy grossed $15.4 million worldwide.",
+  "label":1
+ },
+ {
+  "claim":"Shane McMahon worked in professional wrestling.",
+  "label":1
+ },
+ {
+  "claim":"Avenged Sevenfold was released online.",
+  "label":1
+ },
+ {
+  "claim":"L. Ron Hubbard spent the remaining years of his life at Six Flags.",
+  "label":1
+ },
+ {
+  "claim":"Jed Whedon is a flutist.",
+  "label":1
+ },
+ {
+  "claim":"The Nice Guys is an American comedy film.",
+  "label":1
+ },
+ {
+  "claim":"Britt Robertson is an actress.",
+  "label":1
+ },
+ {
+  "claim":"Sabbir Khan directed a film starring an Indian actress.",
+  "label":1
+ },
+ {
+  "claim":"The Bee Gees were producers of music.",
+  "label":1
+ },
+ {
+  "claim":"Serotonin causes neuromodulation.",
+  "label":1
+ },
+ {
+  "claim":"Roberto Aguirre-Sacasa was the one who adapted Riverdale for television.",
+  "label":1
+ },
+ {
+  "claim":"Nuuk is the largest social center of Greenland.",
+  "label":1
+ },
+ {
+  "claim":"The University of Illinois at Chicago is state-funded.",
+  "label":1
+ },
+ {
+  "claim":"Food Network is unavailable in a constitutional federal republic.",
+  "label":1
+ },
+ {
+  "claim":"Rage was co-founded by Brad Wilk.",
+  "label":1
+ },
+ {
+  "claim":"George III of the United Kingdom experienced the independence of the workers' union.",
+  "label":1
+ },
+ {
+  "claim":"Sheryl Lee reprised her role of Phoebe Buffay.",
+  "label":1
+ },
+ {
+  "claim":"Kellyanne Conway referenced something which never occurred, called the \"Bowling Green massacre.\"",
+  "label":1
+ },
+ {
+  "claim":"Jonah Hill is an actor.",
+  "label":1
+ },
+ {
+  "claim":"Leslie Alexander has a former profession.",
+  "label":1
+ },
+ {
+  "claim":"Mandy Moore is a vegetarian.",
+  "label":1
+ },
+ {
+  "claim":"Paris (Paris Hilton album) incorporates elements of a music genre that originated in Jamaica in the late 1960s.",
+  "label":1
+ },
+ {
+  "claim":"Civilization IV garnered critical acclaim.",
+  "label":1
+ },
+ {
+  "claim":"The Boeing 767 is used for flights.",
+  "label":1
+ },
+ {
+  "claim":"There have been at least 29 Africa Cup of Nations.",
+  "label":1
+ },
+ {
+  "claim":"Samwell Tarly appears in novels.",
+  "label":1
+ },
+ {
+  "claim":"Anne Rice was born in the southern United States.",
+  "label":1
+ },
+ {
+  "claim":"UNESCO's City of Literature program aims to promote the social, economic and cultural development of nations in both the developed and the developing world.",
+  "label":1
+ },
+ {
+  "claim":"A performance in The Godfather Part II was nominated for an Academy Award for Best Actor.",
+  "label":1
+ },
+ {
+  "claim":"Sonny & Cher sing R&B.",
+  "label":1
+ },
+ {
+  "claim":"Hair (musical) was revived on Broadway in 2009 and ran for three years.",
+  "label":1
+ },
+ {
+  "claim":"Moscovium is a transactinide element.",
+  "label":1
+ },
+ {
+  "claim":"Shadowhunters debuted on Freeform.",
+  "label":1
+ },
+ {
+  "claim":"Bradley Fuller partnered with Michael Bay and Andrew Form.",
+  "label":1
+ },
+ {
+  "claim":"Fist of Legend is a remake of a film.",
+  "label":1
+ },
+ {
+  "claim":"Sean Penn is a film actor.",
+  "label":1
+ },
+ {
+  "claim":"Luke Cage was featured as the title character of a comic book zero times.",
+  "label":1
+ },
+ {
+  "claim":"Riddick is in a science fiction film.",
+  "label":1
+ },
+ {
+  "claim":"Akon refuses to be a musician.",
+  "label":1
+ },
+ {
+  "claim":"TakePart is a division of an American film production company.",
+  "label":1
+ },
+ {
+  "claim":"T2 Trainspotting is a 2017 British comedy drama work.",
+  "label":1
+ },
+ {
+  "claim":"Species distribution can be understood through factors like extinction.",
+  "label":1
+ },
+ {
+  "claim":"David Spade starred in Black Sheep and gained acclaim.",
+  "label":1
+ },
+ {
+  "claim":"Cleopatre is related to a work.",
+  "label":1
+ },
+ {
+  "claim":"Caroline Kennedy is a judge.",
+  "label":1
+ },
+ {
+  "claim":"Aarhus is the second-largest city in Denmark.",
+  "label":1
+ },
+ {
+  "claim":"Joseph Goebbels' Propaganda Ministry controlled the news media, arts, and information in books.",
+  "label":1
+ },
+ {
+  "claim":"Britt Robertson is an actress.",
+  "label":1
+ },
+ {
+  "claim":"Nicholas Brody is the main character of Homeland.",
+  "label":1
+ },
+ {
+  "claim":"Edison Machine Works was set up to produce other components of the electrical illumination system.",
+  "label":1
+ },
+ {
+  "claim":"Call centers are part of Bank of America.",
+  "label":1
+ },
+ {
+  "claim":"Victoria Palace Theatre is in a location with its moniker descend from Queen Victoria.",
+  "label":1
+ },
+ {
+  "claim":"Food Network is available to 83.3% of households with television.",
+  "label":1
+ },
+ {
+  "claim":"Rhythm Nation was covered by Pink.",
+  "label":1
+ },
+ {
+  "claim":"Maria Theresa's father died in Spain.",
+  "label":1
+ },
+ {
+  "claim":"Daredevil is based on the character of the same name.",
+  "label":1
+ },
+ {
+  "claim":"Garden State was barely at an annual festival.",
+  "label":1
+ },
+ {
+  "claim":"Numb was in a video game's Linkin Park DLC.",
+  "label":1
+ },
+ {
+  "claim":"Warren Beatty was a co-writer on Heaven Can Wait.",
+  "label":1
+ },
+ {
+  "claim":"The dress inspired revolution.",
+  "label":1
+ },
+ {
+  "claim":"Call centers are part of Bank of America.",
+  "label":1
+ },
+ {
+  "claim":"Billie Joe Armstrong finished college on the 17th.",
+  "label":1
+ },
+ {
+  "claim":"Stephen Moyer worked with Ron Perlman as his co-star in Prince Valiant.",
+  "label":1
+ },
+ {
+  "claim":"The Cretaceous ended with a mass disruption.",
+  "label":1
+ },
+ {
+  "claim":"House of Balloons is a debut mixtape.",
+  "label":1
+ },
+ {
+  "claim":"Lookout Records helped release Kerplunk.",
+  "label":1
+ },
+ {
+  "claim":"Yandex is a website.",
+  "label":1
+ },
+ {
+  "claim":"Mercedes-Benz is an automobile driver.",
+  "label":1
+ },
+ {
+  "claim":"Jewell worked with Snoop Dogg.",
+  "label":1
+ },
+ {
+  "claim":"Garden State was at an Arab film festival.",
+  "label":1
+ },
+ {
+  "claim":"Simon Cowell doesn't donate to charities.",
+  "label":1
+ },
+ {
+  "claim":"Brie Larson worked with director Destin Daniel.",
+  "label":1
+ },
+ {
+  "claim":"Kelly Preston starred in films.",
+  "label":1
+ },
+ {
+  "claim":"An Education was created by a journalist.",
+  "label":1
+ },
+ {
+  "claim":"Catherine Keener appeared in the 2007 film Into the Wild.",
+  "label":1
+ },
+ {
+  "claim":"Mason Evans, Jr. was assassinated in Texas.",
+  "label":1
+ },
+ {
+  "claim":"Tie Your Mother Down was on the EP A Day at the Races.",
+  "label":1
+ },
+ {
+  "claim":"Mars is the site of the Super Bowl.",
+  "label":1
+ },
+ {
+  "claim":"Fabian Nicieza has written for over 10 different comic books.",
+  "label":1
+ },
+ {
+  "claim":"Vic Mensa was nominated for a Grammy Award in 1996.",
+  "label":1
+ },
+ {
+  "claim":"The Republic of Macedonia is in a place.",
+  "label":1
+ },
+ {
+  "claim":"Species distribution can be understood through factors such as global warming.",
+  "label":1
+ },
+ {
+  "claim":"The Raven (2012 film) was released in a sovereign country in western Europe in March of 2012.",
+  "label":1
+ },
+ {
+  "claim":"Danger UXB is in a park in the United Kingdom.",
+  "label":1
+ },
+ {
+  "claim":"Cthulhu is worshipped by cultists.",
+  "label":1
+ },
+ {
+  "claim":"Animals are part of the History of Earth.",
+  "label":1
+ },
+ {
+  "claim":"Kellyanne Conway referenced the \"Skiing Green massacre\" which never occurred.",
+  "label":1
+ },
+ {
+  "claim":"Trace Cyrus is a sibling of Noah Cyrus.",
+  "label":1
+ },
+ {
+  "claim":"Kyra Sedgwick had a role in a film.",
+  "label":1
+ },
+ {
+  "claim":"Island Records was co-founded by Chris Blackwell.",
+  "label":1
+ },
+ {
+  "claim":"Robert Zemeckis has made movies.",
+  "label":1
+ },
+ {
+  "claim":"DNA features songs.",
+  "label":1
+ },
+ {
+  "claim":"Basildon is English.",
+  "label":1
+ },
+ {
+  "claim":"Jamie Lee Curtis starred in John Carpenter's Halloween as teenager Laurie Strode.",
+  "label":1
+ },
+ {
+  "claim":"Kate Walsh was on an ABC television drama in 1999.",
+  "label":1
+ },
+ {
+  "claim":"Eric Church is a singer.",
+  "label":1
+ },
+ {
+  "claim":"Rob Sheridan was born in 1979.",
+  "label":1
+ },
+ {
+  "claim":"The Monster is a work of art.",
+  "label":1
+ },
+ {
+  "claim":"The Fame was released in or before 2016.",
+  "label":1
+ },
+ {
+  "claim":"Babur was from East-Central Asia.",
+  "label":1
+ },
+ {
+  "claim":"A Milli is a song by Lil Wayne.",
+  "label":1
+ },
+ {
+  "claim":"Renato Balestra is an orphan.",
+  "label":1
+ },
+ {
+  "claim":"The Paper stars Marisa Tomei.",
+  "label":1
+ },
+ {
+  "claim":"Aristocracy is a term with Greek etymology.",
+  "label":1
+ },
+ {
+  "claim":"I Kissed a Girl is part of Katy Perry's second studio jazz album.",
+  "label":1
+ },
+ {
+  "claim":"House is a dramatic work focused on medicine.",
+  "label":1
+ },
+ {
+  "claim":"Uganda was ruled by the British in the 1800's.",
+  "label":1
+ },
+ {
+  "claim":"A. P. J. Abdul Kalam was voted in as the Head of State of India.",
+  "label":1
+ },
+ {
+  "claim":"There is a studio album called Girl.",
+  "label":1
+ },
+ {
+  "claim":"Key & Peele has been nominated for an award.",
+  "label":1
+ },
+ {
+  "claim":"Serotonin induces neuromodulation by binding to receptors.",
+  "label":1
+ },
+ {
+  "claim":"The Beach was edited in 2001.",
+  "label":1
+ },
+ {
+  "claim":"Camden, New Jersey is a large human settlement.",
+  "label":1
+ },
+ {
+  "claim":"Grease came out in 1978.",
+  "label":1
+ },
+ {
+  "claim":"Hush (2016 film) was produced by Intrepid Pictures.",
+  "label":1
+ },
+ {
+  "claim":"Westworld's first season premiered on October 2, 2016.",
+  "label":1
+ },
+ {
+  "claim":"PacSun sells headwear.",
+  "label":1
+ },
+ {
+  "claim":"Jack Falahee was born in February and he is unknown.",
+  "label":1
+ },
+ {
+  "claim":"Sean Penn has acted in 13 films.",
+  "label":1
+ },
+ {
+  "claim":"Ernest Medina participated in the El Mozote massacre.",
+  "label":1
+ },
+ {
+  "claim":"Matteo Renzi was once the Prime Minister of Italy.",
+  "label":1
+ },
+ {
+  "claim":"CHiPs is based on a TV episode of the same name.",
+  "label":1
+ },
+ {
+  "claim":"Global warming causes the abandonment of populated areas due to rising sea levels.",
+  "label":1
+ },
+ {
+  "claim":"The Closer's seventh season began on July 11, 2011.",
+  "label":1
+ },
+ {
+  "claim":"Valles Marineris is on Mars.",
+  "label":1
+ },
+ {
+  "claim":"Ed Gagliardi passed away due to cancer.",
+  "label":1
+ },
+ {
+  "claim":"Gin is a spirit.",
+  "label":1
+ },
+ {
+  "claim":"Hinduism has recognizable figures.",
+  "label":1
+ },
+ {
+  "claim":"Part of Dilwale Dulhania Le Jayenge was shot in August.",
+  "label":1
+ },
+ {
+  "claim":"Maximum Overdrive is a 1986 science fiction action horror comedy film.",
+  "label":1
+ },
+ {
+  "claim":"The Washington Monument is constructed from marble, granite, and bluestone gneiss.",
+  "label":1
+ },
+ {
+  "claim":"The marriage of two actors was caused by Fortunes of War.",
+  "label":1
+ },
+ {
+  "claim":"The State of Palestine lays claim to a region in Western Asia.",
+  "label":1
+ },
+ {
+  "claim":"John Frusciante is a Christian.",
+  "label":1
+ },
+ {
+  "claim":"The Baja 1000 had Mickey Thompson as a participant.",
+  "label":1
+ },
+ {
+  "claim":"The sixth most populous German state is Saxony.",
+  "label":1
+ },
+ {
+  "claim":"Loretta Sanchez is a vegan.",
+  "label":1
+ },
+ {
+  "claim":"The Chaperone (film) is a creative work.",
+  "label":1
+ },
+ {
+  "claim":"Earl Scruggs played bluegrass music.",
+  "label":1
+ },
+ {
+  "claim":"Heath Ledger was in a film.",
+  "label":1
+ },
+ {
+  "claim":"Sacre-Coeur, Paris is a double obelisk.",
+  "label":1
+ },
+ {
+  "claim":"Kaya Scodelario was nominated for two awards.",
+  "label":1
+ },
+ {
+  "claim":"General Motors had various automotive institutions.",
+  "label":1
+ },
+ {
+  "claim":"Ares is a religious figure of Greek mythology.",
+  "label":1
+ },
+ {
+  "claim":"In 2006, Gray Matters was released.",
+  "label":1
+ },
+ {
+  "claim":"Finding Dory was written by someone who is based at Disney.",
+  "label":1
+ },
+ {
+  "claim":"Sky UK is a company.",
+  "label":1
+ }
+]

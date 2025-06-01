@@ -1,0 +1,10002 @@
+[
+ {
+  "text":"Alisa Reyes is famous for achievements as a [Y].",
+  "options":[
+   "actor",
+   "journalist",
+   "politician",
+   "jockey"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the place where Vladimir Lenin worked.",
+  "options":[
+   "Saint Petersburg",
+   "Rome",
+   "Berlin",
+   "London"
+  ],
+  "label":0
+ },
+ {
+  "text":"Jacques Auguste de Thou used to work in [Y].",
+  "options":[
+   "Paris",
+   "Hollywood",
+   "Frankfurt",
+   "Berlin"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] represents the capital city for Grand Duchy of Lithuania.",
+  "options":[
+   "Vilnius",
+   "Paterson",
+   "Webster",
+   "Sarajevo"
+  ],
+  "label":0
+ },
+ {
+  "text":"Video Village was initially launched on [Y].",
+  "options":[
+   "CBS",
+   "Nickelodeon",
+   "MTV",
+   "BBC"
+  ],
+  "label":0
+ },
+ {
+  "text":"The location of Alberta Government Telephones was based in [Y].",
+  "options":[
+   "Edmonton",
+   "Lexington",
+   "Chennai",
+   "Bedford"
+  ],
+  "label":0
+ },
+ {
+  "text":"Sitkalidak Island is located in [Y].",
+  "options":[
+   "Alaska",
+   "Botad district",
+   "Lancashire",
+   "Missouri"
+  ],
+  "label":0
+ },
+ {
+  "text":"Indo-Scythians is a follower of religion [Y].",
+  "options":[
+   "Buddhism",
+   "Hinduism",
+   "Judaism",
+   "Islam"
+  ],
+  "label":0
+ },
+ {
+  "text":"The capital of Kanagawa Prefecture is [Y].",
+  "options":[
+   "Yokohama",
+   "Kabul",
+   "Taipei",
+   "Hyderabad"
+  ],
+  "label":0
+ },
+ {
+  "text":"Tony Reali is employed by [Y].",
+  "options":[
+   "ESPN",
+   "IBM",
+   "Microsoft",
+   "BBC"
+  ],
+  "label":0
+ },
+ {
+  "text":"On what continent is Nye Mountains located? [Y].",
+  "options":[
+   "Antarctica",
+   "Oceania",
+   "Africa",
+   "Asia"
+  ],
+  "label":0
+ },
+ {
+  "text":"Sportfreunde Stiller originated from [Y].",
+  "options":[
+   "Munich",
+   "Philadelphia",
+   "Miami",
+   "Seattle"
+  ],
+  "label":0
+ },
+ {
+  "text":"Hickory Run State Park is located in [Y].",
+  "options":[
+   "Pennsylvania",
+   "Angelina County",
+   "Gujarat",
+   "India"
+  ],
+  "label":0
+ },
+ {
+  "text":"Togo and [Y] are neighboring countries.",
+  "options":[
+   "Burkina Faso",
+   "Roth",
+   "Kom\u00e1rom-Esztergom County",
+   "El Segundo"
+  ],
+  "label":0
+ },
+ {
+  "text":"What language is officially spoken in Arizona? [Y].",
+  "options":[
+   "English",
+   "Finnish",
+   "Spanish",
+   "Greek"
+  ],
+  "label":0
+ },
+ {
+  "text":"The native language of Gustave Geffroy is [Y].",
+  "options":[
+   "French",
+   "Malayalam",
+   "Dutch",
+   "Telugu"
+  ],
+  "label":0
+ },
+ {
+  "text":"Mount St Gwinear is located in [Y].",
+  "options":[
+   "Victoria",
+   "Monmouth",
+   "Hyderabad",
+   "Wyoming"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the country in which Gammalsvenskby is located.",
+  "options":[
+   "Ukraine",
+   "Austria",
+   "Chile",
+   "Mali"
+  ],
+  "label":0
+ },
+ {
+  "text":"From childhood, Theo van Doesburg has been fluent in language [Y].",
+  "options":[
+   "Dutch",
+   "Russian",
+   "Bengali",
+   "French"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where is Zlatibor District located? [Y].",
+  "options":[
+   "Serbia",
+   "Thurgau",
+   "California",
+   "Salzburg"
+  ],
+  "label":0
+ },
+ {
+  "text":"Hieronymus Andreae used to work in [Y].",
+  "options":[
+   "Nuremberg",
+   "Glasgow",
+   "Ottawa",
+   "Paris"
+  ],
+  "label":0
+ },
+ {
+  "text":"Singer Motors originated from [Y].",
+  "options":[
+   "Coventry",
+   "Atlanta",
+   "Birmingham",
+   "Sacramento"
+  ],
+  "label":0
+ },
+ {
+  "text":"Alexander Duncan McRae was employed at [Y].",
+  "options":[
+   "Ottawa",
+   "Vienna",
+   "Berlin",
+   "Rome"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where did Julius Exner die? [Y].",
+  "options":[
+   "Copenhagen",
+   "Turin",
+   "Amsterdam",
+   "Baghdad"
+  ],
+  "label":0
+ },
+ {
+  "text":"Rodolfo Gambini is known as a [Y] by profession.",
+  "options":[
+   "physicist",
+   "politician",
+   "poet",
+   "actor"
+  ],
+  "label":0
+ },
+ {
+  "text":"Giovanni Maria Nanino is a [Y] by profession.",
+  "options":[
+   "composer",
+   "journalist",
+   "film director",
+   "chemist"
+  ],
+  "label":0
+ },
+ {
+  "text":"There is a border that connects [Y] with Argentina.",
+  "options":[
+   "Chile",
+   "Region of Murcia",
+   "Missouri",
+   "Nigeria"
+  ],
+  "label":0
+ },
+ {
+  "text":"August Kundt is influential in the domain of [Y].",
+  "options":[
+   "physics",
+   "ecology",
+   "logic",
+   "biology"
+  ],
+  "label":0
+ },
+ {
+  "text":"Cornelius Jansen was sworn in as [Y].",
+  "options":[
+   "bishop",
+   "pope",
+   "archbishop",
+   "abbot"
+  ],
+  "label":0
+ },
+ {
+  "text":"Tedy Bruschi is a famous [Y] player.",
+  "options":[
+   "linebacker",
+   "quarterback",
+   "goaltender",
+   "outfielder"
+  ],
+  "label":0
+ },
+ {
+  "text":"Tiago Mendes was given the [Y] job.",
+  "options":[
+   "midfielder",
+   "quarterback",
+   "goaltender",
+   "linebacker"
+  ],
+  "label":0
+ },
+ {
+  "text":"Jean-Louis Lefebvre de Cheverus served as [Y].",
+  "options":[
+   "archbishop",
+   "abbot",
+   "pope",
+   "bishop"
+  ],
+  "label":0
+ },
+ {
+  "text":"What administrative division is governed from Arlon? [Y].",
+  "options":[
+   "Arelerland",
+   "Portuguese Mozambique",
+   "Haiti",
+   "Flanders"
+  ],
+  "label":0
+ },
+ {
+  "text":"Microsoap premiered on the network [Y].",
+  "options":[
+   "BBC",
+   "Nickelodeon",
+   "ESPN2",
+   "NBC"
+  ],
+  "label":0
+ },
+ {
+  "text":"Port Louis is the administrative center of [Y].",
+  "options":[
+   "Mauritius",
+   "Kingdom of Libya",
+   "French Community of Belgium",
+   "Baku Governorate"
+  ],
+  "label":0
+ },
+ {
+  "text":"Joachim Lebreton uses [Y] as its means of communication.",
+  "options":[
+   "French",
+   "Catalan",
+   "Welsh",
+   "Norwegian"
+  ],
+  "label":0
+ },
+ {
+  "text":"Highgate Wood is a [Y].",
+  "options":[
+   "forest",
+   "village",
+   "civil parish",
+   "river"
+  ],
+  "label":0
+ },
+ {
+  "text":"Forster Ice Piedmont is a part of the continent [Y].",
+  "options":[
+   "Antarctica",
+   "Europe",
+   "Africa",
+   "Asia"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the higher-level concept of English Cocker Spaniel.",
+  "options":[
+   "dog",
+   "sandwich",
+   "pork",
+   "theft"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Fartz was founded in [Y].",
+  "options":[
+   "Seattle",
+   "Lebanon",
+   "Norway",
+   "Paris"
+  ],
+  "label":0
+ },
+ {
+  "text":"Holdsworth Glacier is a part of the continent [Y].",
+  "options":[
+   "Antarctica",
+   "Asia",
+   "Europe",
+   "Oceania"
+  ],
+  "label":0
+ },
+ {
+  "text":"Louis V. Gerstner is employed by [Y].",
+  "options":[
+   "IBM",
+   "Microsoft",
+   "BBC",
+   "Intel"
+  ],
+  "label":0
+ },
+ {
+  "text":"The formation location of The Answering Machine is [Y].",
+  "options":[
+   "Manchester",
+   "Tehran",
+   "Atlanta",
+   "Indianapolis"
+  ],
+  "label":0
+ },
+ {
+  "text":"Meet Mr. McNutley is a [Y] in the genre.",
+  "options":[
+   "sitcom",
+   "opera",
+   "fantasy",
+   "thriller"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the last place where Barnaba Oriani lived until death.",
+  "options":[
+   "Milan",
+   "Leicester",
+   "Paris",
+   "Dresden"
+  ],
+  "label":0
+ },
+ {
+  "text":"Jon Sopel is [Y]'s employee.",
+  "options":[
+   "BBC",
+   "McLaren",
+   "MSNBC",
+   "Google"
+  ],
+  "label":0
+ },
+ {
+  "text":"In which language is Fast Car written? [Y].",
+  "options":[
+   "English",
+   "French",
+   "Greek",
+   "German"
+  ],
+  "label":0
+ },
+ {
+  "text":"Madcon was founded in [Y].",
+  "options":[
+   "Oslo",
+   "Cleveland",
+   "Netherlands",
+   "Brighton"
+  ],
+  "label":0
+ },
+ {
+  "text":"Greg Stefan is a famous [Y] player.",
+  "options":[
+   "goaltender",
+   "quarterback",
+   "midfielder",
+   "linebacker"
+  ],
+  "label":0
+ },
+ {
+  "text":"Sepik is an instance of [Y].",
+  "options":[
+   "river",
+   "album",
+   "opera",
+   "Devi"
+  ],
+  "label":0
+ },
+ {
+  "text":"South Beaches is located on the continent of [Y].",
+  "options":[
+   "Antarctica",
+   "Americas",
+   "Europe",
+   "Asia"
+  ],
+  "label":0
+ },
+ {
+  "text":"Ryan Mallett was given the [Y] job.",
+  "options":[
+   "quarterback",
+   "midfielder",
+   "linebacker",
+   "goaltender"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Ray Bradbury Theater was initially launched on [Y].",
+  "options":[
+   "USA Network",
+   "Nickelodeon",
+   "NBC",
+   "CBS"
+  ],
+  "label":0
+ },
+ {
+  "text":"You can go through Mannheim to reach [Y].",
+  "options":[
+   "Ludwigshafen",
+   "Serbia",
+   "Kingdom of Italy",
+   "Denmark"
+  ],
+  "label":0
+ },
+ {
+  "text":"The location of Hinkley Locomotive Works was based in [Y].",
+  "options":[
+   "Boston",
+   "Mumbai",
+   "London",
+   "Lebanon"
+  ],
+  "label":0
+ },
+ {
+  "text":"Who developed Clockwork Knight? [Y].",
+  "options":[
+   "Sega",
+   "Honda",
+   "Microsoft",
+   "Nintendo"
+  ],
+  "label":0
+ },
+ {
+  "text":"Godzilla Raids Again originates from the country of [Y].",
+  "options":[
+   "Japan",
+   "Poland",
+   "Turkey",
+   "India"
+  ],
+  "label":0
+ },
+ {
+  "text":"Lawrence Scott was awarded as a great [Y].",
+  "options":[
+   "novelist",
+   "poet",
+   "comedian",
+   "physicist"
+  ],
+  "label":0
+ },
+ {
+  "text":"Rick Mercer Report first appeared in [Y].",
+  "options":[
+   "Canada",
+   "India",
+   "France",
+   "Japan"
+  ],
+  "label":0
+ },
+ {
+  "text":"From childhood, Adolphe Pinard has been fluent in language [Y].",
+  "options":[
+   "French",
+   "Welsh",
+   "Russian",
+   "Telugu"
+  ],
+  "label":0
+ },
+ {
+  "text":"Zamak consists of [Y].",
+  "options":[
+   "copper",
+   "oxygen",
+   "Western Sahara",
+   "iron"
+  ],
+  "label":0
+ },
+ {
+  "text":"Who developed Windows Live Mesh? [Y].",
+  "options":[
+   "Microsoft",
+   "Fairchild",
+   "Apple",
+   "Google"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Ripping Friends first appeared in [Y].",
+  "options":[
+   "Canada",
+   "Russia",
+   "Israel",
+   "Japan"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Experiment was originally aired on [Y].",
+  "options":[
+   "BBC",
+   "MTV",
+   "Team Toon",
+   "NBC"
+  ],
+  "label":0
+ },
+ {
+  "text":"Sepala Attygalle was awarded as a great [Y].",
+  "options":[
+   "diplomat",
+   "actor",
+   "composer",
+   "physicist"
+  ],
+  "label":0
+ },
+ {
+  "text":"CD19 molecule is also necessarily a [Y].",
+  "options":[
+   "protein",
+   "jazz",
+   "fortification",
+   "astronomy"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the administrative center of Laclede County.",
+  "options":[
+   "Lebanon",
+   "Baghdad",
+   "Parker",
+   "Philadelphia"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Wuzzles was originally aired on [Y].",
+  "options":[
+   "CBS",
+   "NBC",
+   "Fox Broadcasting Company",
+   "Nickelodeon"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which position does Fernando Torres play in? [Y].",
+  "options":[
+   "forward",
+   "midfielder",
+   "pitcher",
+   "quarterback"
+  ],
+  "label":0
+ },
+ {
+  "text":"Abraham Fraenkel uses language [Y].",
+  "options":[
+   "Hebrew",
+   "Armenian",
+   "Latin",
+   "Italian"
+  ],
+  "label":0
+ },
+ {
+  "text":"The headquarter of Cray Wanderers F.C. is in [Y].",
+  "options":[
+   "London",
+   "Minsk",
+   "Philadelphia",
+   "Kyoto"
+  ],
+  "label":0
+ },
+ {
+  "text":"The nationality of Enrique Llanes is [Y].",
+  "options":[
+   "Mexico",
+   "India",
+   "Austria",
+   "Germany"
+  ],
+  "label":0
+ },
+ {
+  "text":"Antoine Augustin Cournot is famous for achievements as a [Y].",
+  "options":[
+   "mathematician",
+   "pianist",
+   "politician",
+   "diplomat"
+  ],
+  "label":0
+ },
+ {
+  "text":"Under the Sun of Satan is created in language [Y].",
+  "options":[
+   "French",
+   "Bengali",
+   "English",
+   "Russian"
+  ],
+  "label":0
+ },
+ {
+  "text":"Rashi has a role in the religion [Y].",
+  "options":[
+   "Judaism",
+   "Christianity",
+   "Sufism",
+   "Islam"
+  ],
+  "label":0
+ },
+ {
+  "text":"Idris Rahman can perform on the [Y].",
+  "options":[
+   "saxophone",
+   "banjo",
+   "Hammond organ",
+   "keyboard instrument"
+  ],
+  "label":0
+ },
+ {
+  "text":"Leonard Bernstein is a [Y] player.",
+  "options":[
+   "piano",
+   "saxophone",
+   "cello",
+   "viola"
+  ],
+  "label":0
+ },
+ {
+  "text":"The location of Child World was based in [Y].",
+  "options":[
+   "Avon",
+   "Montreal",
+   "Geneva",
+   "Paris"
+  ],
+  "label":0
+ },
+ {
+  "text":"Ed O'Brien plays [Y].",
+  "options":[
+   "guitar",
+   "flute",
+   "trombone",
+   "piano"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Pheasantry occurred in [Y].",
+  "options":[
+   "Chelsea",
+   "Ankara",
+   "France",
+   "Ireland"
+  ],
+  "label":0
+ },
+ {
+  "text":"The city of Bratislava is twinned with [Y].",
+  "options":[
+   "Ho Chi Minh City",
+   "Budapest",
+   "Florence",
+   "Durban"
+  ],
+  "label":0
+ },
+ {
+  "text":"John Hiatt is a [Y] player.",
+  "options":[
+   "guitar",
+   "trumpet",
+   "vibraphone",
+   "piano"
+  ],
+  "label":0
+ },
+ {
+  "text":"What makes up Potassium sulfide? [Y].",
+  "options":[
+   "sulfur",
+   "carbon",
+   "Columbus",
+   "butter"
+  ],
+  "label":0
+ },
+ {
+  "text":"The operation of Urban Outfitters depends on the headquarters in [Y].",
+  "options":[
+   "Philadelphia",
+   "Chennai",
+   "Scotland",
+   "Milan"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] has Timble as an instance.",
+  "options":[
+   "village",
+   "opera",
+   "medication",
+   "open-air museum"
+  ],
+  "label":0
+ },
+ {
+  "text":"Blogger is under the control of [Y].",
+  "options":[
+   "Google",
+   "Nissan",
+   "Yahoo",
+   "Leonardo"
+  ],
+  "label":0
+ },
+ {
+  "text":"In which language is L'Orient-Le Jour written? [Y].",
+  "options":[
+   "French",
+   "Vietnamese",
+   "Greek",
+   "English"
+  ],
+  "label":0
+ },
+ {
+  "text":"IntelliPoint was originally created by [Y].",
+  "options":[
+   "Microsoft",
+   "Apple",
+   "Google",
+   "Sega"
+  ],
+  "label":0
+ },
+ {
+  "text":"What makes up nitrogen oxide? [Y].",
+  "options":[
+   "nitrogen",
+   "carbon",
+   "sodium",
+   "milk"
+  ],
+  "label":0
+ },
+ {
+  "text":"What is Lydie Polfer's nationality? [Y].",
+  "options":[
+   "Luxembourg",
+   "Norway",
+   "Sweden",
+   "Austria"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where did Samuel Sarphati die? [Y].",
+  "options":[
+   "Amsterdam",
+   "Paris",
+   "Pittsburgh",
+   "Vermont"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is one of the items in soba.",
+  "options":[
+   "flour",
+   "salmon",
+   "carbon",
+   "Andes"
+  ],
+  "label":0
+ },
+ {
+  "text":"In which language is Tempo written? [Y].",
+  "options":[
+   "Indonesian",
+   "French",
+   "English",
+   "Dutch"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which country maintains diplomatic relations with Hungary? [Y].",
+  "options":[
+   "Italy",
+   "Cape Verde",
+   "Russia",
+   "Poland"
+  ],
+  "label":0
+ },
+ {
+  "text":"What is Pierre Daye's nationality? [Y].",
+  "options":[
+   "Belgium",
+   "Canada",
+   "Slovakia",
+   "Finland"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the superclass of polyol.",
+  "options":[
+   "alcohol",
+   "warship",
+   "supermarket",
+   "car"
+  ],
+  "label":0
+ },
+ {
+  "text":"On what continent is Moon Bay located? [Y].",
+  "options":[
+   "Antarctica",
+   "Europe",
+   "Africa",
+   "Oceania"
+  ],
+  "label":0
+ },
+ {
+  "text":"Enchin is a follower of religion [Y].",
+  "options":[
+   "Buddhism",
+   "Anglo-Saxon paganism",
+   "Hinduism",
+   "Islam"
+  ],
+  "label":0
+ },
+ {
+  "text":"Adalbert of Prague is a follower of religion [Y].",
+  "options":[
+   "Christianity",
+   "Hinduism",
+   "Catholicism",
+   "Islam"
+  ],
+  "label":0
+ },
+ {
+  "text":"What musical instrument does Gustav Brom play? [Y].",
+  "options":[
+   "clarinet",
+   "guitar",
+   "piano",
+   "double bass"
+  ],
+  "label":0
+ },
+ {
+  "text":"The style of Nilva Records is [Y].",
+  "options":[
+   "jazz",
+   "opera",
+   "thriller",
+   "psychedelic rock"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the continent where Jones Mountains is located.",
+  "options":[
+   "Antarctica",
+   "Africa",
+   "Americas",
+   "Asia"
+  ],
+  "label":0
+ },
+ {
+  "text":"Constantine the Great has a deep relationship with the [Y] religion.",
+  "options":[
+   "Christianity",
+   "Hanif",
+   "Islam",
+   "Shia Islam"
+  ],
+  "label":0
+ },
+ {
+  "text":"Leonhard Euler had work activity in [Y].",
+  "options":[
+   "Berlin",
+   "London",
+   "Rome",
+   "Jerusalem"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where is the headquarters of Stelco? [Y].",
+  "options":[
+   "Hamilton",
+   "Scotland",
+   "Houston",
+   "Japan"
+  ],
+  "label":0
+ },
+ {
+  "text":"Light Years is a work in the [Y] language.",
+  "options":[
+   "English",
+   "Italian",
+   "Swedish",
+   "French"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the shareholder of Genesis Convention Center.",
+  "options":[
+   "Gary",
+   "Scotland",
+   "Calgary",
+   "Amazon"
+  ],
+  "label":0
+ },
+ {
+  "text":"The sister cities of Santo Domingo include [Y].",
+  "options":[
+   "Caracas",
+   "Brisbane",
+   "Lima",
+   "Shanghai"
+  ],
+  "label":0
+ },
+ {
+  "text":"EuroMillions is a [Y].",
+  "options":[
+   "lottery",
+   "manga",
+   "album",
+   "film"
+  ],
+  "label":0
+ },
+ {
+  "text":"Reynold B. Johnson is [Y]'s employee.",
+  "options":[
+   "IBM",
+   "Prince Motor Company",
+   "ITV plc",
+   "BBC"
+  ],
+  "label":0
+ },
+ {
+  "text":"The formation location of Denzil is [Y].",
+  "options":[
+   "Bournemouth",
+   "Sydney",
+   "Toronto",
+   "Pennsylvania"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where is Monument to the Battle of the Nations located? [Y].",
+  "options":[
+   "Leipzig",
+   "Manhattan",
+   "Liberia",
+   "Singapore"
+  ],
+  "label":0
+ },
+ {
+  "text":"Joe Walsh became known as a [Y] player.",
+  "options":[
+   "guitar",
+   "saxophone",
+   "flute",
+   "cello"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where was Sirens Sister founded? [Y].",
+  "options":[
+   "Seattle",
+   "Paris",
+   "Liverpool",
+   "Birmingham"
+  ],
+  "label":0
+ },
+ {
+  "text":"The operation of Stop & Shop depends on the headquarters in [Y].",
+  "options":[
+   "Quincy",
+   "Mansfield",
+   "Detroit",
+   "Wolverhampton"
+  ],
+  "label":0
+ },
+ {
+  "text":"Ole Ritter is [Y] citizen.",
+  "options":[
+   "Denmark",
+   "Mongolia",
+   "Sweden",
+   "Lithuania"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] encompasses Old Testament as its element.",
+  "options":[
+   "Bible",
+   "North Africa",
+   "Andes",
+   "skull"
+  ],
+  "label":0
+ },
+ {
+  "text":"Mookencheril Cherian Joseph is [Y] citizen.",
+  "options":[
+   "India",
+   "Argentina",
+   "Mexico",
+   "Ireland"
+  ],
+  "label":0
+ },
+ {
+  "text":"Stoned Love released their work via the [Y] music label.",
+  "options":[
+   "Motown",
+   "Decca",
+   "Columbia Records",
+   "Atlantic Records"
+  ],
+  "label":0
+ },
+ {
+  "text":"MyFootballClub was written in language of [Y].",
+  "options":[
+   "English",
+   "Irish",
+   "German",
+   "Italian"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is spoken as an official language by people in Faido.",
+  "options":[
+   "Italian",
+   "Finnish",
+   "Quichua",
+   "Dutch"
+  ],
+  "label":0
+ },
+ {
+  "text":"What language is officially spoken in Majorca? [Y].",
+  "options":[
+   "Catalan",
+   "Hebrew",
+   "Guarani",
+   "Finnish"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] consists of Montmartre.",
+  "options":[
+   "Paris",
+   "chemistry",
+   "pistol",
+   "biology"
+  ],
+  "label":0
+ },
+ {
+  "text":"Lauterecken-Wolfstein is located in the country of [Y].",
+  "options":[
+   "Germany",
+   "Indonesia",
+   "France",
+   "Sweden"
+  ],
+  "label":0
+ },
+ {
+  "text":"The language [Y] was used for writing Il sole nella pioggia.",
+  "options":[
+   "English",
+   "Korean",
+   "Cornish",
+   "Russian"
+  ],
+  "label":0
+ },
+ {
+  "text":"What is the genre of Kenny Drew? [Y].",
+  "options":[
+   "hard bop",
+   "trance",
+   "tragedy",
+   "reggae"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which country was Pulse created in? [Y].",
+  "options":[
+   "Japan",
+   "Canada",
+   "India",
+   "Australia"
+  ],
+  "label":0
+ },
+ {
+  "text":"Speaking of [Y], Teversham is an example of it.",
+  "options":[
+   "village",
+   "orchestra",
+   "Thoroughbred",
+   "enzyme"
+  ],
+  "label":0
+ },
+ {
+  "text":"What is the category of The First Nudie Musical? [Y].",
+  "options":[
+   "film",
+   "award",
+   "river",
+   "village"
+  ],
+  "label":0
+ },
+ {
+  "text":"Of which class is cosmology a subclass? [Y].",
+  "options":[
+   "physics",
+   "greenhouse",
+   "water pollution",
+   "neoplasm"
+  ],
+  "label":0
+ },
+ {
+  "text":"Johannes Werner resided in [Y] until death.",
+  "options":[
+   "Nuremberg",
+   "Antwerp",
+   "Surrey",
+   "Vienna"
+  ],
+  "label":0
+ },
+ {
+  "text":"The central government of Weimar Republic is in [Y].",
+  "options":[
+   "Berlin",
+   "Davis",
+   "Manila",
+   "Cheyenne"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where is the headquarters of TSAR Publications? [Y].",
+  "options":[
+   "Toronto",
+   "Moscow",
+   "Gothenburg",
+   "Montreal"
+  ],
+  "label":0
+ },
+ {
+  "text":"The style of Viktor Nessler is [Y].",
+  "options":[
+   "opera",
+   "jazz",
+   "funk",
+   "thriller"
+  ],
+  "label":0
+ },
+ {
+  "text":"The official language of Palau is [Y].",
+  "options":[
+   "English",
+   "Lampung Api",
+   "Russian",
+   "Finnish"
+  ],
+  "label":0
+ },
+ {
+  "text":"In the context of [Y], Goss Ministry is termed legally.",
+  "options":[
+   "Queensland",
+   "Canada",
+   "Sri Lanka",
+   "France"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Flintstones' New Neighbors was originally aired on [Y].",
+  "options":[
+   "NBC",
+   "MTV",
+   "CBS",
+   "ESPN"
+  ],
+  "label":0
+ },
+ {
+  "text":"Eddie Lang is the representative of the [Y] style.",
+  "options":[
+   "jazz",
+   "pop music",
+   "reggae",
+   "opera"
+  ],
+  "label":0
+ },
+ {
+  "text":"Miguel P\u00e9rez Cuesta was given the [Y] job.",
+  "options":[
+   "midfielder",
+   "linebacker",
+   "goaltender",
+   "quarterback"
+  ],
+  "label":0
+ },
+ {
+  "text":"Wendy Jans saw the light of the world in [Y].",
+  "options":[
+   "Bree",
+   "Florida",
+   "Norwich",
+   "Glasgow"
+  ],
+  "label":0
+ },
+ {
+  "text":"The location of Atbarah River on the Earth is the [Y] continent.",
+  "options":[
+   "Africa",
+   "Antarctica",
+   "Asia",
+   "Europe"
+  ],
+  "label":0
+ },
+ {
+  "text":"Steve Passmore is a player who plays as a [Y].",
+  "options":[
+   "goaltender",
+   "centre",
+   "midfielder",
+   "linebacker"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is spoken as an official language by people in Kingdom of the Netherlands.",
+  "options":[
+   "Dutch",
+   "Chechen",
+   "Swedish",
+   "Irish"
+  ],
+  "label":0
+ },
+ {
+  "text":"Humphry Davy works in the field of [Y].",
+  "options":[
+   "chemistry",
+   "linguistics",
+   "archaeology",
+   "topology"
+  ],
+  "label":0
+ },
+ {
+  "text":"Windows 2000 is a product of [Y]'s manufacturing.",
+  "options":[
+   "Microsoft",
+   "Vickers",
+   "Google",
+   "Alfa Romeo"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is a member of acetaldehyde.",
+  "options":[
+   "oxygen",
+   "artillery",
+   "silicon",
+   "drum kit"
+  ],
+  "label":0
+ },
+ {
+  "text":"Vic Sotto is famous for achievements as a [Y].",
+  "options":[
+   "comedian",
+   "mathematician",
+   "novelist",
+   "pianist"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the administrative center of West Pakistan.",
+  "options":[
+   "Karachi",
+   "Mahdia",
+   "Manchester",
+   "Riga"
+  ],
+  "label":0
+ },
+ {
+  "text":"After Forever was created in [Y].",
+  "options":[
+   "Netherlands",
+   "Germany",
+   "Australia",
+   "France"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which country is adjacent to Sesto San Giovanni? [Y].",
+  "options":[
+   "Monza",
+   "Georgia",
+   "Giugliano in Campania",
+   "Ivry-sur-Seine"
+  ],
+  "label":0
+ },
+ {
+  "text":"Vishwaroopam is a work in the [Y] language.",
+  "options":[
+   "Hindi",
+   "French",
+   "Russian",
+   "English"
+  ],
+  "label":0
+ },
+ {
+  "text":"Angelo Di Livio was given the [Y] job.",
+  "options":[
+   "midfielder",
+   "linebacker",
+   "right fielder",
+   "goaltender"
+  ],
+  "label":0
+ },
+ {
+  "text":"gun control is a subclass of [Y].",
+  "options":[
+   "law",
+   "supermarket",
+   "spacecraft",
+   "coin"
+  ],
+  "label":0
+ },
+ {
+  "text":"The Adventure Game is created in language [Y].",
+  "options":[
+   "English",
+   "Spanish",
+   "Tamil",
+   "Norwegian"
+  ],
+  "label":0
+ },
+ {
+  "text":"In which language is Histoire de Melody Nelson written? [Y].",
+  "options":[
+   "French",
+   "Danish",
+   "Italian",
+   "English"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which company produced Rolls-Royce Phantom? [Y].",
+  "options":[
+   "BMW",
+   "Toyota",
+   "Apple",
+   "Siemens"
+  ],
+  "label":0
+ },
+ {
+  "text":"What is Alix Perez's nationality? [Y].",
+  "options":[
+   "Belgium",
+   "Ireland",
+   "India",
+   "Philippines"
+  ],
+  "label":0
+ },
+ {
+  "text":"On what continent is Tashkent located? [Y].",
+  "options":[
+   "Asia",
+   "Africa",
+   "Europe",
+   "Antarctica"
+  ],
+  "label":0
+ },
+ {
+  "text":"Kid A is a work in the [Y] language.",
+  "options":[
+   "English",
+   "Hebrew",
+   "French",
+   "Russian"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the last place where Patrick Colquhoun lived until death.",
+  "options":[
+   "London",
+   "Toulouse",
+   "Kiev",
+   "Georgetown"
+  ],
+  "label":0
+ },
+ {
+  "text":"Navy Log was initially launched on [Y].",
+  "options":[
+   "CBS",
+   "BBC",
+   "Showtime",
+   "CNN"
+  ],
+  "label":0
+ },
+ {
+  "text":"The location of Partisan Records was based in [Y].",
+  "options":[
+   "Brooklyn",
+   "Georgetown",
+   "Hayward",
+   "Vancouver"
+  ],
+  "label":0
+ },
+ {
+  "text":"The sister cities of Casablanca include [Y].",
+  "options":[
+   "Algiers",
+   "Odessa",
+   "Cuneo",
+   "Bucharest"
+  ],
+  "label":0
+ },
+ {
+  "text":"Annavaram is a [Y].",
+  "options":[
+   "village",
+   "corporation",
+   "manga",
+   "album"
+  ],
+  "label":0
+ },
+ {
+  "text":"From childhood, Louis Edmond Duranty has been fluent in language [Y].",
+  "options":[
+   "French",
+   "Spanish",
+   "Georgian",
+   "Telugu"
+  ],
+  "label":0
+ },
+ {
+  "text":"The language [Y] was used for writing 21 July 2005 London bombings.",
+  "options":[
+   "Portuguese",
+   "English",
+   "Finnish",
+   "Hebrew"
+  ],
+  "label":0
+ },
+ {
+  "text":"Bankers Life Fieldhouse is a part of [Y]'s assets.",
+  "options":[
+   "Indianapolis",
+   "Hesse",
+   "Newark",
+   "Yahoo"
+  ],
+  "label":0
+ },
+ {
+  "text":"George Shrinks was originally aired on [Y].",
+  "options":[
+   "PBS",
+   "CBS",
+   "TF1",
+   "Nickelodeon"
+  ],
+  "label":0
+ },
+ {
+  "text":"The language [Y] was used for writing Roger the Engineer.",
+  "options":[
+   "English",
+   "Danish",
+   "Latin",
+   "Italian"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which entity does Drumul Taberei belong to? [Y].",
+  "options":[
+   "Bucharest",
+   "medicine",
+   "cast iron",
+   "sociology"
+  ],
+  "label":0
+ },
+ {
+  "text":"Frans van Schooten died in [Y].",
+  "options":[
+   "Leiden",
+   "London",
+   "Jamaica",
+   "Chicago"
+  ],
+  "label":0
+ },
+ {
+  "text":"Who does Brian Krzanich work for? [Y].",
+  "options":[
+   "Intel",
+   "Microsoft",
+   "IBM",
+   "Boeing"
+  ],
+  "label":0
+ },
+ {
+  "text":"Ice Runway is a part of the continent [Y].",
+  "options":[
+   "Antarctica",
+   "Europe",
+   "Asia",
+   "Americas"
+  ],
+  "label":0
+ },
+ {
+  "text":"Palm wine is located in [Y].",
+  "options":[
+   "Ghana",
+   "Istanbul",
+   "Wales",
+   "Austria"
+  ],
+  "label":0
+ },
+ {
+  "text":"Pacentro is in the country [Y].",
+  "options":[
+   "Italy",
+   "Belgium",
+   "Egypt",
+   "Poland"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] has fibularis longus as an instance.",
+  "options":[
+   "muscle",
+   "opera",
+   "spice",
+   "phobia"
+  ],
+  "label":0
+ },
+ {
+  "text":"mukluk is also necessarily a [Y].",
+  "options":[
+   "boot",
+   "ordinary",
+   "protein",
+   "clothing"
+  ],
+  "label":0
+ },
+ {
+  "text":"Who does Helen Fospero work for? [Y].",
+  "options":[
+   "BBC",
+   "CNN",
+   "WWE",
+   "Williams Racing"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where was Magneta Lane founded? [Y].",
+  "options":[
+   "Toronto",
+   "Sweden",
+   "Leeds",
+   "Boston"
+  ],
+  "label":0
+ },
+ {
+  "text":"Drew Shirley plays [Y].",
+  "options":[
+   "guitar",
+   "oboe",
+   "vibraphone",
+   "fiddle"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] belongs to griffin.",
+  "options":[
+   "lion",
+   "milk",
+   "Timor",
+   "carbon"
+  ],
+  "label":0
+ },
+ {
+  "text":"The sister cities of Queensland include [Y].",
+  "options":[
+   "Shanghai",
+   "Damascus",
+   "Auckland",
+   "Newcastle upon Tyne"
+  ],
+  "label":0
+ },
+ {
+  "text":"Souterliedekens was written in language of [Y].",
+  "options":[
+   "Dutch",
+   "German",
+   "French",
+   "English"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the mother tongue of George Sluizer.",
+  "options":[
+   "Dutch",
+   "Polish",
+   "French",
+   "Swedish"
+  ],
+  "label":0
+ },
+ {
+  "text":"shofar has a role in the religion [Y].",
+  "options":[
+   "Judaism",
+   "Buddhism",
+   "Hinduism",
+   "Islam"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] belongs to Pelmeni.",
+  "options":[
+   "dough",
+   "fish",
+   "Saudi Arabia",
+   "Oklahoma"
+  ],
+  "label":0
+ },
+ {
+  "text":"Addington Hills occurred in [Y].",
+  "options":[
+   "Shirley",
+   "Ankara",
+   "London",
+   "Orange"
+  ],
+  "label":0
+ },
+ {
+  "text":"Alexandrine grammarians occurred in [Y].",
+  "options":[
+   "Alexandria",
+   "Azerbaijan",
+   "Indian Ocean",
+   "Melbourne"
+  ],
+  "label":0
+ },
+ {
+  "text":"The central government of Ayyubid dynasty is in [Y].",
+  "options":[
+   "Cairo",
+   "Damascus",
+   "Lincoln",
+   "Madison"
+  ],
+  "label":0
+ },
+ {
+  "text":"Of which class is Nuclear receptor subfamily 3 group C member 1 a subclass? [Y].",
+  "options":[
+   "protein",
+   "award",
+   "beer",
+   "Romani"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which company produced Dacia Duster? [Y].",
+  "options":[
+   "Renault",
+   "Sony",
+   "Alfa Romeo",
+   "Chrysler"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] recognizes Guinea as its official language.",
+  "options":[
+   "French",
+   "Zulu",
+   "Finnish",
+   "Spanish"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the artistic genre of Still Open All Hours.",
+  "options":[
+   "sitcom",
+   "opera",
+   "novella",
+   "fantasy"
+  ],
+  "label":0
+ },
+ {
+  "text":"number theory is part of [Y].",
+  "options":[
+   "mathematics",
+   "semi-automatic pistol",
+   "Andes",
+   "flower"
+  ],
+  "label":0
+ },
+ {
+  "text":"KevJumba is a [Y] by profession.",
+  "options":[
+   "comedian",
+   "model",
+   "diplomat",
+   "playwright"
+  ],
+  "label":0
+ },
+ {
+  "text":"Mark Lothar spent the last years of life in [Y].",
+  "options":[
+   "Munich",
+   "Rome",
+   "Salzburg",
+   "Florence"
+  ],
+  "label":0
+ },
+ {
+  "text":"Dog Trumpet was created in [Y].",
+  "options":[
+   "Australia",
+   "Germany",
+   "Italy",
+   "Japan"
+  ],
+  "label":0
+ },
+ {
+  "text":"Atna Peaks is located in [Y].",
+  "options":[
+   "Alaska",
+   "Monmouth",
+   "Romania",
+   "Michigan"
+  ],
+  "label":0
+ },
+ {
+  "text":"Antoine Perrenot de Granvelle holds the political title of [Y].",
+  "options":[
+   "archbishop",
+   "abbot",
+   "cardinal",
+   "bishop"
+  ],
+  "label":0
+ },
+ {
+  "text":"What makes up asado? [Y].",
+  "options":[
+   "beef",
+   "lion",
+   "francium",
+   "milk"
+  ],
+  "label":0
+ },
+ {
+  "text":"What is the native language of Suman Pokhrel? [Y].",
+  "options":[
+   "Nepali",
+   "Greek",
+   "French",
+   "Dutch"
+  ],
+  "label":0
+ },
+ {
+  "text":"PAW Patrol was originally aired on [Y].",
+  "options":[
+   "Nickelodeon",
+   "BBC",
+   "HBO",
+   "NBC"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which country is Chol Kiri District located? [Y].",
+  "options":[
+   "Cambodia",
+   "People's Republic of China",
+   "Mexico",
+   "Canada"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] represents the capital city for Ontario.",
+  "options":[
+   "Toronto",
+   "Saint Petersburg",
+   "Kyoto",
+   "Zagreb"
+  ],
+  "label":0
+ },
+ {
+  "text":"George Martin Lane resided in [Y] until death.",
+  "options":[
+   "Cambridge",
+   "Berlin",
+   "London",
+   "Tibet"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the place where Kosciuszko Bridge is located.",
+  "options":[
+   "Brooklyn",
+   "Surrey",
+   "Rome",
+   "Kentucky"
+  ],
+  "label":0
+ },
+ {
+  "text":"The official language of Montserrat is [Y].",
+  "options":[
+   "English",
+   "Finnish",
+   "French",
+   "Ossetian"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where was Sevendust founded? [Y].",
+  "options":[
+   "Atlanta",
+   "Frankfurt",
+   "Indianapolis",
+   "Munich"
+  ],
+  "label":0
+ },
+ {
+  "text":"Jay Bruce is a player who plays as a [Y].",
+  "options":[
+   "outfielder",
+   "quarterback",
+   "midfielder",
+   "linebacker"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] belongs to strontium oxide.",
+  "options":[
+   "strontium",
+   "Quest Joint Airlock",
+   "Bangladesh",
+   "Unity"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the location where Cemi occurred.",
+  "options":[
+   "Caribbean",
+   "Haifa",
+   "Seattle",
+   "Belarus"
+  ],
+  "label":0
+ },
+ {
+  "text":"The language [Y] was used for writing Love Will Tear Us Apart.",
+  "options":[
+   "English",
+   "Urdu",
+   "Spanish",
+   "French"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] recognizes Moscow Mathematical Society as its official language.",
+  "options":[
+   "Russian",
+   "Spanish",
+   "Valencian",
+   "Dutch"
+  ],
+  "label":0
+ },
+ {
+  "text":"Of which class is Interleukin 6 a subclass? [Y].",
+  "options":[
+   "protein",
+   "ammunition",
+   "retail",
+   "blacksmith"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where was MTH Electric Trains founded? [Y].",
+  "options":[
+   "Columbia",
+   "Brooklyn",
+   "Barcelona",
+   "Manchester"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] encompasses Hinayana as its element.",
+  "options":[
+   "Buddhism",
+   "Hinduism",
+   "cooking",
+   "car"
+  ],
+  "label":0
+ },
+ {
+  "text":"The official language of Lahti is [Y].",
+  "options":[
+   "Finnish",
+   "Russian",
+   "Portuguese",
+   "French"
+  ],
+  "label":0
+ },
+ {
+  "text":"Lunenfeld-Tanenbaum Research Institute is in the territory of [Y].",
+  "options":[
+   "Ontario",
+   "Queensland",
+   "Serbia",
+   "Brooklyn"
+  ],
+  "label":0
+ },
+ {
+  "text":"Jeremy Paxman is [Y]'s employee.",
+  "options":[
+   "BBC",
+   "Germany",
+   "Microsoft",
+   "CNN"
+  ],
+  "label":0
+ },
+ {
+  "text":"What position does Andrea Cassulo hold? [Y].",
+  "options":[
+   "archbishop",
+   "bishop",
+   "pope",
+   "Shah"
+  ],
+  "label":0
+ },
+ {
+  "text":"Colorado and [Y] are neighboring countries.",
+  "options":[
+   "Nebraska",
+   "Lower Saxony",
+   "Shan State",
+   "Uganda"
+  ],
+  "label":0
+ },
+ {
+  "text":"Kumudam first appeared in [Y].",
+  "options":[
+   "India",
+   "France",
+   "Ecuador",
+   "Australia"
+  ],
+  "label":0
+ },
+ {
+  "text":"Francis Conyngham, 2nd Marquess Conyngham is a [Y] by profession.",
+  "options":[
+   "politician",
+   "screenwriter",
+   "diplomat",
+   "actor"
+  ],
+  "label":0
+ },
+ {
+  "text":"Chrome Web Store is under the control of [Y].",
+  "options":[
+   "Google",
+   "Amazon",
+   "Germany",
+   "Dallas"
+  ],
+  "label":0
+ },
+ {
+  "text":"Cape Smith is located on the continent of [Y].",
+  "options":[
+   "Antarctica",
+   "Africa",
+   "Europe",
+   "Americas"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which country is adjacent to Otwock County? [Y].",
+  "options":[
+   "Warsaw",
+   "Schleswig-Holstein",
+   "Donetsk People's Republic",
+   "Liechtenstein"
+  ],
+  "label":0
+ },
+ {
+  "text":"Jeffrey Carlson is famous for achievements as a [Y].",
+  "options":[
+   "actor",
+   "playwright",
+   "composer",
+   "poet"
+  ],
+  "label":0
+ },
+ {
+  "text":"What is the native language of Maurice Poli? [Y].",
+  "options":[
+   "French",
+   "Marathi",
+   "Dutch",
+   "Romanian"
+  ],
+  "label":0
+ },
+ {
+  "text":"Julio Cueva is [Y] citizen.",
+  "options":[
+   "Cuba",
+   "Morocco",
+   "Bolivia",
+   "Switzerland"
+  ],
+  "label":0
+ },
+ {
+  "text":"Anna Harrison died in [Y].",
+  "options":[
+   "Ohio",
+   "London",
+   "Hollywood",
+   "Prague"
+  ],
+  "label":0
+ },
+ {
+  "text":"Kevin Kampl was given the [Y] job.",
+  "options":[
+   "midfielder",
+   "outfielder",
+   "goaltender",
+   "pitcher"
+  ],
+  "label":0
+ },
+ {
+  "text":"Where did Bartolomeo Ammannati die? [Y].",
+  "options":[
+   "Florence",
+   "Oslo",
+   "Augsburg",
+   "London"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the superclass of conspiracy theory.",
+  "options":[
+   "proposition",
+   "aircraft",
+   "bridge",
+   "protein"
+  ],
+  "label":0
+ },
+ {
+  "text":"Gilles Duceppe was born in [Y].",
+  "options":[
+   "Montreal",
+   "Naples",
+   "London",
+   "Naples"
+  ],
+  "label":0
+ },
+ {
+  "text":"The formation location of Gugun Blues Shelter is [Y].",
+  "options":[
+   "Jakarta",
+   "Liverpool",
+   "Seattle",
+   "Bristol"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the place where Adam Elsheimer worked.",
+  "options":[
+   "Rome",
+   "Ottawa",
+   "Nuremberg",
+   "Antwerp"
+  ],
+  "label":0
+ },
+ {
+  "text":"Maine is part of [Y].",
+  "options":[
+   "Massachusetts",
+   "pistol",
+   "ethics",
+   "sociology"
+  ],
+  "label":0
+ },
+ {
+  "text":"Swedish Crime Writers' Academy is an instance of [Y].",
+  "options":[
+   "award",
+   "album",
+   "village",
+   "submarine"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] is the country where Bernardo Reyes holds citizenship.",
+  "options":[
+   "Mexico",
+   "Tunisia",
+   "Greece",
+   "Israel"
+  ],
+  "label":0
+ },
+ {
+  "text":"[Y] belongs to Glyceric acid 1,3-biphosphate.",
+  "options":[
+   "carbon",
+   "Austria",
+   "venule",
+   "carbonated water"
+  ],
+  "label":0
+ },
+ {
+  "text":"Joseph Cafasso resided in [Y] until death.",
+  "options":[
+   "Turin",
+   "London",
+   "Vienna",
+   "Warsaw"
+  ],
+  "label":0
+ },
+ {
+  "text":"On what continent is Delchev Ridge located? [Y].",
+  "options":[
+   "Antarctica",
+   "Europe",
+   "Asia",
+   "Africa"
+  ],
+  "label":0
+ },
+ {
+  "text":"Red Star OS was written in language of [Y].",
+  "options":[
+   "Korean",
+   "Hebrew",
+   "English",
+   "French"
+  ],
+  "label":0
+ },
+ {
+  "text":"Lanterman Range is located on the continent of [Y].",
+  "options":[
+   "Antarctica",
+   "Europe",
+   "Africa",
+   "Asia"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which music label represents Virtual XI? [Y].",
+  "options":[
+   "EMI",
+   "Motown",
+   "Capitol Records",
+   "Decca"
+  ],
+  "label":0
+ },
+ {
+  "text":"John Snagge is employed by [Y].",
+  "options":[
+   "BBC",
+   "Apple",
+   "The Observer",
+   "Current TV"
+  ],
+  "label":0
+ },
+ {
+  "text":"The nationality of Tarak Ben Ammar is [Y].",
+  "options":[
+   "France",
+   "Nigeria",
+   "Niger",
+   "Canada"
+  ],
+  "label":0
+ },
+ {
+  "text":"The location of Koyambedu on the Earth is the [Y] continent.",
+  "options":[
+   "Asia",
+   "Americas",
+   "Europe",
+   "Antarctica"
+  ],
+  "label":0
+ },
+ {
+  "text":"Human Head Studios started their career in [Y].",
+  "options":[
+   "Madison",
+   "Ottawa",
+   "Toronto",
+   "Florence"
+  ],
+  "label":0
+ },
+ {
+  "text":"Antipope Boniface VII was sworn in as [Y].",
+  "options":[
+   "cardinal",
+   "archbishop",
+   "pope",
+   "abbot"
+  ],
+  "label":0
+ },
+ {
+  "text":"Which country is adjacent to Australia? [Y].",
+  "options":[
+   "Marseille",
+   "Indonesia",
+   "Hamburg",
+   "Western Australia"
+  ],
+  "label":1
+ },
+ {
+  "text":"Gai pied is created in language [Y].",
+  "options":[
+   "Kannada",
+   "French",
+   "English",
+   "Telugu"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] has Dengeki Daisy as an instance.",
+  "options":[
+   "hotel",
+   "manga",
+   "album",
+   "civil parish"
+  ],
+  "label":1
+ },
+ {
+  "text":"Carmen McRae released their work via the [Y] music label.",
+  "options":[
+   "Motown",
+   "Decca",
+   "EMI",
+   "Warner Bros. Records"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which music label represents Boyz II Men? [Y].",
+  "options":[
+   "EMI",
+   "Motown",
+   "Federal",
+   "Decca"
+  ],
+  "label":1
+ },
+ {
+  "text":"Animator.ru was written in language of [Y].",
+  "options":[
+   "French",
+   "Russian",
+   "Hebrew",
+   "English"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which city is the sister city of Ostrava? [Y].",
+  "options":[
+   "Milan",
+   "Dresden",
+   "Barranquilla",
+   "Edinburgh"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where was The Courteeners founded? [Y].",
+  "options":[
+   "Wakefield",
+   "Middleton",
+   "Camden",
+   "Glasgow"
+  ],
+  "label":1
+ },
+ {
+  "text":"Johann Heinrich Lambert made significant contributions in the field of [Y].",
+  "options":[
+   "astronomy",
+   "physics",
+   "geometry",
+   "topology"
+  ],
+  "label":1
+ },
+ {
+  "text":"The operation of GIC Private Limited depends on the headquarters in [Y].",
+  "options":[
+   "Quincy",
+   "Singapore",
+   "Manchester",
+   "London"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where was Geoffrey Mander born? [Y].",
+  "options":[
+   "London",
+   "Wolverhampton",
+   "Genoa",
+   "Barcelona"
+  ],
+  "label":1
+ },
+ {
+  "text":"What language is officially spoken in Lieksa? [Y].",
+  "options":[
+   "Catalan",
+   "Finnish",
+   "English",
+   "Swedish"
+  ],
+  "label":1
+ },
+ {
+  "text":"What position does Hubert Walter hold? [Y].",
+  "options":[
+   "bishop",
+   "archbishop",
+   "pope",
+   "governor"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the country of origin of Radio Free Roscoe.",
+  "options":[
+   "Italy",
+   "Canada",
+   "Bangladesh",
+   "Japan"
+  ],
+  "label":1
+ },
+ {
+  "text":"Dov Ber of Mezeritch is famous for achievements as a [Y].",
+  "options":[
+   "film producer",
+   "rabbi",
+   "novelist",
+   "screenwriter"
+  ],
+  "label":1
+ },
+ {
+  "text":"If you want to visit Medical College and Hospital, Kolkata,  you need to go to country [Y].",
+  "options":[
+   "Poland",
+   "India",
+   "Spain",
+   "Netherlands"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the place where Oudegracht is located.",
+  "options":[
+   "Michigan",
+   "Utrecht",
+   "Manitoba",
+   "Tennessee"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] encompasses Jonah as its element.",
+  "options":[
+   "Americas",
+   "Twelve Minor Prophets",
+   "Arab",
+   "penis"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which entity does Psalms belong to? [Y].",
+  "options":[
+   "Nevi'im",
+   "Bible",
+   "Trinity",
+   "semiotics"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the location where 1978 World Snooker Championship occurred.",
+  "options":[
+   "Middle East",
+   "Sheffield",
+   "Europe",
+   "London"
+  ],
+  "label":1
+ },
+ {
+  "text":"The headquarter of Norwegian Public Roads Administration is in [Y].",
+  "options":[
+   "Dhaka",
+   "Oslo",
+   "Melbourne",
+   "Taipei"
+  ],
+  "label":1
+ },
+ {
+  "text":"Robinson Group is located on the continent of [Y].",
+  "options":[
+   "Europe",
+   "Antarctica",
+   "Africa",
+   "Asia"
+  ],
+  "label":1
+ },
+ {
+  "text":"What makes up Tsampa? [Y].",
+  "options":[
+   "Rock",
+   "flour",
+   "theology",
+   "yukihiro"
+  ],
+  "label":1
+ },
+ {
+  "text":"Sydney Twelve originates from the country of [Y].",
+  "options":[
+   "Pakistan",
+   "Australia",
+   "France",
+   "Germany"
+  ],
+  "label":1
+ },
+ {
+  "text":"colicin is a subclass of [Y].",
+  "options":[
+   "enzyme",
+   "protein",
+   "greenhouse",
+   "cake"
+  ],
+  "label":1
+ },
+ {
+  "text":"Le Iene originates from the country of [Y].",
+  "options":[
+   "Croatia",
+   "Italy",
+   "Canada",
+   "Pakistan"
+  ],
+  "label":1
+ },
+ {
+  "text":"Iparhi Logos is in language [Y].",
+  "options":[
+   "Spanish",
+   "Greek",
+   "Russian",
+   "Portuguese"
+  ],
+  "label":1
+ },
+ {
+  "text":"alcoholic beverage consists of [Y].",
+  "options":[
+   "semantics",
+   "ethanol",
+   "Netherlands",
+   "uranium"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which service originally aired Hollywood Game Night? [Y].",
+  "options":[
+   "Showtime",
+   "NBC",
+   "Nickelodeon",
+   "MTV"
+  ],
+  "label":1
+ },
+ {
+  "text":"Johann Strauss I became known as a [Y] player.",
+  "options":[
+   "piano",
+   "violin",
+   "saxophone",
+   "clarinet"
+  ],
+  "label":1
+ },
+ {
+  "text":"Nelson Cruz is a player who plays as a [Y].",
+  "options":[
+   "catcher",
+   "outfielder",
+   "midfielder",
+   "pitcher"
+  ],
+  "label":1
+ },
+ {
+  "text":"There is a border that connects [Y] with Province of Canada.",
+  "options":[
+   "Berkshire",
+   "Minnesota",
+   "Oman",
+   "Belmonte Mezzagno"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] encompasses macromolecule as its element.",
+  "options":[
+   "perfume",
+   "cell",
+   "biology",
+   "archaeology"
+  ],
+  "label":1
+ },
+ {
+  "text":"The company [Y] is known for producing Daihatsu Sirion.",
+  "options":[
+   "Nintendo",
+   "Toyota",
+   "General Motors",
+   "Dodge"
+  ],
+  "label":1
+ },
+ {
+  "text":"Rodney Sneijder is a player who plays as a [Y].",
+  "options":[
+   "outfielder",
+   "midfielder",
+   "quarterback",
+   "linebacker"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the superclass of phenetics.",
+  "options":[
+   "car",
+   "biology",
+   "jurist",
+   "engine"
+  ],
+  "label":1
+ },
+ {
+  "text":"Dogg After Dark was originally aired on [Y].",
+  "options":[
+   "HBO",
+   "MTV",
+   "Nickelodeon",
+   "CBS"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is the capital of South Australia? [Y].",
+  "options":[
+   "Hobart",
+   "Adelaide",
+   "Oral",
+   "Belgrade"
+  ],
+  "label":1
+ },
+ {
+  "text":"If you want to visit Vukov Spomenik,  you need to go to country [Y].",
+  "options":[
+   "Ghana",
+   "Serbia",
+   "Yemen",
+   "Bulgaria"
+  ],
+  "label":1
+ },
+ {
+  "text":"Sergei Diaghilev works in the field of [Y].",
+  "options":[
+   "physics",
+   "ballet",
+   "icon",
+   "chemistry"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the place where Halvard Lange worked.",
+  "options":[
+   "Caracas",
+   "Oslo",
+   "Toronto",
+   "Paris"
+  ],
+  "label":1
+ },
+ {
+  "text":"La Fontaine's Fables was created in [Y].",
+  "options":[
+   "Norway",
+   "France",
+   "Canada",
+   "Australia"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is one of the countries Moldova has diplomatic relations with.",
+  "options":[
+   "Bangladesh",
+   "Italy",
+   "Vietnam",
+   "Brazil"
+  ],
+  "label":1
+ },
+ {
+  "text":"What musical instrument does Jimi Hendrix play? [Y].",
+  "options":[
+   "trumpet",
+   "violin",
+   "saxophone",
+   "piano"
+  ],
+  "label":1
+ },
+ {
+  "text":"The language [Y] was used for writing Daily Express.",
+  "options":[
+   "Chinese",
+   "English",
+   "French",
+   "Hindi"
+  ],
+  "label":1
+ },
+ {
+  "text":"Queens Supreme premiered on the network [Y].",
+  "options":[
+   "BBC",
+   "CBS",
+   "NBC",
+   "MTV"
+  ],
+  "label":1
+ },
+ {
+  "text":"The sister cities of San Diego include [Y].",
+  "options":[
+   "Almaty",
+   "Warsaw",
+   "Dijon",
+   "Alexandria"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which group or organization does Canada belong to? [Y].",
+  "options":[
+   "Asian Football Confederation",
+   "Organisation internationale de la Francophonie",
+   "European Union",
+   "Confederation of African Football"
+  ],
+  "label":1
+ },
+ {
+  "text":"Flemming Nielsen plays in [Y] position.",
+  "options":[
+   "pitcher",
+   "midfielder",
+   "outfielder",
+   "quarterback"
+  ],
+  "label":1
+ },
+ {
+  "text":"EA-18G Growler was originally created by [Y].",
+  "options":[
+   "Apple",
+   "Boeing",
+   "Microsoft",
+   "Intel"
+  ],
+  "label":1
+ },
+ {
+  "text":"From childhood, Grigore Moisil has been fluent in language [Y].",
+  "options":[
+   "French",
+   "Romanian",
+   "Breton",
+   "Russian"
+  ],
+  "label":1
+ },
+ {
+  "text":"Francisco Lima is a famous [Y] player.",
+  "options":[
+   "pitcher",
+   "midfielder",
+   "outfielder",
+   "quarterback"
+  ],
+  "label":1
+ },
+ {
+  "text":"On what continent is Robertson Bay located? [Y].",
+  "options":[
+   "Oceania",
+   "Antarctica",
+   "Asia",
+   "Europe"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is the headquarters of Zamboni Company? [Y].",
+  "options":[
+   "London",
+   "Paramount",
+   "Toronto",
+   "Pasadena"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which company produced Infiniti Q50? [Y].",
+  "options":[
+   "Boeing",
+   "Nissan",
+   "Nintendo",
+   "Intel"
+  ],
+  "label":1
+ },
+ {
+  "text":"Belmonte Mezzagno shares border with [Y].",
+  "options":[
+   "Alcamo",
+   "Palermo",
+   "Bacoli",
+   "Northwest Territories"
+  ],
+  "label":1
+ },
+ {
+  "text":"Shafi Inamdar uses language [Y].",
+  "options":[
+   "Spanish",
+   "Hindi",
+   "Malayalam",
+   "Czech"
+  ],
+  "label":1
+ },
+ {
+  "text":"There is a border that connects [Y] with Switzerland.",
+  "options":[
+   "Ethiopia",
+   "Germany",
+   "Angola",
+   "Sesto San Giovanni"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is Vincens Lunge's nationality? [Y].",
+  "options":[
+   "Sudan",
+   "Denmark",
+   "Romania",
+   "Canada"
+  ],
+  "label":1
+ },
+ {
+  "text":"Donkey Kong is one of the creations by [Y].",
+  "options":[
+   "Sega",
+   "Nintendo",
+   "Apple",
+   "Microsoft"
+  ],
+  "label":1
+ },
+ {
+  "text":"Windows Phone 8 is produced by the company of [Y].",
+  "options":[
+   "Apple",
+   "Microsoft",
+   "BMW",
+   "Boeing"
+  ],
+  "label":1
+ },
+ {
+  "text":"Saikano originates from the country of [Y].",
+  "options":[
+   "Bulgaria",
+   "Japan",
+   "Italy",
+   "France"
+  ],
+  "label":1
+ },
+ {
+  "text":"Brian Landrus can perform on the [Y].",
+  "options":[
+   "cello",
+   "saxophone",
+   "harmonica",
+   "piano"
+  ],
+  "label":1
+ },
+ {
+  "text":"What language is officially spoken in International Civil Aviation Organization? [Y].",
+  "options":[
+   "Swahili",
+   "Russian",
+   "French",
+   "Magahi"
+  ],
+  "label":1
+ },
+ {
+  "text":"Soldier Field is under the control of [Y].",
+  "options":[
+   "Nintendo",
+   "Chicago",
+   "Tokyo",
+   "Germany"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the head office location of Taito Corporation.",
+  "options":[
+   "London",
+   "Shinjuku",
+   "Rome",
+   "Hertfordshire"
+  ],
+  "label":1
+ },
+ {
+  "text":"Who does Charles Simonyi work for? [Y].",
+  "options":[
+   "CBS",
+   "Microsoft",
+   "BBC",
+   "IBM"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the artistic genre of Henri Renaud.",
+  "options":[
+   "opera",
+   "jazz",
+   "sitcom",
+   "anthology"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is the category of One Day It'll All Make Sense? [Y].",
+  "options":[
+   "river",
+   "album",
+   "film",
+   "brewery"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which service originally aired Matinee Theater? [Y].",
+  "options":[
+   "CBS",
+   "NBC",
+   "History",
+   "ESPN"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where did Howard Florey work? [Y].",
+  "options":[
+   "Vilnius",
+   "London",
+   "Lyon",
+   "Paris"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which religion is Albert Schweitzer affiliated with? [Y].",
+  "options":[
+   "Islam",
+   "Christianity",
+   "Catholicism",
+   "Buddhism"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the last place where Thomas Story Kirkbride lived until death.",
+  "options":[
+   "London",
+   "Philadelphia",
+   "Prague",
+   "Madrid"
+  ],
+  "label":1
+ },
+ {
+  "text":"Alfred Weber works in the field of [Y].",
+  "options":[
+   "anatomy",
+   "sociology",
+   "archaeology",
+   "mathematics"
+  ],
+  "label":1
+ },
+ {
+  "text":"Louis Satterfield plays [Y].",
+  "options":[
+   "trumpet",
+   "trombone",
+   "viol",
+   "violin"
+  ],
+  "label":1
+ },
+ {
+  "text":"Ethel Waters is the representative of the [Y] style.",
+  "options":[
+   "funk",
+   "jazz",
+   "opera",
+   "sitcom"
+  ],
+  "label":1
+ },
+ {
+  "text":"The original language of Arahan is [Y].",
+  "options":[
+   "English",
+   "Korean",
+   "French",
+   "Italian"
+  ],
+  "label":1
+ },
+ {
+  "text":"Darryl Kile died in [Y].",
+  "options":[
+   "Antwerp",
+   "Chicago",
+   "Melbourne",
+   "Atlanta"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the continent where Mendelssohn Inlet is located.",
+  "options":[
+   "Africa",
+   "Antarctica",
+   "Europe",
+   "Asia"
+  ],
+  "label":1
+ },
+ {
+  "text":"Henri de Sourdis holds the political title of [Y].",
+  "options":[
+   "Pope of the Coptic Orthodox Church",
+   "archbishop",
+   "cardinal",
+   "bishop"
+  ],
+  "label":1
+ },
+ {
+  "text":"Toby Emmerich is known as a [Y] by profession.",
+  "options":[
+   "politician",
+   "screenwriter",
+   "actor",
+   "poet"
+  ],
+  "label":1
+ },
+ {
+  "text":"Salim Saleh is [Y] citizen.",
+  "options":[
+   "Canada",
+   "Uganda",
+   "Netherlands",
+   "Bolivia"
+  ],
+  "label":1
+ },
+ {
+  "text":"Bundesautobahn 72 is under the control of [Y].",
+  "options":[
+   "Adobe",
+   "Germany",
+   "Sony",
+   "EMI"
+  ],
+  "label":1
+ },
+ {
+  "text":"Umayyad Caliphate is a follower of religion [Y].",
+  "options":[
+   "Buddhism",
+   "Islam",
+   "Judaism",
+   "Christianity"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the country in which Olten railway station is located.",
+  "options":[
+   "Japan",
+   "Switzerland",
+   "Netherlands",
+   "Luxembourg"
+  ],
+  "label":1
+ },
+ {
+  "text":"QuickDraw is one of the creations by [Y].",
+  "options":[
+   "Samsung",
+   "Apple",
+   "Microsoft",
+   "Google"
+  ],
+  "label":1
+ },
+ {
+  "text":"The location of Mediafax was based in [Y].",
+  "options":[
+   "Madrid",
+   "Bucharest",
+   "Berlin",
+   "Helsinki"
+  ],
+  "label":1
+ },
+ {
+  "text":"Lunice started their life in [Y].",
+  "options":[
+   "Stockholm",
+   "Montreal",
+   "Dresden",
+   "Chennai"
+  ],
+  "label":1
+ },
+ {
+  "text":"Karl May was employed at [Y].",
+  "options":[
+   "London",
+   "Radebeul",
+   "Paris",
+   "Edinburgh"
+  ],
+  "label":1
+ },
+ {
+  "text":"The headquarter of Transwede Airways is in [Y].",
+  "options":[
+   "London",
+   "Stockholm",
+   "Winnipeg",
+   "Irvine"
+  ],
+  "label":1
+ },
+ {
+  "text":"Gaetano Gandolfi spent the last years of life in [Y].",
+  "options":[
+   "Cleveland",
+   "Bologna",
+   "Florence",
+   "Nuremberg"
+  ],
+  "label":1
+ },
+ {
+  "text":"White Stag sign is located in [Y].",
+  "options":[
+   "Burlington",
+   "Oregon",
+   "Queensland",
+   "Edinburgh"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the artistic genre of Earl King.",
+  "options":[
+   "sitcom",
+   "blues",
+   "jazz",
+   "fantasy"
+  ],
+  "label":1
+ },
+ {
+  "text":"Hungary has established diplomatic ties with [Y].",
+  "options":[
+   "New Zealand",
+   "Serbia",
+   "Kenya",
+   "New Caledonia"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which country is Gmina Bodzentyn located? [Y].",
+  "options":[
+   "India",
+   "Poland",
+   "Italy",
+   "Australia"
+  ],
+  "label":1
+ },
+ {
+  "text":"Madhya Pradesh and [Y] are neighboring countries.",
+  "options":[
+   "Talisay",
+   "Uttar Pradesh",
+   "Albania",
+   "Bavaria"
+  ],
+  "label":1
+ },
+ {
+  "text":"Hephthalite Empire has a deep relationship with the [Y] religion.",
+  "options":[
+   "Christianity",
+   "Buddhism",
+   "Islam",
+   "Hinduism"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which country was The Wars created in? [Y].",
+  "options":[
+   "India",
+   "Canada",
+   "Poland",
+   "Malta"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is the category of Pactola Lake? [Y].",
+  "options":[
+   "casino",
+   "reservoir",
+   "album",
+   "film"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the location where Public Against Violence occurred.",
+  "options":[
+   "Turin",
+   "Slovakia",
+   "London",
+   "Indian Ocean"
+  ],
+  "label":1
+ },
+ {
+  "text":"Sainyam was created in [Y].",
+  "options":[
+   "Philippines",
+   "India",
+   "Australia",
+   "Switzerland"
+  ],
+  "label":1
+ },
+ {
+  "text":"County Leitrim is in the country [Y].",
+  "options":[
+   "Netherlands",
+   "Ireland",
+   "India",
+   "Iran"
+  ],
+  "label":1
+ },
+ {
+  "text":"The central government of Serbian Despotate is in [Y].",
+  "options":[
+   "Debrc",
+   "Belgrade",
+   "Ankara",
+   "Hartford"
+  ],
+  "label":1
+ },
+ {
+  "text":"Benito Santiago is a famous [Y] player.",
+  "options":[
+   "linebacker",
+   "catcher",
+   "quarterback",
+   "midfielder"
+  ],
+  "label":1
+ },
+ {
+  "text":"Cristina Peri Rossi was awarded as a great [Y].",
+  "options":[
+   "astronaut",
+   "journalist",
+   "actor",
+   "composer"
+  ],
+  "label":1
+ },
+ {
+  "text":"Catalase is a subclass of [Y].",
+  "options":[
+   "homosexuality",
+   "protein",
+   "application",
+   "airship"
+  ],
+  "label":1
+ },
+ {
+  "text":"Ralph Stanley plays [Y].",
+  "options":[
+   "saxophone",
+   "banjo",
+   "violin",
+   "piano"
+  ],
+  "label":1
+ },
+ {
+  "text":"Adrian of Canterbury has the position of [Y].",
+  "options":[
+   "archbishop",
+   "abbot",
+   "bishop",
+   "mayor"
+  ],
+  "label":1
+ },
+ {
+  "text":"The formation location of The Mess Hall is [Y].",
+  "options":[
+   "York",
+   "Sydney",
+   "Johannesburg",
+   "Ljubljana"
+  ],
+  "label":1
+ },
+ {
+  "text":"Shane McMahon is employed by [Y].",
+  "options":[
+   "BBC",
+   "WWE",
+   "ESPN",
+   "Google Nest"
+  ],
+  "label":1
+ },
+ {
+  "text":"President of the Swiss Confederation applies to the jurisdiction in [Y].",
+  "options":[
+   "Scotland",
+   "Switzerland",
+   "Canada",
+   "Europe"
+  ],
+  "label":1
+ },
+ {
+  "text":"The language [Y] was used for writing Silent Alarm.",
+  "options":[
+   "French",
+   "English",
+   "Spanish",
+   "Catalan"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is Rebecca Pidgeon's profession? [Y].",
+  "options":[
+   "journalist",
+   "actor",
+   "poet",
+   "philosopher"
+  ],
+  "label":1
+ },
+ {
+  "text":"The native language of Elsa Lunghini is [Y].",
+  "options":[
+   "Spanish",
+   "French",
+   "Swedish",
+   "Russian"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where was Bamboo Shoots founded? [Y].",
+  "options":[
+   "Verona",
+   "Brooklyn",
+   "Atlanta",
+   "Boston"
+  ],
+  "label":1
+ },
+ {
+  "text":"Android Auto is one of the creations by [Y].",
+  "options":[
+   "Apple",
+   "Google",
+   "Adobe",
+   "Microsoft"
+  ],
+  "label":1
+ },
+ {
+  "text":"Otto Blehr had work activity in [Y].",
+  "options":[
+   "Stockholm",
+   "Oslo",
+   "Los Angeles",
+   "Saint Petersburg"
+  ],
+  "label":1
+ },
+ {
+  "text":"Harry James is the representative of the [Y] style.",
+  "options":[
+   "20th-century classical music",
+   "jazz",
+   "symphony",
+   "opera"
+  ],
+  "label":1
+ },
+ {
+  "text":"The Electric Soft Parade was founded in [Y].",
+  "options":[
+   "Lowell",
+   "Brighton",
+   "Dublin",
+   "Liverpool"
+  ],
+  "label":1
+ },
+ {
+  "text":"Anwar el Sadat has a role in the religion [Y].",
+  "options":[
+   "Catholicism",
+   "Islam",
+   "Sufism",
+   "Christianity"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] encompasses You Want This as its element.",
+  "options":[
+   "firearm",
+   "Janet",
+   "head",
+   "Trinity"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which position does Kim Bokamper play in? [Y].",
+  "options":[
+   "quarterback",
+   "linebacker",
+   "goaltender",
+   "midfielder"
+  ],
+  "label":1
+ },
+ {
+  "text":"The official language of Latvia is [Y].",
+  "options":[
+   "French",
+   "Latvian",
+   "English",
+   "Modern Greek"
+  ],
+  "label":1
+ },
+ {
+  "text":"Bhootayyana Maga Ayyu is a work in the [Y] language.",
+  "options":[
+   "Russian",
+   "Kannada",
+   "English",
+   "Hebrew"
+  ],
+  "label":1
+ },
+ {
+  "text":"What musical instrument does Cary Hudson play? [Y].",
+  "options":[
+   "trumpet",
+   "guitar",
+   "saxophone",
+   "bass guitar"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] represents the capital city for Umatilla County.",
+  "options":[
+   "Springfield",
+   "Pendleton",
+   "Martinez",
+   "Westminster"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is one of the items in aminobenzoic acid.",
+  "options":[
+   "Borneo",
+   "carbon",
+   "hydrogen",
+   "French Guiana"
+  ],
+  "label":1
+ },
+ {
+  "text":"Pieter Jacobsz Olycan has the position of [Y].",
+  "options":[
+   "sultan",
+   "mayor",
+   "bishop",
+   "archbishop"
+  ],
+  "label":1
+ },
+ {
+  "text":"Guatemala shares border with [Y].",
+  "options":[
+   "Papua New Guinea",
+   "Mexico",
+   "Turkey",
+   "Indiana"
+  ],
+  "label":1
+ },
+ {
+  "text":"Hamdeen Sabahi is a [Y] by profession.",
+  "options":[
+   "screenwriter",
+   "journalist",
+   "film director",
+   "actor"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the head office location of Dollar Tree.",
+  "options":[
+   "Ottawa",
+   "Chesapeake",
+   "Springfield",
+   "Rotterdam"
+  ],
+  "label":1
+ },
+ {
+  "text":"From childhood, William Craft Brumfield has been fluent in language [Y].",
+  "options":[
+   "Dutch",
+   "Russian",
+   "English",
+   "French"
+  ],
+  "label":1
+ },
+ {
+  "text":"Wolfgang Plagge saw the light of the world in [Y].",
+  "options":[
+   "Honolulu",
+   "Oslo",
+   "Minneapolis",
+   "Clinton"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is the headquarters of Cable & Wireless Communications? [Y].",
+  "options":[
+   "Croydon",
+   "London",
+   "Nanjing",
+   "Geneva"
+  ],
+  "label":1
+ },
+ {
+  "text":"Efter endnu en dag was written in language of [Y].",
+  "options":[
+   "Indonesian",
+   "Danish",
+   "English",
+   "Russian"
+  ],
+  "label":1
+ },
+ {
+  "text":"Antoine Blanc served as [Y].",
+  "options":[
+   "abbot",
+   "archbishop",
+   "bishop",
+   "Anglican Archbishop of York"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the last place where Fernandel lived until death.",
+  "options":[
+   "Florence",
+   "Paris",
+   "Baltimore",
+   "Venice"
+  ],
+  "label":1
+ },
+ {
+  "text":"Leonhard Euler works in the field of [Y].",
+  "options":[
+   "geology",
+   "mathematical analysis",
+   "anthropology",
+   "chemistry"
+  ],
+  "label":1
+ },
+ {
+  "text":"The operation of SunTrust Banks depends on the headquarters in [Y].",
+  "options":[
+   "Chicago",
+   "Atlanta",
+   "London",
+   "Hanover"
+  ],
+  "label":1
+ },
+ {
+  "text":"Curtis Amy is a [Y] player.",
+  "options":[
+   "piano",
+   "saxophone",
+   "guitar",
+   "violin"
+  ],
+  "label":1
+ },
+ {
+  "text":"The native language of Fanny Ardant is [Y].",
+  "options":[
+   "Dutch",
+   "French",
+   "Italian",
+   "Serbian"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the country in which Foundation for a Free Information Infrastructure is located.",
+  "options":[
+   "Switzerland",
+   "Germany",
+   "Bhutan",
+   "Canada"
+  ],
+  "label":1
+ },
+ {
+  "text":"The Man with Rain in His Shoes was created in [Y].",
+  "options":[
+   "Canada",
+   "France",
+   "Switzerland",
+   "Sweden"
+  ],
+  "label":1
+ },
+ {
+  "text":"The headquarter of Polistil is in [Y].",
+  "options":[
+   "Dunedin",
+   "Milan",
+   "Liverpool",
+   "Dublin"
+  ],
+  "label":1
+ },
+ {
+  "text":"Edward Thorndike works in the field of [Y].",
+  "options":[
+   "physics",
+   "psychology",
+   "astronomy",
+   "mathematics"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which country was Armored Fleet Dairugger XV created in? [Y].",
+  "options":[
+   "Canada",
+   "Japan",
+   "Argentina",
+   "Switzerland"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] has Never Bend as an instance.",
+  "options":[
+   "album",
+   "Thoroughbred",
+   "novel",
+   "opera"
+  ],
+  "label":1
+ },
+ {
+  "text":"Mark Weiss was awarded as a great [Y].",
+  "options":[
+   "composer",
+   "photographer",
+   "pianist",
+   "politician"
+  ],
+  "label":1
+ },
+ {
+  "text":"Mike Schwartz was born in [Y].",
+  "options":[
+   "Bristol",
+   "Boston",
+   "Salzburg",
+   "Paris"
+  ],
+  "label":1
+ },
+ {
+  "text":"The location of Roger Dubuis was based in [Y].",
+  "options":[
+   "Bangalore",
+   "Geneva",
+   "Dallas",
+   "Cincinnati"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is the capital of Marengo County? [Y].",
+  "options":[
+   "Livingston",
+   "Linden",
+   "Hamilton",
+   "Pasargadae"
+  ],
+  "label":1
+ },
+ {
+  "text":"Rubber Soul is in language [Y].",
+  "options":[
+   "Swedish",
+   "English",
+   "Urdu",
+   "Indonesian"
+  ],
+  "label":1
+ },
+ {
+  "text":"The headquarter of Volkswagen Commercial Vehicles is in [Y].",
+  "options":[
+   "Stockholm",
+   "Hanover",
+   "Warsaw",
+   "Toulouse"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which religion is Gratz College affiliated with? [Y].",
+  "options":[
+   "Hinduism",
+   "Judaism",
+   "Buddhism",
+   "Islam"
+  ],
+  "label":1
+ },
+ {
+  "text":"Anatoly Maltsev works in the field of [Y].",
+  "options":[
+   "astronomy",
+   "algebra",
+   "pharmacy",
+   "philosophy"
+  ],
+  "label":1
+ },
+ {
+  "text":"What language is officially spoken in Wales? [Y].",
+  "options":[
+   "Dutch",
+   "English",
+   "Hindi",
+   "Chamorro"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is the category of Corticotropin? [Y].",
+  "options":[
+   "river",
+   "hormone",
+   "Seyfert galaxy",
+   "constituency"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is Pablo Antonio's nationality? [Y].",
+  "options":[
+   "Mexico",
+   "Philippines",
+   "Azerbaijan",
+   "Poland"
+  ],
+  "label":1
+ },
+ {
+  "text":"That Girl is created in language [Y].",
+  "options":[
+   "Telugu",
+   "English",
+   "Tamil",
+   "French"
+  ],
+  "label":1
+ },
+ {
+  "text":"Leading wheel represents a segment of [Y].",
+  "options":[
+   "bridge",
+   "locomotive",
+   "ethics",
+   "Earth"
+  ],
+  "label":1
+ },
+ {
+  "text":"Egypt and [Y] are neighboring countries.",
+  "options":[
+   "San Marcos Department",
+   "Bry land",
+   "Saxony-Anhalt",
+   "Nottinghamshire"
+  ],
+  "label":1
+ },
+ {
+  "text":"If you want to visit Novokuybyshevsk,  you need to go to country [Y].",
+  "options":[
+   "Canada",
+   "Russia",
+   "Norway",
+   "Japan"
+  ],
+  "label":1
+ },
+ {
+  "text":"Jean-Pierre Roy was given the [Y] job.",
+  "options":[
+   "outfielder",
+   "pitcher",
+   "midfielder",
+   "quarterback"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which service originally aired Project Runway Australia? [Y].",
+  "options":[
+   "MTV2",
+   "Arena",
+   "PBS",
+   "NBC"
+  ],
+  "label":1
+ },
+ {
+  "text":"Davin Bush saw the light of the world in [Y].",
+  "options":[
+   "Stockholm",
+   "Miami",
+   "Harlem",
+   "Baltimore"
+  ],
+  "label":1
+ },
+ {
+  "text":"The headquarter of National City Corp. is in [Y].",
+  "options":[
+   "Edmonton",
+   "Cleveland",
+   "Lausanne",
+   "Toronto"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where did Joseph Bergler the Younger work? [Y].",
+  "options":[
+   "Berlin",
+   "Prague",
+   "Madrid",
+   "Edmonton"
+  ],
+  "label":1
+ },
+ {
+  "text":"Hugo Pimentel spent the last years of life in [Y].",
+  "options":[
+   "Cheltenham",
+   "Caracas",
+   "London",
+   "Munich"
+  ],
+  "label":1
+ },
+ {
+  "text":"VTEC is produced by the company of [Y].",
+  "options":[
+   "Intel",
+   "Honda",
+   "Fiat",
+   "Chrysler"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where did Davie Fulton work? [Y].",
+  "options":[
+   "Antwerp",
+   "Ottawa",
+   "Edmonton",
+   "Berlin"
+  ],
+  "label":1
+ },
+ {
+  "text":"The style of Thelma Carpenter is [Y].",
+  "options":[
+   "fantasy",
+   "jazz",
+   "epic poem",
+   "opera"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is Ma'an Governorate located? [Y].",
+  "options":[
+   "Arizona",
+   "Jordan",
+   "Arkansas",
+   "Kerala"
+  ],
+  "label":1
+ },
+ {
+  "text":"You can go through Greater Manchester to reach [Y].",
+  "options":[
+   "California",
+   "West Yorkshire",
+   "Saudi Arabia",
+   "Illinois"
+  ],
+  "label":1
+ },
+ {
+  "text":"What musical instrument does Don Sebesky play? [Y].",
+  "options":[
+   "banjo",
+   "trombone",
+   "harmonica",
+   "piano"
+  ],
+  "label":1
+ },
+ {
+  "text":"Henry Busse is a [Y] player.",
+  "options":[
+   "piano",
+   "trumpet",
+   "cello",
+   "violin"
+  ],
+  "label":1
+ },
+ {
+  "text":"Khaled Hosseini is influential in the domain of [Y].",
+  "options":[
+   "geometry",
+   "Afghanistan",
+   "psychology",
+   "ethnography"
+  ],
+  "label":1
+ },
+ {
+  "text":"renal pelvis represents a segment of [Y].",
+  "options":[
+   "galaxy",
+   "kidney",
+   "linguistics",
+   "theology"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the last place where Mariano Gago lived until death.",
+  "options":[
+   "Nuremberg",
+   "Lisbon",
+   "Berlin",
+   "Baghdad"
+  ],
+  "label":1
+ },
+ {
+  "text":"The original language of Zaporozhets za Dunayem is [Y].",
+  "options":[
+   "English",
+   "Ukrainian",
+   "Tamil",
+   "French"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the country in which Kondotty is located.",
+  "options":[
+   "France",
+   "India",
+   "Canada",
+   "Pakistan"
+  ],
+  "label":1
+ },
+ {
+  "text":"Jianzhi Sengcan has a role in the religion [Y].",
+  "options":[
+   "Islam",
+   "Buddhism",
+   "Sunni Islam",
+   "Christianity"
+  ],
+  "label":1
+ },
+ {
+  "text":"Praejectus has the position of [Y].",
+  "options":[
+   "archbishop",
+   "bishop",
+   "mayor",
+   "pope"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the country of origin of Los Serrano.",
+  "options":[
+   "Mexico",
+   "Spain",
+   "Brazil",
+   "Canada"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where was The Home Depot founded? [Y].",
+  "options":[
+   "Seattle",
+   "Atlanta",
+   "Munich",
+   "Oxford"
+  ],
+  "label":1
+ },
+ {
+  "text":"Georgians is in the country [Y].",
+  "options":[
+   "Philippines",
+   "Georgia",
+   "Honduras",
+   "Laos"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is spoken as an official language by people in Kuusamo.",
+  "options":[
+   "Papiamento",
+   "Finnish",
+   "Azerbaijani",
+   "Swedish"
+  ],
+  "label":1
+ },
+ {
+  "text":"Yugoslavia and [Y] are neighboring countries.",
+  "options":[
+   "Pateros",
+   "Bulgaria",
+   "Gibraltar",
+   "Turkey"
+  ],
+  "label":1
+ },
+ {
+  "text":"Stuart Parkin made significant contributions in the field of [Y].",
+  "options":[
+   "photography",
+   "physics",
+   "mathematics",
+   "linguistics"
+  ],
+  "label":1
+ },
+ {
+  "text":"Anna Yesipova can perform on the [Y].",
+  "options":[
+   "clarinet",
+   "piano",
+   "harp",
+   "trumpet"
+  ],
+  "label":1
+ },
+ {
+  "text":"Non, je ne regrette rien is in language [Y].",
+  "options":[
+   "English",
+   "French",
+   "Russian",
+   "Norwegian"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] encompasses Chimborazo as its element.",
+  "options":[
+   "Jainism",
+   "Andes",
+   "Bible",
+   "cemetery"
+  ],
+  "label":1
+ },
+ {
+  "text":"Prolactin is a subclass of [Y].",
+  "options":[
+   "intersection",
+   "protein",
+   "motorcycle",
+   "application"
+  ],
+  "label":1
+ },
+ {
+  "text":"Ole Mathisen is a [Y] player.",
+  "options":[
+   "guitar",
+   "clarinet",
+   "piano",
+   "flute"
+  ],
+  "label":1
+ },
+ {
+  "text":"Noah Knows Best was originally aired on [Y].",
+  "options":[
+   "CBS",
+   "Nickelodeon",
+   "MTV",
+   "NBC"
+  ],
+  "label":1
+ },
+ {
+  "text":"What makes up ammonium cation? [Y].",
+  "options":[
+   "South Korea",
+   "ammonia",
+   "carbon",
+   "titanium"
+  ],
+  "label":1
+ },
+ {
+  "text":"Mark Helias is a [Y] in the genre.",
+  "options":[
+   "sitcom",
+   "jazz",
+   "disco",
+   "opera"
+  ],
+  "label":1
+ },
+ {
+  "text":"Archduke Louis of Austria saw the light of the world in [Y].",
+  "options":[
+   "Prague",
+   "Florence",
+   "Boston",
+   "Adelaide"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is the headquarters of Deutsche Reichsbahn (GDR)? [Y].",
+  "options":[
+   "Singapore",
+   "Berlin",
+   "London",
+   "Munich"
+  ],
+  "label":1
+ },
+ {
+  "text":"Odakyu Electric Railway originated from [Y].",
+  "options":[
+   "Perth",
+   "Tokyo",
+   "Seattle",
+   "Ottawa"
+  ],
+  "label":1
+ },
+ {
+  "text":"Who developed Andrew File System? [Y].",
+  "options":[
+   "Apple",
+   "IBM",
+   "Microsoft",
+   "Skype Technologies"
+  ],
+  "label":1
+ },
+ {
+  "text":"New Bedford Whaling Museum is in the territory of [Y].",
+  "options":[
+   "Berkshire",
+   "Massachusetts",
+   "Alberta",
+   "Connecticut"
+  ],
+  "label":1
+ },
+ {
+  "text":"What makes up potassium hydroxide? [Y].",
+  "options":[
+   "Macau",
+   "potassium",
+   "carbon",
+   "grammar"
+  ],
+  "label":1
+ },
+ {
+  "text":"Nikki Iles can perform on the [Y].",
+  "options":[
+   "trumpet",
+   "piano",
+   "violin",
+   "guitar"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the country in which Petseri County is located.",
+  "options":[
+   "Japan",
+   "Estonia",
+   "Germany",
+   "Netherlands"
+  ],
+  "label":1
+ },
+ {
+  "text":"The headquarter of Hasselblad is in [Y].",
+  "options":[
+   "Croydon",
+   "Gothenburg",
+   "Cambridge",
+   "London"
+  ],
+  "label":1
+ },
+ {
+  "text":"What language is officially spoken in Kotka? [Y].",
+  "options":[
+   "Ukrainian",
+   "Finnish",
+   "Swedish",
+   "Tatar"
+  ],
+  "label":1
+ },
+ {
+  "text":"You can go through Guatemala to reach [Y].",
+  "options":[
+   "Lviv Oblast",
+   "Honduras",
+   "Argentina",
+   "Tanzania"
+  ],
+  "label":1
+ },
+ {
+  "text":"Aharon Zisling uses [Y] as its means of communication.",
+  "options":[
+   "Norwegian",
+   "Hebrew",
+   "English",
+   "Armenian"
+  ],
+  "label":1
+ },
+ {
+  "text":"In which language is Liege & Lief written? [Y].",
+  "options":[
+   "Azerbaijani",
+   "English",
+   "Romanian",
+   "Hausa"
+  ],
+  "label":1
+ },
+ {
+  "text":"Isma'il ibn Jafar has a role in the religion [Y].",
+  "options":[
+   "Christianity",
+   "Islam",
+   "Buddhism",
+   "Judaism"
+  ],
+  "label":1
+ },
+ {
+  "text":"Justin Francis Rigali served as [Y].",
+  "options":[
+   "abbot",
+   "archbishop",
+   "mayor",
+   "pope"
+  ],
+  "label":1
+ },
+ {
+  "text":"SpongeBob SquarePants, season 6 premiered on the network [Y].",
+  "options":[
+   "CBS",
+   "Nickelodeon",
+   "ESPN",
+   "NBC"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the country where Scott Lawson holds citizenship.",
+  "options":[
+   "Barbados",
+   "Scotland",
+   "Canada",
+   "Ireland"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which country is archdiocese of Gatineau located? [Y].",
+  "options":[
+   "Italy",
+   "Canada",
+   "Indonesia",
+   "Japan"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is the headquarters of Musicland Studios? [Y].",
+  "options":[
+   "Rugby",
+   "Munich",
+   "Middlesbrough",
+   "Rochester"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which country is Cmolas located? [Y].",
+  "options":[
+   "Netherlands",
+   "Poland",
+   "Switzerland",
+   "Iran"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the shareholder of United Launch Alliance.",
+  "options":[
+   "Microsoft",
+   "Boeing",
+   "Chesterfield",
+   "Ponce"
+  ],
+  "label":1
+ },
+ {
+  "text":"River Thames is located in [Y].",
+  "options":[
+   "Texas",
+   "Surrey",
+   "Toronto",
+   "Bihar"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] encompasses computer graphics as its element.",
+  "options":[
+   "galaxy",
+   "art",
+   "geology",
+   "Andes"
+  ],
+  "label":1
+ },
+ {
+  "text":"Nicolas Bergasse used to work in [Y].",
+  "options":[
+   "London",
+   "Paris",
+   "Berlin",
+   "Bonn"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is Hendrawan's nationality? [Y].",
+  "options":[
+   "France",
+   "Indonesia",
+   "Malaysia",
+   "India"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is one of the items in gallium nitride.",
+  "options":[
+   "Pata",
+   "gallium",
+   "carbon",
+   "vegetable"
+  ],
+  "label":1
+ },
+ {
+  "text":"USS Gudgeon is an instance of [Y].",
+  "options":[
+   "airport",
+   "submarine",
+   "constitution",
+   "opera"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] represents the capital city for Mingo County.",
+  "options":[
+   "Georgetown",
+   "Williamson",
+   "Kolkata",
+   "Guangzhou"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where is Assiniboine Community College located? [Y].",
+  "options":[
+   "Utah",
+   "Manitoba",
+   "Scotland",
+   "Rome"
+  ],
+  "label":1
+ },
+ {
+  "text":"Simon Gosejohann is a [Y] by profession.",
+  "options":[
+   "pianist",
+   "actor",
+   "theatrical director",
+   "model"
+  ],
+  "label":1
+ },
+ {
+  "text":"Where did Wolfgang Capito work? [Y].",
+  "options":[
+   "Barcelona",
+   "Basel",
+   "London",
+   "Paris"
+  ],
+  "label":1
+ },
+ {
+  "text":"Almen Abdi is a famous [Y] player.",
+  "options":[
+   "quarterback",
+   "midfielder",
+   "defender",
+   "linebacker"
+  ],
+  "label":1
+ },
+ {
+  "text":"Gatwick Airport is named after [Y].",
+  "options":[
+   "Ireland",
+   "London",
+   "Luton",
+   "France"
+  ],
+  "label":1
+ },
+ {
+  "text":"The sister cities of Baku include [Y].",
+  "options":[
+   "Novosibirsk",
+   "Dakar",
+   "Prague",
+   "Montreal"
+  ],
+  "label":1
+ },
+ {
+  "text":"Huachocolpa District is in the country [Y].",
+  "options":[
+   "Canada",
+   "Peru",
+   "Hungary",
+   "Italy"
+  ],
+  "label":1
+ },
+ {
+  "text":"In which language is Keep Your Head Down written? [Y].",
+  "options":[
+   "Russian",
+   "Korean",
+   "Finnish",
+   "Spanish"
+  ],
+  "label":1
+ },
+ {
+  "text":"BlackGirl was founded in [Y].",
+  "options":[
+   "Beijing",
+   "Atlanta",
+   "Bologna",
+   "Glasgow"
+  ],
+  "label":1
+ },
+ {
+  "text":"What is Judy Davis's profession? [Y].",
+  "options":[
+   "economist",
+   "actor",
+   "composer",
+   "poet"
+  ],
+  "label":1
+ },
+ {
+  "text":"In which language is Iparhi Logos written? [Y].",
+  "options":[
+   "English",
+   "Greek",
+   "Italian",
+   "French"
+  ],
+  "label":1
+ },
+ {
+  "text":"Who does Mal Young work for? [Y].",
+  "options":[
+   "Apple",
+   "BBC",
+   "Microsoft",
+   "CBS"
+  ],
+  "label":1
+ },
+ {
+  "text":"Mars Glacier is located on the continent of [Y].",
+  "options":[
+   "Africa",
+   "Antarctica",
+   "Europe",
+   "Asia"
+  ],
+  "label":1
+ },
+ {
+  "text":"Bolognese School occurred in [Y].",
+  "options":[
+   "White Sea",
+   "Bologna",
+   "Berlin",
+   "townland"
+  ],
+  "label":1
+ },
+ {
+  "text":"overdrafting is influential in the domain of [Y].",
+  "options":[
+   "philology",
+   "groundwater",
+   "geometry",
+   "physiology"
+  ],
+  "label":1
+ },
+ {
+  "text":"New Musical Express was written in language of [Y].",
+  "options":[
+   "Croatian",
+   "English",
+   "French",
+   "Danish"
+  ],
+  "label":1
+ },
+ {
+  "text":"Time Warp Trio was originally aired on [Y].",
+  "options":[
+   "CBS",
+   "NBC",
+   "Nickelodeon",
+   "HBO"
+  ],
+  "label":1
+ },
+ {
+  "text":"From childhood, Peter Kassovitz has been fluent in language [Y].",
+  "options":[
+   "Spanish",
+   "French",
+   "Dutch",
+   "Swedish"
+  ],
+  "label":1
+ },
+ {
+  "text":"Virt Records started their career in [Y].",
+  "options":[
+   "Christchurch",
+   "Seattle",
+   "Sweden",
+   "Hawaii"
+  ],
+  "label":1
+ },
+ {
+  "text":"Piero Marini served as [Y].",
+  "options":[
+   "mayor",
+   "archbishop",
+   "pope",
+   "camerlengo of the Holy Roman Church"
+  ],
+  "label":1
+ },
+ {
+  "text":"Which service originally aired Presidio Med? [Y].",
+  "options":[
+   "History",
+   "CBS",
+   "ESPN",
+   "NBC"
+  ],
+  "label":1
+ },
+ {
+  "text":"Le clan des siciliens is created in language [Y].",
+  "options":[
+   "English",
+   "Italian",
+   "Tamil",
+   "Hungarian"
+  ],
+  "label":1
+ },
+ {
+  "text":"Sicilian Expedition is held by [Y].",
+  "options":[
+   "Nuremberg",
+   "Sicily",
+   "Istanbul",
+   "Seattle"
+  ],
+  "label":1
+ },
+ {
+  "text":"B-52 Stratofortress was originally created by [Y].",
+  "options":[
+   "Microsoft",
+   "Boeing",
+   "Apple",
+   "Sysinternals"
+  ],
+  "label":1
+ },
+ {
+  "text":"Omer Simeon became known as a [Y] player.",
+  "options":[
+   "trumpet",
+   "bass clarinet",
+   "piano",
+   "double bass"
+  ],
+  "label":1
+ },
+ {
+  "text":"Tygodnik Powszechny was written in language of [Y].",
+  "options":[
+   "English",
+   "Polish",
+   "Italian",
+   "Welsh"
+  ],
+  "label":1
+ },
+ {
+  "text":"[Y] is the first air channel of Arthur Godfrey and His Friends.",
+  "options":[
+   "BBC",
+   "HBO",
+   "CBS",
+   "MTV2"
+  ],
+  "label":2
+ },
+ {
+  "text":"The central government of Highland is in [Y].",
+  "options":[
+   "Paris",
+   "Madrid",
+   "Inverness",
+   "Lviv"
+  ],
+  "label":2
+ },
+ {
+  "text":"The location of Prespa Glacier on the Earth is the [Y] continent.",
+  "options":[
+   "Asia",
+   "Oceania",
+   "Antarctica",
+   "Africa"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] recognizes South Georgia and the South Sandwich Islands as its official language.",
+  "options":[
+   "French",
+   "Cebuano",
+   "English",
+   "Russian"
+  ],
+  "label":2
+ },
+ {
+  "text":"homophobia is a [Y].",
+  "options":[
+   "manga",
+   "river",
+   "prejudice",
+   "village"
+  ],
+  "label":2
+ },
+ {
+  "text":"Spain national football team belongs to the group [Y].",
+  "options":[
+   "European Union",
+   "North American Free Trade Agreement",
+   "FIFA",
+   "International Labour Organization"
+  ],
+  "label":2
+ },
+ {
+  "text":"What position does Audomar hold? [Y].",
+  "options":[
+   "abbot",
+   "archbishop",
+   "bishop",
+   "cardinal"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the genre of Johnny Smith? [Y].",
+  "options":[
+   "fantasy",
+   "opera",
+   "jazz",
+   "disco"
+  ],
+  "label":2
+ },
+ {
+  "text":"Young-Holt Unlimited is the representative of the [Y] style.",
+  "options":[
+   "fantasy",
+   "novella",
+   "jazz",
+   "big band"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the continent where Cameroon is located.",
+  "options":[
+   "Europe",
+   "Asia",
+   "Africa",
+   "Antarctica"
+  ],
+  "label":2
+ },
+ {
+  "text":"Robert James Manion had work activity in [Y].",
+  "options":[
+   "Rome",
+   "Mannheim",
+   "Ottawa",
+   "London"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which service originally aired Jeopardy!? [Y].",
+  "options":[
+   "HBO",
+   "MTV",
+   "NBC",
+   "Nickelodeon"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] recognizes Basel-Landschaft as its official language.",
+  "options":[
+   "Italian",
+   "Swedish",
+   "German",
+   "Finnish"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which position does Jim Bagby, Sr. play in? [Y].",
+  "options":[
+   "linebacker",
+   "midfielder",
+   "pitcher",
+   "forward"
+  ],
+  "label":2
+ },
+ {
+  "text":"The formation location of Peckett and Sons is [Y].",
+  "options":[
+   "Birmingham",
+   "Reno",
+   "Bristol",
+   "Helsinki"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which music label represents Diana & Marvin? [Y].",
+  "options":[
+   "Capitol Records",
+   "EMI",
+   "Motown",
+   "Decca"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the country in which Rantum is located.",
+  "options":[
+   "Sweden",
+   "France",
+   "Germany",
+   "Canada"
+  ],
+  "label":2
+ },
+ {
+  "text":"The style of Olivier Messiaen is [Y].",
+  "options":[
+   "fantasy",
+   "jazz",
+   "opera",
+   "action film"
+  ],
+  "label":2
+ },
+ {
+  "text":"Mount Apo is part of [Y].",
+  "options":[
+   "Bavaria",
+   "Old Testament",
+   "Mindanao",
+   "Earth"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where did Hermann Schwarz work? [Y].",
+  "options":[
+   "Arles",
+   "Wolf's Lair",
+   "Berlin",
+   "Florence"
+  ],
+  "label":2
+ },
+ {
+  "text":"Little Stirrup Cay is in the country [Y].",
+  "options":[
+   "Italy",
+   "Poland",
+   "Bahamas",
+   "Australia"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the genre of Pierre-Alexandre Monsigny? [Y].",
+  "options":[
+   "thriller",
+   "jazz",
+   "opera",
+   "sitcom"
+  ],
+  "label":2
+ },
+ {
+  "text":"Horatio Nelson Lay is a [Y] by profession.",
+  "options":[
+   "composer",
+   "lawyer",
+   "diplomat",
+   "actor"
+  ],
+  "label":2
+ },
+ {
+  "text":"Teredo tunneling represents a segment of [Y].",
+  "options":[
+   "flower",
+   "physics",
+   "Internet",
+   "fleet"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which music label represents Since I Lost My Baby? [Y].",
+  "options":[
+   "EMI",
+   "The Island Def Jam Music Group",
+   "Motown",
+   "Capitol Records"
+  ],
+  "label":2
+ },
+ {
+  "text":"Guinea-Bissau is located on the continent of [Y].",
+  "options":[
+   "Oceania",
+   "Europe",
+   "Africa",
+   "Antarctica"
+  ],
+  "label":2
+ },
+ {
+  "text":"1926 Imperial Conference occurred in [Y].",
+  "options":[
+   "Croatia",
+   "Istanbul",
+   "London",
+   "Circle"
+  ],
+  "label":2
+ },
+ {
+  "text":"Stephen Wolfram is influential in the domain of [Y].",
+  "options":[
+   "mathematical logic",
+   "biology",
+   "mathematics",
+   "alchemy"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the native language of Octave Uzanne? [Y].",
+  "options":[
+   "Norwegian",
+   "Welsh",
+   "French",
+   "Swedish"
+  ],
+  "label":2
+ },
+ {
+  "text":"Jonathan Goff plays in [Y] position.",
+  "options":[
+   "goaltender",
+   "midfielder",
+   "linebacker",
+   "forward"
+  ],
+  "label":2
+ },
+ {
+  "text":"Rezonance Q was founded in [Y].",
+  "options":[
+   "Hamburg",
+   "Seattle",
+   "Liverpool",
+   "London"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which music label represents Elgie Stover? [Y].",
+  "options":[
+   "Capitol Records",
+   "Decca",
+   "Motown",
+   "Brunswick"
+  ],
+  "label":2
+ },
+ {
+  "text":"Speaking of [Y], millet is an example of it.",
+  "options":[
+   "Thoroughbred",
+   "suburb",
+   "cereal",
+   "river"
+  ],
+  "label":2
+ },
+ {
+  "text":"Anjem Choudary has a role in the religion [Y].",
+  "options":[
+   "Hinduism",
+   "Buddhism",
+   "Islam",
+   "Sunni Islam"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is Joe Peschisolido's nationality? [Y].",
+  "options":[
+   "Sweden",
+   "Babylon",
+   "Canada",
+   "Israel"
+  ],
+  "label":2
+ },
+ {
+  "text":"antimicrobial peptide is a subclass of [Y].",
+  "options":[
+   "chess",
+   "soup",
+   "protein",
+   "warship"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the continent where Trinity Peninsula is located.",
+  "options":[
+   "Europe",
+   "Asia",
+   "Antarctica",
+   "Africa"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the place where John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair worked.",
+  "options":[
+   "Leipzig",
+   "Bern",
+   "London",
+   "Beirut"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the genre of The Domino Principle? [Y].",
+  "options":[
+   "satire",
+   "opera",
+   "thriller",
+   "jazz"
+  ],
+  "label":2
+ },
+ {
+  "text":"John Inverdale is [Y]'s employee.",
+  "options":[
+   "Microsoft",
+   "MSNBC",
+   "BBC",
+   "ESPN"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which service originally aired True Women? [Y].",
+  "options":[
+   "MTV",
+   "NBC",
+   "CBS",
+   "BBC"
+  ],
+  "label":2
+ },
+ {
+  "text":"Martin Goodman Trail is in the territory of [Y].",
+  "options":[
+   "Turkey",
+   "Baltimore",
+   "Ontario",
+   "Missouri"
+  ],
+  "label":2
+ },
+ {
+  "text":"Zaragoza Province is a place in [Y].",
+  "options":[
+   "Shropshire",
+   "Swansea",
+   "Aragon",
+   "Yemen"
+  ],
+  "label":2
+ },
+ {
+  "text":"Helmut Schmidt was employed at [Y].",
+  "options":[
+   "Paris",
+   "London",
+   "Berlin",
+   "Atlanta"
+  ],
+  "label":2
+ },
+ {
+  "text":"Peter Lombard was sworn in as [Y].",
+  "options":[
+   "Archbishop of Canterbury",
+   "archbishop",
+   "bishop",
+   "patriarch"
+  ],
+  "label":2
+ },
+ {
+  "text":"The headquarter of Christian Democrats is in [Y].",
+  "options":[
+   "Mumbai",
+   "London",
+   "Stockholm",
+   "Shanghai"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the last place where James Rennell lived until death.",
+  "options":[
+   "Syracuse",
+   "Boston",
+   "London",
+   "Nuremberg"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is Hualapai people located? [Y].",
+  "options":[
+   "Mexico",
+   "Newport",
+   "Arizona",
+   "Gujarat"
+  ],
+  "label":2
+ },
+ {
+  "text":"Speaking of [Y], Clogher is an example of it.",
+  "options":[
+   "album",
+   "film",
+   "village",
+   "clade"
+  ],
+  "label":2
+ },
+ {
+  "text":"Ventura Pons used to communicate in [Y].",
+  "options":[
+   "Finnish",
+   "Welsh",
+   "Spanish",
+   "Dutch"
+  ],
+  "label":2
+ },
+ {
+  "text":"Mike Holmgren was given the [Y] job.",
+  "options":[
+   "goaltender",
+   "linebacker",
+   "quarterback",
+   "pitcher"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which position does Kendrell Bell play in? [Y].",
+  "options":[
+   "pitcher",
+   "midfielder",
+   "linebacker",
+   "quarterback"
+  ],
+  "label":2
+ },
+ {
+  "text":"Otago Harbour is a [Y].",
+  "options":[
+   "village",
+   "album",
+   "harbor",
+   "suburb"
+  ],
+  "label":2
+ },
+ {
+  "text":"Transylvanian Plateau is located in the country of [Y].",
+  "options":[
+   "Australia",
+   "Russia",
+   "Romania",
+   "Kenya"
+  ],
+  "label":2
+ },
+ {
+  "text":"Mersham is an instance of [Y].",
+  "options":[
+   "choir",
+   "manga",
+   "village",
+   "molecule"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the shareholder of Canad Inns Stadium.",
+  "options":[
+   "Birmingham",
+   "Virginia",
+   "Winnipeg",
+   "Toronto"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the category of Sverresborg? [Y].",
+  "options":[
+   "regiment",
+   "opera",
+   "castle",
+   "album"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the country where Rafael Alberti holds citizenship.",
+  "options":[
+   "Egypt",
+   "Estonia",
+   "Spain",
+   "Belgium"
+  ],
+  "label":2
+ },
+ {
+  "text":"Holycross-Ballycahill GAA is in the country [Y].",
+  "options":[
+   "Benin",
+   "Iran",
+   "Ireland",
+   "Italy"
+  ],
+  "label":2
+ },
+ {
+  "text":"Thurstan has the position of [Y].",
+  "options":[
+   "pope",
+   "cardinal",
+   "Anglican Archbishop of York",
+   "bishop"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the category of Hethe? [Y].",
+  "options":[
+   "album",
+   "seminary",
+   "civil parish",
+   "opera"
+  ],
+  "label":2
+ },
+ {
+  "text":"DigiCash is an instance of [Y].",
+  "options":[
+   "award",
+   "castle",
+   "corporation",
+   "civil parish"
+  ],
+  "label":2
+ },
+ {
+  "text":"The original language of Kadhal Sadugudu is [Y].",
+  "options":[
+   "French",
+   "English",
+   "Tamil",
+   "Finnish"
+  ],
+  "label":2
+ },
+ {
+  "text":"Fist City was released by the [Y] music label.",
+  "options":[
+   "Island Records",
+   "Motown",
+   "Decca",
+   "EMI"
+  ],
+  "label":2
+ },
+ {
+  "text":"David Gates can perform on the [Y].",
+  "options":[
+   "saxophone",
+   "fiddle",
+   "viola",
+   "cello"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is the capital of Deaf Smith County? [Y].",
+  "options":[
+   "Beijing",
+   "Victoria",
+   "Hereford",
+   "Inverness"
+  ],
+  "label":2
+ },
+ {
+  "text":"Haiti and [Y] have diplomatic friendly relations.",
+  "options":[
+   "Estonia",
+   "People's Republic of China",
+   "Brazil",
+   "India"
+  ],
+  "label":2
+ },
+ {
+  "text":"Richard Brauer is a [Y] by profession.",
+  "options":[
+   "actor",
+   "politician",
+   "mathematician",
+   "anthropologist"
+  ],
+  "label":2
+ },
+ {
+  "text":"Speaking of [Y], Imperial Service Order is an example of it.",
+  "options":[
+   "river",
+   "album",
+   "award",
+   "village"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is Iliana Fox's profession? [Y].",
+  "options":[
+   "photographer",
+   "film director",
+   "actor",
+   "singer-songwriter"
+  ],
+  "label":2
+ },
+ {
+  "text":"There is a border that connects [Y] with Suffolk.",
+  "options":[
+   "Yunnan",
+   "Turin",
+   "Essex",
+   "Montenegro"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is the headquarters of China Poly Group Corporation? [Y].",
+  "options":[
+   "Istanbul",
+   "Knoxville",
+   "Beijing",
+   "Jakarta"
+  ],
+  "label":2
+ },
+ {
+  "text":"Velayudham was created in [Y].",
+  "options":[
+   "Germany",
+   "Peru",
+   "India",
+   "Argentina"
+  ],
+  "label":2
+ },
+ {
+  "text":"Theodor Leschetizky is a [Y] player.",
+  "options":[
+   "violin",
+   "mandolin",
+   "piano",
+   "accordion"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the last place where Arturo Castro lived until death.",
+  "options":[
+   "Chicago",
+   "Sydney",
+   "Mexico",
+   "Philadelphia"
+  ],
+  "label":2
+ },
+ {
+  "text":"Lucas Oil Stadium is a part of [Y]'s assets.",
+  "options":[
+   "Volvo",
+   "Monaco",
+   "Indiana",
+   "Bari"
+  ],
+  "label":2
+ },
+ {
+  "text":"The language [Y] was used for writing London Bridge Is Falling Down.",
+  "options":[
+   "Chinese",
+   "Welsh",
+   "English",
+   "Italian"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where did Umar ibn Al-Khatt\u0101b die? [Y].",
+  "options":[
+   "Derby",
+   "Naples",
+   "Medina",
+   "Palermo"
+  ],
+  "label":2
+ },
+ {
+  "text":"Wii U system software is one of the creations by [Y].",
+  "options":[
+   "Microsoft",
+   "Apple",
+   "Nintendo",
+   "IBM"
+  ],
+  "label":2
+ },
+ {
+  "text":"John Preskill has work experience in the field of [Y].",
+  "options":[
+   "anthropology",
+   "chemistry",
+   "physics",
+   "medicine"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the head office location of Ayn Rand Institute.",
+  "options":[
+   "Miami",
+   "Bucharest",
+   "Irvine",
+   "Vienna"
+  ],
+  "label":2
+ },
+ {
+  "text":"Khadijah bint Khuwaylid is a follower of religion [Y].",
+  "options":[
+   "Judaism",
+   "Christianity",
+   "Islam",
+   "Hinduism"
+  ],
+  "label":2
+ },
+ {
+  "text":"Gray Davis uses language [Y].",
+  "options":[
+   "French",
+   "Welsh",
+   "English",
+   "Spanish"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the place where River Thames is located.",
+  "options":[
+   "Bihar",
+   "Idaho",
+   "Kent",
+   "California"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which field does Nikolaj Frederik Severin Grundtvig work in? [Y].",
+  "options":[
+   "publishing",
+   "geometry",
+   "philosophy",
+   "topology"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is Golden Horse Film Festival and Awards located? [Y].",
+  "options":[
+   "Somerset",
+   "Rotterdam",
+   "Taipei",
+   "Orange"
+  ],
+  "label":2
+ },
+ {
+  "text":"What language does Jack Ralite use? [Y].",
+  "options":[
+   "Egyptian",
+   "Chinese",
+   "French",
+   "Estonian"
+  ],
+  "label":2
+ },
+ {
+  "text":"Les Chaussettes Noires was released by the [Y] music label.",
+  "options":[
+   "Capitol Records",
+   "Motown",
+   "Barclay",
+   "Decca"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the location where Veii occurred.",
+  "options":[
+   "Sardinia",
+   "London",
+   "Italy",
+   "Jerusalem"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the head office location of Golden Spike Company.",
+  "options":[
+   "London",
+   "Miami",
+   "Colorado",
+   "Moscow"
+  ],
+  "label":2
+ },
+ {
+  "text":"Edward Watkin had work activity in [Y].",
+  "options":[
+   "Paris",
+   "Uranienburg",
+   "London",
+   "Dresden"
+  ],
+  "label":2
+ },
+ {
+  "text":"The location of Balham Valley on the Earth is the [Y] continent.",
+  "options":[
+   "Europe",
+   "Asia",
+   "Antarctica",
+   "Oceania"
+  ],
+  "label":2
+ },
+ {
+  "text":"The Malahat Review first appeared in [Y].",
+  "options":[
+   "India",
+   "Australia",
+   "Canada",
+   "Japan"
+  ],
+  "label":2
+ },
+ {
+  "text":"On what continent is Himachal Pradesh located? [Y].",
+  "options":[
+   "Antarctica",
+   "Africa",
+   "Asia",
+   "Europe"
+  ],
+  "label":2
+ },
+ {
+  "text":"Minna Bluff is a part of the continent [Y].",
+  "options":[
+   "Europe",
+   "Africa",
+   "Antarctica",
+   "Asia"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] has Cogenhoe as an instance.",
+  "options":[
+   "regiment",
+   "bridge",
+   "village",
+   "album"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is Camp Mabry located? [Y].",
+  "options":[
+   "Nebraska",
+   "Saskatchewan",
+   "Texas",
+   "Metz"
+  ],
+  "label":2
+ },
+ {
+  "text":"Bzura is located in the country of [Y].",
+  "options":[
+   "Ireland",
+   "Turkey",
+   "Poland",
+   "Norway"
+  ],
+  "label":2
+ },
+ {
+  "text":"Louis Bonaparte grew up speaking [Y] as their first language.",
+  "options":[
+   "Dutch",
+   "Russian",
+   "French",
+   "Swedish"
+  ],
+  "label":2
+ },
+ {
+  "text":"Kingdom of the Netherlands is a part of the continent [Y].",
+  "options":[
+   "Antarctica",
+   "Asia",
+   "Europe",
+   "Africa"
+  ],
+  "label":2
+ },
+ {
+  "text":"Four Star Playhouse premiered on the network [Y].",
+  "options":[
+   "HBO",
+   "Nickelodeon",
+   "CBS",
+   "History"
+  ],
+  "label":2
+ },
+ {
+  "text":"Maury Bay is located on the continent of [Y].",
+  "options":[
+   "Asia",
+   "Africa",
+   "Antarctica",
+   "Europe"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the original language of Dookudu? [Y].",
+  "options":[
+   "French",
+   "Hindi",
+   "Telugu",
+   "Indonesian"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which country is Maya River located? [Y].",
+  "options":[
+   "Germany",
+   "Australia",
+   "Russia",
+   "India"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the native language of Irina Khakamada? [Y].",
+  "options":[
+   "Dutch",
+   "Welsh",
+   "Russian",
+   "French"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is Nagaland located? [Y].",
+  "options":[
+   "Queensland",
+   "Manitoba",
+   "India",
+   "Scotland"
+  ],
+  "label":2
+ },
+ {
+  "text":"My Kitchen Rules originates from the country of [Y].",
+  "options":[
+   "Russia",
+   "Japan",
+   "Australia",
+   "Italy"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which country is Jemappes located? [Y].",
+  "options":[
+   "India",
+   "Iran",
+   "Belgium",
+   "Italy"
+  ],
+  "label":2
+ },
+ {
+  "text":"Carlo Allioni is famous for achievements as a [Y].",
+  "options":[
+   "journalist",
+   "songwriter",
+   "physician",
+   "librarian"
+  ],
+  "label":2
+ },
+ {
+  "text":"FileMaker, Inc. is a part of [Y]'s assets.",
+  "options":[
+   "Nintendo",
+   "BP",
+   "Apple",
+   "Savannah"
+  ],
+  "label":2
+ },
+ {
+  "text":"KSTP-FM is a place in [Y].",
+  "options":[
+   "London",
+   "Victoria",
+   "Minnesota",
+   "Texas"
+  ],
+  "label":2
+ },
+ {
+  "text":"Jab Pyaar Kisise Hota Hai was written in the [Y] language.",
+  "options":[
+   "Dutch",
+   "Russian",
+   "Hindi",
+   "English"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where did Thomas van Erpe work? [Y].",
+  "options":[
+   "Berlin",
+   "Ramsgate",
+   "Leiden",
+   "London"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the superclass of Frataxin.",
+  "options":[
+   "chess",
+   "inflammation",
+   "protein",
+   "gene"
+  ],
+  "label":2
+ },
+ {
+  "text":"Michael Penn is known as a [Y] by profession.",
+  "options":[
+   "poet",
+   "photographer",
+   "actor",
+   "playwright"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the last place where Alexander Rich lived until death.",
+  "options":[
+   "Vienna",
+   "Gloucester",
+   "Boston",
+   "London"
+  ],
+  "label":2
+ },
+ {
+  "text":"Vettai is a work in the [Y] language.",
+  "options":[
+   "English",
+   "Chinese",
+   "Tamil",
+   "French"
+  ],
+  "label":2
+ },
+ {
+  "text":"Hornnes is in the country [Y].",
+  "options":[
+   "Turkey",
+   "India",
+   "Norway",
+   "Russia"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the higher-level concept of Nuclear receptor subfamily 1 group I member 2.",
+  "options":[
+   "Christianity",
+   "motorcycle",
+   "protein",
+   "sandwich"
+  ],
+  "label":2
+ },
+ {
+  "text":"Of which class is Curtiss a subclass? [Y].",
+  "options":[
+   "protein",
+   "Zen",
+   "motorcycle",
+   "biology"
+  ],
+  "label":2
+ },
+ {
+  "text":"The region of [Y] uses Wakes week as a legal term.",
+  "options":[
+   "Bangladesh",
+   "Taiwan",
+   "Scotland",
+   "Ireland"
+  ],
+  "label":2
+ },
+ {
+  "text":"Joao Plata is a player who plays as a [Y].",
+  "options":[
+   "linebacker",
+   "quarterback",
+   "forward",
+   "midfielder"
+  ],
+  "label":2
+ },
+ {
+  "text":"Solange Fernex used to work in [Y].",
+  "options":[
+   "Stuttgart",
+   "Stockholm",
+   "Strasbourg",
+   "Vienna"
+  ],
+  "label":2
+ },
+ {
+  "text":"Maryland and [Y] are neighboring countries.",
+  "options":[
+   "Bavaria",
+   "Diepholz",
+   "Pennsylvania",
+   "Austria"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the country in which Western Sydney Wanderers FC is located.",
+  "options":[
+   "Belgium",
+   "Haiti",
+   "Australia",
+   "India"
+  ],
+  "label":2
+ },
+ {
+  "text":"35-hour workweek applies to the jurisdiction in [Y].",
+  "options":[
+   "India",
+   "Serbia",
+   "France",
+   "Australia"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the artistic genre of The Worm Ouroboros.",
+  "options":[
+   "comedy film",
+   "opera",
+   "fantasy",
+   "jazz"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the category of The Young Americans? [Y].",
+  "options":[
+   "suburb",
+   "siege",
+   "choir",
+   "award"
+  ],
+  "label":2
+ },
+ {
+  "text":"The central government of Tasmania is in [Y].",
+  "options":[
+   "Halifax",
+   "Aspen",
+   "Hobart",
+   "Kazan"
+  ],
+  "label":2
+ },
+ {
+  "text":"Officially, the people living in Canada use the language [Y] for communication.",
+  "options":[
+   "Bashkir",
+   "Finnish",
+   "French",
+   "Romanian"
+  ],
+  "label":2
+ },
+ {
+  "text":"George Souders was born in [Y].",
+  "options":[
+   "Toronto",
+   "Stuttgart",
+   "Lafayette",
+   "Madrid"
+  ],
+  "label":2
+ },
+ {
+  "text":"Benvenuto Rambaldi da Imola uses [Y] as its means of communication.",
+  "options":[
+   "Spanish",
+   "Polish",
+   "Latin",
+   "French"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which religion is Church of the Holy Sepulchre affiliated with? [Y].",
+  "options":[
+   "Judaism",
+   "Buddhism",
+   "Christianity",
+   "Islam"
+  ],
+  "label":2
+ },
+ {
+  "text":"Bienvenue chez les Ch'tis originates from the country of [Y].",
+  "options":[
+   "Italy",
+   "Australia",
+   "France",
+   "Netherlands"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the place where Slaithwaite is located.",
+  "options":[
+   "Essex",
+   "Saskatchewan",
+   "England",
+   "Oxfordshire"
+  ],
+  "label":2
+ },
+ {
+  "text":"Football Association of Cuba served for [Y].",
+  "options":[
+   "CONMEBOL",
+   "Train",
+   "FIFA",
+   "International Bank for Reconstruction and Development"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the administrative center of Kirklees.",
+  "options":[
+   "Augusta",
+   "Mumbai",
+   "Huddersfield",
+   "Moscow"
+  ],
+  "label":2
+ },
+ {
+  "text":"Alberto Rivera Pizarro is a famous [Y] player.",
+  "options":[
+   "outfielder",
+   "pitcher",
+   "midfielder",
+   "quarterback"
+  ],
+  "label":2
+ },
+ {
+  "text":"Cellach of Armagh has the position of [Y].",
+  "options":[
+   "cardinal",
+   "mayor",
+   "archbishop",
+   "bishop"
+  ],
+  "label":2
+ },
+ {
+  "text":"Fucked Up originated from [Y].",
+  "options":[
+   "Turin",
+   "Minneapolis",
+   "Toronto",
+   "Bedford"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is Gran Teatre del Liceu located? [Y].",
+  "options":[
+   "France",
+   "Bali",
+   "Barcelona",
+   "Chuuk"
+  ],
+  "label":2
+ },
+ {
+  "text":"The language [Y] was used for writing Different Class.",
+  "options":[
+   "Spanish",
+   "Indonesian",
+   "English",
+   "Greek"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which position does Sam Crawford play in? [Y].",
+  "options":[
+   "centre",
+   "quarterback",
+   "outfielder",
+   "catcher"
+  ],
+  "label":2
+ },
+ {
+  "text":"Call Me Maybe is part of [Y].",
+  "options":[
+   "battery",
+   "National Guard",
+   "curiosity",
+   "Andes"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is the capital of Pitkin County? [Y].",
+  "options":[
+   "Norwich",
+   "Banja Luka",
+   "Aspen",
+   "Nairobi"
+  ],
+  "label":2
+ },
+ {
+  "text":"Karl Ferdinand von Graefe saw the light of the world in [Y].",
+  "options":[
+   "Melbourne",
+   "London",
+   "Warsaw",
+   "Pasadena"
+  ],
+  "label":2
+ },
+ {
+  "text":"Carl Linnaeus works in the field of [Y].",
+  "options":[
+   "art of painting",
+   "physics",
+   "natural history",
+   "linguistics"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is spoken as an official language by people in Lieto.",
+  "options":[
+   "French",
+   "Swedish",
+   "Finnish",
+   "Bosnian"
+  ],
+  "label":2
+ },
+ {
+  "text":"Rob Zombie plays [Y].",
+  "options":[
+   "trumpet",
+   "mandolin",
+   "guitar",
+   "piano"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the original language of La Fontaine's Fables? [Y].",
+  "options":[
+   "Tamil",
+   "Bengali",
+   "French",
+   "English"
+  ],
+  "label":2
+ },
+ {
+  "text":"Thomas Piketty uses [Y] as its means of communication.",
+  "options":[
+   "Maltese",
+   "Hebrew",
+   "French",
+   "English"
+  ],
+  "label":2
+ },
+ {
+  "text":"Michael van Gerwen uses language [Y].",
+  "options":[
+   "Catalan",
+   "Lithuanian",
+   "Dutch",
+   "Italian"
+  ],
+  "label":2
+ },
+ {
+  "text":"Andy Vores is the representative of the [Y] style.",
+  "options":[
+   "sitcom",
+   "disco",
+   "opera",
+   "jazz"
+  ],
+  "label":2
+ },
+ {
+  "text":"Orange Juice was founded in [Y].",
+  "options":[
+   "Singapore",
+   "Oslo",
+   "Glasgow",
+   "Birmingham"
+  ],
+  "label":2
+ },
+ {
+  "text":"Natalie Lowe saw the light of the world in [Y].",
+  "options":[
+   "Edinburgh",
+   "Doncaster",
+   "Sydney",
+   "Brooklyn"
+  ],
+  "label":2
+ },
+ {
+  "text":"Who does Sid Waddell work for? [Y].",
+  "options":[
+   "Nike",
+   "IBM",
+   "BBC",
+   "Nintendo"
+  ],
+  "label":2
+ },
+ {
+  "text":"Alexander VIII served as [Y].",
+  "options":[
+   "abbot",
+   "patriarch",
+   "cardinal",
+   "archbishop"
+  ],
+  "label":2
+ },
+ {
+  "text":"Conjure Wife is the representative of the [Y] style.",
+  "options":[
+   "jazz",
+   "psychedelic rock",
+   "horror literature",
+   "opera"
+  ],
+  "label":2
+ },
+ {
+  "text":"Al Jourgensen joined [Y].",
+  "options":[
+   "Small Faces",
+   "European Coal and Steel Community",
+   "Ministry",
+   "FIFA"
+  ],
+  "label":2
+ },
+ {
+  "text":"Catholic Church has a role in the religion [Y].",
+  "options":[
+   "Islam",
+   "Hinduism",
+   "Catholicism",
+   "Christianity"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the superclass of TNF receptor superfamily member 8.",
+  "options":[
+   "textile",
+   "neoplasm",
+   "protein",
+   "Slovene"
+  ],
+  "label":2
+ },
+ {
+  "text":"P. D. James develops a career in [Y].",
+  "options":[
+   "IBM",
+   "Alexandria",
+   "BBC",
+   "Microsoft"
+  ],
+  "label":2
+ },
+ {
+  "text":"What position does George Pell hold? [Y].",
+  "options":[
+   "bishop",
+   "archbishop",
+   "cardinal",
+   "pope"
+  ],
+  "label":2
+ },
+ {
+  "text":"Handel Ice Piedmont is located on the continent of [Y].",
+  "options":[
+   "Oceania",
+   "Europe",
+   "Antarctica",
+   "Asia"
+  ],
+  "label":2
+ },
+ {
+  "text":"Crystal Sound is located on the continent of [Y].",
+  "options":[
+   "Europe",
+   "Asia",
+   "Antarctica",
+   "Oceania"
+  ],
+  "label":2
+ },
+ {
+  "text":"Lionel Jospin grew up speaking [Y] as their first language.",
+  "options":[
+   "Spanish",
+   "English",
+   "French",
+   "Dutch"
+  ],
+  "label":2
+ },
+ {
+  "text":"The style of Kelly Link is [Y].",
+  "options":[
+   "trance",
+   "jazz",
+   "fantasy",
+   "opera"
+  ],
+  "label":2
+ },
+ {
+  "text":"Frederick Thurston can perform on the [Y].",
+  "options":[
+   "oboe",
+   "guitar",
+   "clarinet",
+   "trumpet"
+  ],
+  "label":2
+ },
+ {
+  "text":"Mashina Vremeni is a work in the [Y] language.",
+  "options":[
+   "Azerbaijani",
+   "Catalan",
+   "English",
+   "Cape Verdean Creole"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the genre of Dick Katz? [Y].",
+  "options":[
+   "symphony",
+   "opera",
+   "jazz",
+   "torch song"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is Manipal University located? [Y].",
+  "options":[
+   "Metz",
+   "Leicestershire",
+   "Karnataka",
+   "Canton of Schaffhausen"
+  ],
+  "label":2
+ },
+ {
+  "text":"Minister of National Revenue applies to the jurisdiction in [Y].",
+  "options":[
+   "Ireland",
+   "France",
+   "Canada",
+   "Mexico"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which country was waffle created in? [Y].",
+  "options":[
+   "Japan",
+   "Philippines",
+   "Belgium",
+   "India"
+  ],
+  "label":2
+ },
+ {
+  "text":"A Fazenda was written in the [Y] language.",
+  "options":[
+   "Italian",
+   "Telugu",
+   "Portuguese",
+   "Spanish"
+  ],
+  "label":2
+ },
+ {
+  "text":"PLDT originated from [Y].",
+  "options":[
+   "Seattle",
+   "Cleveland",
+   "Manila",
+   "Chicago"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which country is Sands of Beirut located? [Y].",
+  "options":[
+   "Netherlands",
+   "India",
+   "Lebanon",
+   "Ireland"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the country of origin of Female Agents.",
+  "options":[
+   "Canada",
+   "Germany",
+   "France",
+   "Australia"
+  ],
+  "label":2
+ },
+ {
+  "text":"What position does Michel Sabbah hold? [Y].",
+  "options":[
+   "bishop",
+   "mayor",
+   "archbishop",
+   "abbot"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the native language of Novak Djokovic? [Y].",
+  "options":[
+   "Telugu",
+   "French",
+   "Serbian",
+   "Latin"
+  ],
+  "label":2
+ },
+ {
+  "text":"The native language of Jandhyala Subramanya Sastry is [Y].",
+  "options":[
+   "Dutch",
+   "French",
+   "Telugu",
+   "Tamil"
+  ],
+  "label":2
+ },
+ {
+  "text":"The city of Stralsund is twinned with [Y].",
+  "options":[
+   "Surabaya",
+   "Baku",
+   "Kiel",
+   "Athens"
+  ],
+  "label":2
+ },
+ {
+  "text":"The birth of Julia of Corsica occurred in [Y].",
+  "options":[
+   "Hawaii",
+   "Odessa",
+   "Carthage",
+   "Salem"
+  ],
+  "label":2
+ },
+ {
+  "text":"The Waltons premiered on the network [Y].",
+  "options":[
+   "FX",
+   "CNN",
+   "CBS",
+   "NBC"
+  ],
+  "label":2
+ },
+ {
+  "text":"The original language of Canone Inverso is [Y].",
+  "options":[
+   "Kannada",
+   "Marathi",
+   "Italian",
+   "French"
+  ],
+  "label":2
+ },
+ {
+  "text":"Ibrahim Pasha of Egypt holds the political title of [Y].",
+  "options":[
+   "pope",
+   "bishop",
+   "governor",
+   "archbishop"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where did Yehuda Leib Maimon work? [Y].",
+  "options":[
+   "Vermont",
+   "Borinage",
+   "Jerusalem",
+   "Helsinki"
+  ],
+  "label":2
+ },
+ {
+  "text":"Ann Cusack is a [Y] by profession.",
+  "options":[
+   "psychologist",
+   "musician",
+   "actor",
+   "astronaut"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which country is adjacent to Oppland? [Y].",
+  "options":[
+   "Verona",
+   "Mexico",
+   "Buskerud",
+   "Kosovo"
+  ],
+  "label":2
+ },
+ {
+  "text":"David Frost works for [Y].",
+  "options":[
+   "ESPN",
+   "BBC Sport",
+   "BBC",
+   "IBM"
+  ],
+  "label":2
+ },
+ {
+  "text":"Svalbard Treaty is located in [Y].",
+  "options":[
+   "Istanbul",
+   "Amsterdam",
+   "Paris",
+   "Halifax"
+  ],
+  "label":2
+ },
+ {
+  "text":"Angered represents a segment of [Y].",
+  "options":[
+   "Earth",
+   "oceanography",
+   "Gothenburg",
+   "filmmaking"
+  ],
+  "label":2
+ },
+ {
+  "text":"art is also necessarily a [Y].",
+  "options":[
+   "Vikings",
+   "protein",
+   "creativity",
+   "fortification"
+  ],
+  "label":2
+ },
+ {
+  "text":"The location of Grey Nuns was based in [Y].",
+  "options":[
+   "Paris",
+   "Southampton",
+   "Montreal",
+   "London"
+  ],
+  "label":2
+ },
+ {
+  "text":"The formation location of Feeding Fingers is [Y].",
+  "options":[
+   "Singapore",
+   "Netherlands",
+   "Atlanta",
+   "Shreveport"
+  ],
+  "label":2
+ },
+ {
+  "text":"James Clerk Maxwell was employed at [Y].",
+  "options":[
+   "Hamburg",
+   "London",
+   "Cambridge",
+   "Turin"
+  ],
+  "label":2
+ },
+ {
+  "text":"Hubert Gregg is employed by [Y].",
+  "options":[
+   "IBM",
+   "Netscape",
+   "BBC",
+   "Microsoft"
+  ],
+  "label":2
+ },
+ {
+  "text":"Poder Paralelo was created in [Y].",
+  "options":[
+   "Australia",
+   "France",
+   "Brazil",
+   "Netherlands"
+  ],
+  "label":2
+ },
+ {
+  "text":"Tiger Please was founded in [Y].",
+  "options":[
+   "Turin",
+   "Boston",
+   "Cardiff",
+   "Montreal"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where did Piero Bellugi die? [Y].",
+  "options":[
+   "Edinburgh",
+   "Rome",
+   "Florence",
+   "Paris"
+  ],
+  "label":2
+ },
+ {
+  "text":"The birth of Dmitri Nabokov occurred in [Y].",
+  "options":[
+   "Bucharest",
+   "Baghdad",
+   "Berlin",
+   "Germany"
+  ],
+  "label":2
+ },
+ {
+  "text":"Alban Berg used to work in [Y].",
+  "options":[
+   "Rome",
+   "Gothenburg",
+   "Vienna",
+   "Venice"
+  ],
+  "label":2
+ },
+ {
+  "text":"Officially, the people living in Pontianak Sultanate use the language [Y] for communication.",
+  "options":[
+   "French",
+   "Sicilian",
+   "Malay",
+   "Kabardian"
+  ],
+  "label":2
+ },
+ {
+  "text":"Delhi Technological University is held by [Y].",
+  "options":[
+   "Belfast",
+   "England",
+   "India",
+   "Austria"
+  ],
+  "label":2
+ },
+ {
+  "text":"Clement II has the position of [Y].",
+  "options":[
+   "cardinal",
+   "sultan",
+   "pope",
+   "regent"
+  ],
+  "label":2
+ },
+ {
+  "text":"Fad Gadget started their life in [Y].",
+  "options":[
+   "Toronto",
+   "Baltimore",
+   "London",
+   "Paris"
+  ],
+  "label":2
+ },
+ {
+  "text":"Modern Marvels premiered on the network [Y].",
+  "options":[
+   "HBO",
+   "NBC",
+   "History",
+   "BBC"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which entity does Umbral calculus belong to? [Y].",
+  "options":[
+   "brain",
+   "spacecraft",
+   "mathematics",
+   "Google"
+  ],
+  "label":2
+ },
+ {
+  "text":"Robbie Jansen is a [Y] in the genre.",
+  "options":[
+   "essay",
+   "opera",
+   "jazz",
+   "novella"
+  ],
+  "label":2
+ },
+ {
+  "text":"What position does Eusebius hold? [Y].",
+  "options":[
+   "archbishop",
+   "cardinal",
+   "pope",
+   "Shah"
+  ],
+  "label":2
+ },
+ {
+  "text":"Peak Records is the representative of the [Y] style.",
+  "options":[
+   "opera",
+   "reggae",
+   "jazz",
+   "classical music"
+  ],
+  "label":2
+ },
+ {
+  "text":"Bruce Plateau is located on the continent of [Y].",
+  "options":[
+   "Africa",
+   "Europe",
+   "Antarctica",
+   "Asia"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the first air channel of Rowan & Martin's Laugh-In.",
+  "options":[
+   "BBC",
+   "TF1",
+   "NBC",
+   "CBS"
+  ],
+  "label":2
+ },
+ {
+  "text":"The capital of Hungarian Soviet Republic is [Y].",
+  "options":[
+   "Stuttgart",
+   "Concord",
+   "Budapest",
+   "Vic"
+  ],
+  "label":2
+ },
+ {
+  "text":"The location of Basel on the Earth is the [Y] continent.",
+  "options":[
+   "Antarctica",
+   "Africa",
+   "Europe",
+   "Oceania"
+  ],
+  "label":2
+ },
+ {
+  "text":"Krusty the Clown is affiliated with the [Y] religion.",
+  "options":[
+   "Islam",
+   "Scientology",
+   "Judaism",
+   "Christianity"
+  ],
+  "label":2
+ },
+ {
+  "text":"Don't Wait Up is a [Y] in the genre.",
+  "options":[
+   "jazz",
+   "tragedy",
+   "sitcom",
+   "opera"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which entity does driving wheel belong to? [Y].",
+  "options":[
+   "mathematics",
+   "Bible",
+   "locomotive",
+   "Earth"
+  ],
+  "label":2
+ },
+ {
+  "text":"Helensvale railway station is in the territory of [Y].",
+  "options":[
+   "Paris",
+   "Nevada",
+   "Queensland",
+   "Jerusalem"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is Candace Kita's profession? [Y].",
+  "options":[
+   "politician",
+   "physicist",
+   "actor",
+   "architect"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] has vellum as an instance.",
+  "options":[
+   "shipyard",
+   "award",
+   "parchment",
+   "village"
+  ],
+  "label":2
+ },
+ {
+  "text":"What language is officially spoken in Siuntio? [Y].",
+  "options":[
+   "Old English",
+   "French",
+   "Finnish",
+   "English"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the first air channel of The Corner.",
+  "options":[
+   "NBC",
+   "CBS",
+   "HBO",
+   "CNN"
+  ],
+  "label":2
+ },
+ {
+  "text":"What makes up Dichlorosilane? [Y].",
+  "options":[
+   "sociology",
+   "oxygen",
+   "silicon",
+   "Joshua"
+  ],
+  "label":2
+ },
+ {
+  "text":"Underdog was originally aired on [Y].",
+  "options":[
+   "Team Toon",
+   "BBC",
+   "NBC",
+   "MTV"
+  ],
+  "label":2
+ },
+ {
+  "text":"Paanch first appeared in [Y].",
+  "options":[
+   "Japan",
+   "Poland",
+   "India",
+   "Canada"
+  ],
+  "label":2
+ },
+ {
+  "text":"New Delhi is a part of the continent [Y].",
+  "options":[
+   "Europe",
+   "Oceania",
+   "Asia",
+   "Antarctica"
+  ],
+  "label":2
+ },
+ {
+  "text":"What is the category of Endal? [Y].",
+  "options":[
+   "album",
+   "choir",
+   "dog",
+   "award"
+  ],
+  "label":2
+ },
+ {
+  "text":"Phongsaly Province shares border with [Y].",
+  "options":[
+   "Schaerbeek - Schaarbeek",
+   "Kentucky",
+   "Luang Prabang Province",
+   "Fishers"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the country where Elaine Cassidy holds citizenship.",
+  "options":[
+   "Germany",
+   "Canada",
+   "Ireland",
+   "Egypt"
+  ],
+  "label":2
+ },
+ {
+  "text":"The region of [Y] uses region or constituency of the Scottish Parliament as a legal term.",
+  "options":[
+   "France",
+   "Greece",
+   "Scotland",
+   "Guyana"
+  ],
+  "label":2
+ },
+ {
+  "text":"System Controller Hub is produced by the company of [Y].",
+  "options":[
+   "Iran",
+   "Nissan",
+   "Intel",
+   "Honda"
+  ],
+  "label":2
+ },
+ {
+  "text":"Boinpalle mandal is a [Y].",
+  "options":[
+   "software",
+   "award",
+   "village",
+   "Thoroughbred"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which country is Habitat 67 located? [Y].",
+  "options":[
+   "Sweden",
+   "Japan",
+   "Canada",
+   "Italy"
+  ],
+  "label":2
+ },
+ {
+  "text":"Ashley Gorley was awarded as a great [Y].",
+  "options":[
+   "screenwriter",
+   "actor",
+   "songwriter",
+   "record producer"
+  ],
+  "label":2
+ },
+ {
+  "text":"Middletown Area School District is located in [Y].",
+  "options":[
+   "Algeria",
+   "Honolulu",
+   "Pennsylvania",
+   "Gujarat"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which music label represents Takk...? [Y].",
+  "options":[
+   "Motown",
+   "MJJ Music",
+   "EMI",
+   "Decca"
+  ],
+  "label":2
+ },
+ {
+  "text":"Mark Feldman is a [Y] player.",
+  "options":[
+   "saxophone",
+   "trumpet",
+   "violin",
+   "accordion"
+  ],
+  "label":2
+ },
+ {
+  "text":"Magic Dick is a [Y] player.",
+  "options":[
+   "guitar",
+   "saxophone",
+   "harmonica",
+   "piano"
+  ],
+  "label":2
+ },
+ {
+  "text":"Dijon and [Y] are sister cities that have been developing together.",
+  "options":[
+   "Seoul",
+   "Baghdad",
+   "Dallas",
+   "Saint Petersburg"
+  ],
+  "label":2
+ },
+ {
+  "text":"Quezon City and [Y] are twin cities.",
+  "options":[
+   "Kiev",
+   "Athens",
+   "Taipei",
+   "Madrid"
+  ],
+  "label":2
+ },
+ {
+  "text":"Officially, the people living in Mississippi use the language [Y] for communication.",
+  "options":[
+   "Ukrainian",
+   "Swedish",
+   "English",
+   "Nauruan"
+  ],
+  "label":2
+ },
+ {
+  "text":"Renato Augusto is a famous [Y] player.",
+  "options":[
+   "quarterback",
+   "linebacker",
+   "midfielder",
+   "pitcher"
+  ],
+  "label":2
+ },
+ {
+  "text":"Peter Chrysologus holds the political title of [Y].",
+  "options":[
+   "mayor",
+   "bishop",
+   "archbishop",
+   "abbot"
+  ],
+  "label":2
+ },
+ {
+  "text":"Henry Calvert Simons had work activity in [Y].",
+  "options":[
+   "Ottawa",
+   "Paris",
+   "Chicago",
+   "Cincinnati"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is Toumba Stadium located? [Y].",
+  "options":[
+   "Tibet",
+   "Istanbul",
+   "Thessaloniki",
+   "Paris"
+  ],
+  "label":2
+ },
+ {
+  "text":"Which service originally aired The Late Late Show with Craig Ferguson? [Y].",
+  "options":[
+   "BBC",
+   "ESPN",
+   "CBS",
+   "NBC"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the country of origin of U2.",
+  "options":[
+   "Jamaica",
+   "Denmark",
+   "Ireland",
+   "Canada"
+  ],
+  "label":2
+ },
+ {
+  "text":"Where is the headquarters of Officine Stampaggi Industriali? [Y].",
+  "options":[
+   "Rome",
+   "Beijing",
+   "Turin",
+   "Mumbai"
+  ],
+  "label":2
+ },
+ {
+  "text":"Martin Drennan served as [Y].",
+  "options":[
+   "pope",
+   "archbishop",
+   "bishop",
+   "mayor"
+  ],
+  "label":2
+ },
+ {
+  "text":"Caciocavallo first appeared in [Y].",
+  "options":[
+   "Australia",
+   "France",
+   "Italy",
+   "Japan"
+  ],
+  "label":2
+ },
+ {
+  "text":"[Y] is the higher-level concept of T-cell receptor.",
+  "options":[
+   "blacksmith",
+   "torture",
+   "poet",
+   "protein"
+  ],
+  "label":3
+ },
+ {
+  "text":"Bertold von Henneberg-R\u00f6mhild holds the political title of [Y].",
+  "options":[
+   "bishop",
+   "pope",
+   "abbot",
+   "archbishop"
+  ],
+  "label":3
+ },
+ {
+  "text":"What is the original language of L'Age d'Or? [Y].",
+  "options":[
+   "Hindi",
+   "Bengali",
+   "Filipino",
+   "French"
+  ],
+  "label":3
+ },
+ {
+  "text":"Great Western Railway started their career in [Y].",
+  "options":[
+   "Milan",
+   "Venice",
+   "Seattle",
+   "Bristol"
+  ],
+  "label":3
+ },
+ {
+  "text":"Erwin Blumenfeld was employed at [Y].",
+  "options":[
+   "Cologne",
+   "Bologna",
+   "Leiden",
+   "Paris"
+  ],
+  "label":3
+ },
+ {
+  "text":"O'Brien Schofield is a famous [Y] player.",
+  "options":[
+   "quarterback",
+   "goaltender",
+   "midfielder",
+   "linebacker"
+  ],
+  "label":3
+ },
+ {
+  "text":"Wars of the Three Kingdoms is held by [Y].",
+  "options":[
+   "Moon",
+   "Scandinavia",
+   "Belgium",
+   "Kingdom of Ireland"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] has desire as an instance.",
+  "options":[
+   "Buddhism",
+   "album",
+   "award",
+   "emotion"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the superclass of Mucolipin 1.",
+  "options":[
+   "dog",
+   "medication",
+   "swing",
+   "protein"
+  ],
+  "label":3
+ },
+ {
+  "text":"Jeff Rutledge is a famous [Y] player.",
+  "options":[
+   "midfielder",
+   "linebacker",
+   "pitcher",
+   "quarterback"
+  ],
+  "label":3
+ },
+ {
+  "text":"Ambatofinandrahana District is located in the country of [Y].",
+  "options":[
+   "Sweden",
+   "Norway",
+   "Germany",
+   "Madagascar"
+  ],
+  "label":3
+ },
+ {
+  "text":"What musical instrument does Bennie Wallace play? [Y].",
+  "options":[
+   "trumpet",
+   "piano",
+   "mandolin",
+   "saxophone"
+  ],
+  "label":3
+ },
+ {
+  "text":"John Zachman develops a career in [Y].",
+  "options":[
+   "McLaren",
+   "Burberry",
+   "BBC",
+   "IBM"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the first air channel of The Bob Newhart Show.",
+  "options":[
+   "MTV",
+   "PBS",
+   "Nickelodeon",
+   "CBS"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the country in which Calw is located.",
+  "options":[
+   "Yemen",
+   "Japan",
+   "Turkey",
+   "Germany"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the head office location of Alitalia-Linee Aeree Italiane.",
+  "options":[
+   "Warsaw",
+   "Toronto",
+   "Seattle",
+   "Rome"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the superclass of Interferon gamma-1b.",
+  "options":[
+   "trainer",
+   "waiter",
+   "dessert",
+   "protein"
+  ],
+  "label":3
+ },
+ {
+  "text":"Giuseppe Furino is a famous [Y] player.",
+  "options":[
+   "pitcher",
+   "linebacker",
+   "quarterback",
+   "midfielder"
+  ],
+  "label":3
+ },
+ {
+  "text":"Fiorucci was founded in [Y].",
+  "options":[
+   "London",
+   "Glasgow",
+   "Mumbai",
+   "Milan"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the place where Nitzan Horowitz worked.",
+  "options":[
+   "Berlin",
+   "Leiden",
+   "Amsterdam",
+   "Jerusalem"
+  ],
+  "label":3
+ },
+ {
+  "text":"What musical instrument does Jimmy McCracklin play? [Y].",
+  "options":[
+   "saxophone",
+   "bass guitar",
+   "violin",
+   "piano"
+  ],
+  "label":3
+ },
+ {
+  "text":"Pope Heraclas of Alexandria has the position of [Y].",
+  "options":[
+   "pope",
+   "cardinal",
+   "archbishop",
+   "bishop"
+  ],
+  "label":3
+ },
+ {
+  "text":"Of which class is margarine a subclass? [Y].",
+  "options":[
+   "mathematics",
+   "protein",
+   "cheese",
+   "spread"
+  ],
+  "label":3
+ },
+ {
+  "text":"pan de muerto was created in [Y].",
+  "options":[
+   "Netherlands",
+   "Spain",
+   "France",
+   "Mexico"
+  ],
+  "label":3
+ },
+ {
+  "text":"The Province is a work in the [Y] language.",
+  "options":[
+   "Hebrew",
+   "Armenian",
+   "Greek",
+   "English"
+  ],
+  "label":3
+ },
+ {
+  "text":"Josephus Nicolaus Laurenti spent the last years of life in [Y].",
+  "options":[
+   "Baltimore",
+   "Caracas",
+   "Jamaica",
+   "Vienna"
+  ],
+  "label":3
+ },
+ {
+  "text":"Teen Mom 2 was initially launched on [Y].",
+  "options":[
+   "CBS",
+   "BBC",
+   "NBC",
+   "MTV"
+  ],
+  "label":3
+ },
+ {
+  "text":"Alice Coltrane plays [Y].",
+  "options":[
+   "violin",
+   "guitar",
+   "trombone",
+   "harp"
+  ],
+  "label":3
+ },
+ {
+  "text":"Who owns Arena Armeec? [Y].",
+  "options":[
+   "Ukraine",
+   "Belgrade",
+   "Microsoft",
+   "Sofia"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the head office location of Long-Term Capital Management.",
+  "options":[
+   "Brisbane",
+   "Cincinnati",
+   "Rhodes",
+   "Greenwich"
+  ],
+  "label":3
+ },
+ {
+  "text":"Raindance Film Festival is located in [Y].",
+  "options":[
+   "Essex",
+   "Uzbekistan",
+   "Blackpool",
+   "London"
+  ],
+  "label":3
+ },
+ {
+  "text":"Cezar Florin Ouatu plays [Y].",
+  "options":[
+   "flute",
+   "bass guitar",
+   "trumpet",
+   "piano"
+  ],
+  "label":3
+ },
+ {
+  "text":"Paulo Sousa is a famous [Y] player.",
+  "options":[
+   "quarterback",
+   "linebacker",
+   "goaltender",
+   "midfielder"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was Institut de Droit International founded? [Y].",
+  "options":[
+   "Seattle",
+   "Albany",
+   "Detroit",
+   "Ghent"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the continent where Harold Byrd Mountains is located.",
+  "options":[
+   "Africa",
+   "Europe",
+   "Asia",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"The sister cities of Damascus include [Y].",
+  "options":[
+   "Palermo",
+   "Riga",
+   "Venice",
+   "Florence"
+  ],
+  "label":3
+ },
+ {
+  "text":"Def Poetry premiered on the network [Y].",
+  "options":[
+   "CBS",
+   "AMC",
+   "NBC",
+   "HBO"
+  ],
+  "label":3
+ },
+ {
+  "text":"Gummi candy was created in [Y].",
+  "options":[
+   "Italy",
+   "Canada",
+   "Japan",
+   "Germany"
+  ],
+  "label":3
+ },
+ {
+  "text":"Randy Newman plays [Y].",
+  "options":[
+   "guitar",
+   "violin",
+   "cornet",
+   "piano"
+  ],
+  "label":3
+ },
+ {
+  "text":"Downtown Orlando is in the territory of [Y].",
+  "options":[
+   "Queensland",
+   "Alberta",
+   "Dallas",
+   "Florida"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where is Johns Hopkins University located? [Y].",
+  "options":[
+   "Athens",
+   "Texas",
+   "Kentucky",
+   "Maryland"
+  ],
+  "label":3
+ },
+ {
+  "text":"Rhea Chakraborty was born in [Y].",
+  "options":[
+   "Baltimore",
+   "Paris",
+   "Lafayette",
+   "Bangalore"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] represents the capital city for Onondaga County.",
+  "options":[
+   "Tbilisi",
+   "Cairo",
+   "Harrisburg",
+   "Syracuse"
+  ],
+  "label":3
+ },
+ {
+  "text":"Masaya Department is located in [Y].",
+  "options":[
+   "Ottawa",
+   "Colorado",
+   "Karnataka",
+   "Nicaragua"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where is Downtown East Village, Calgary located? [Y].",
+  "options":[
+   "Queensland",
+   "Texas",
+   "Chennai",
+   "Alberta"
+  ],
+  "label":3
+ },
+ {
+  "text":"British Museum is held by [Y].",
+  "options":[
+   "Afghanistan",
+   "Ireland",
+   "Nuremberg",
+   "London"
+  ],
+  "label":3
+ },
+ {
+  "text":"What is the category of desire? [Y].",
+  "options":[
+   "infection",
+   "lottery",
+   "hotel",
+   "emotion"
+  ],
+  "label":3
+ },
+ {
+  "text":"Neo Rauch was employed at [Y].",
+  "options":[
+   "Frankfurt",
+   "London",
+   "Amsterdam",
+   "Leipzig"
+  ],
+  "label":3
+ },
+ {
+  "text":"Rajya Sabha applies to the jurisdiction in [Y].",
+  "options":[
+   "Afghanistan",
+   "Canada",
+   "Sparta",
+   "India"
+  ],
+  "label":3
+ },
+ {
+  "text":"Who does Beth Phoenix work for? [Y].",
+  "options":[
+   "BBC",
+   "CNN",
+   "Apple",
+   "WWE"
+  ],
+  "label":3
+ },
+ {
+  "text":"Palau maintains diplomatic relations with [Y].",
+  "options":[
+   "Moldova",
+   "Turkey",
+   "Italy",
+   "Australia"
+  ],
+  "label":3
+ },
+ {
+  "text":"Officially, the people living in Saint Pierre and Miquelon use the language [Y] for communication.",
+  "options":[
+   "Finnish",
+   "Persian",
+   "English",
+   "French"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the mother tongue of Adolphe Pinard.",
+  "options":[
+   "Northern Sami",
+   "Swedish",
+   "Dutch",
+   "French"
+  ],
+  "label":3
+ },
+ {
+  "text":"NTL Ireland originated from [Y].",
+  "options":[
+   "Oxfordshire",
+   "Boston",
+   "Minneapolis",
+   "Dublin"
+  ],
+  "label":3
+ },
+ {
+  "text":"Marian Rejewski made significant contributions in the field of [Y].",
+  "options":[
+   "medicine",
+   "miniature",
+   "physiology",
+   "mathematics"
+  ],
+  "label":3
+ },
+ {
+  "text":"Mathematical folklore made significant contributions in the field of [Y].",
+  "options":[
+   "celestial mechanics",
+   "sociology",
+   "car",
+   "mathematics"
+  ],
+  "label":3
+ },
+ {
+  "text":"\u014csaka and [Y] are sister cities that have been developing together.",
+  "options":[
+   "Thessaloniki",
+   "Dubai",
+   "Jerusalem",
+   "Shanghai"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the country of origin of Kaagaz Ke Phool.",
+  "options":[
+   "Canada",
+   "France",
+   "Turkey",
+   "India"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] consists of humanities.",
+  "options":[
+   "Judaism",
+   "mathematics",
+   "medicine",
+   "science"
+  ],
+  "label":3
+ },
+ {
+  "text":"Marc Lamothe is a player who plays as a [Y].",
+  "options":[
+   "quarterback",
+   "linebacker",
+   "midfielder",
+   "goaltender"
+  ],
+  "label":3
+ },
+ {
+  "text":"What position does Lorenzo Baldisseri hold? [Y].",
+  "options":[
+   "bishop",
+   "abbot",
+   "cardinal",
+   "archbishop"
+  ],
+  "label":3
+ },
+ {
+  "text":"Paul Mounsey was born in [Y].",
+  "options":[
+   "Brooklyn",
+   "Essex",
+   "New York City",
+   "Scotland"
+  ],
+  "label":3
+ },
+ {
+  "text":"The headquarter of Hinkley Locomotive Works is in [Y].",
+  "options":[
+   "Moscow",
+   "Bern",
+   "Bremen",
+   "Boston"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was Kasabian founded? [Y].",
+  "options":[
+   "Dallas",
+   "London",
+   "Boston",
+   "Leicester"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the first air channel of Telephone Time.",
+  "options":[
+   "ESPN",
+   "PBS",
+   "NBC",
+   "CBS"
+  ],
+  "label":3
+ },
+ {
+  "text":"netbook is also necessarily a [Y].",
+  "options":[
+   "sanctuary",
+   "ammunition",
+   "caucus",
+   "laptop"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] belongs to \u03b2-D-2-deoxyribose.",
+  "options":[
+   "rice",
+   "flour",
+   "Nevada",
+   "carbon"
+  ],
+  "label":3
+ },
+ {
+  "text":"Abraj Al Bait is located in [Y].",
+  "options":[
+   "Amsterdam",
+   "Slovakia",
+   "Atlanta",
+   "Mecca"
+  ],
+  "label":3
+ },
+ {
+  "text":"Robin Rhode had work activity in [Y].",
+  "options":[
+   "F\u00fchrerbunker",
+   "Rome",
+   "Boston",
+   "Berlin"
+  ],
+  "label":3
+ },
+ {
+  "text":"Moin-ud-din Chishti has a role in the religion [Y].",
+  "options":[
+   "Maronite Church",
+   "Christianity",
+   "Judaism",
+   "Islam"
+  ],
+  "label":3
+ },
+ {
+  "text":"Tim Cole died in [Y].",
+  "options":[
+   "London",
+   "Brunswick",
+   "India",
+   "Texas"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is a member of alpha-linolenic acid.",
+  "options":[
+   "Estonia",
+   "phonology",
+   "flour",
+   "carbon"
+  ],
+  "label":3
+ },
+ {
+  "text":"National Cycling Centre is under the control of [Y].",
+  "options":[
+   "Sky",
+   "Hesse",
+   "Microsoft",
+   "Manchester"
+  ],
+  "label":3
+ },
+ {
+  "text":"Mount Harker is located on the continent of [Y].",
+  "options":[
+   "South America",
+   "Africa",
+   "Europe",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"Vanessa Freebairn-Smith can perform on the [Y].",
+  "options":[
+   "guitar",
+   "piano",
+   "violin",
+   "cello"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which country was El Caballo del pueblo created in? [Y].",
+  "options":[
+   "Ecuador",
+   "United States of America",
+   "Hungary",
+   "Argentina"
+  ],
+  "label":3
+ },
+ {
+  "text":"Third Floor Gallery occurred in [Y].",
+  "options":[
+   "Levant",
+   "Qatar",
+   "Barcelona",
+   "Cardiff"
+  ],
+  "label":3
+ },
+ {
+  "text":"Soir 3 is a work in the [Y] language.",
+  "options":[
+   "Bengali",
+   "Breton",
+   "English",
+   "French"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which service originally aired Real Time with Bill Maher? [Y].",
+  "options":[
+   "ITV",
+   "MTV",
+   "TNT",
+   "HBO"
+  ],
+  "label":3
+ },
+ {
+  "text":"Theodore Haak died in [Y].",
+  "options":[
+   "Constantinople",
+   "Derby",
+   "Auckland",
+   "London"
+  ],
+  "label":3
+ },
+ {
+  "text":"Deborah Conway is a [Y] player.",
+  "options":[
+   "viola",
+   "banjo",
+   "piano",
+   "guitar"
+  ],
+  "label":3
+ },
+ {
+  "text":"The official language of Camorino is [Y].",
+  "options":[
+   "Swedish",
+   "English",
+   "Finnish",
+   "Italian"
+  ],
+  "label":3
+ },
+ {
+  "text":"I See Fire is in language [Y].",
+  "options":[
+   "Hebrew",
+   "French",
+   "Russian",
+   "English"
+  ],
+  "label":3
+ },
+ {
+  "text":"Cape Royds is located on the continent of [Y].",
+  "options":[
+   "Africa",
+   "Europe",
+   "Oceania",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the country where Mar Thoma I holds citizenship.",
+  "options":[
+   "Indonesia",
+   "Israel",
+   "Belgium",
+   "India"
+  ],
+  "label":3
+ },
+ {
+  "text":"The Bigelow Theatre was initially launched on [Y].",
+  "options":[
+   "NBC",
+   "Hulu",
+   "WNET",
+   "CBS"
+  ],
+  "label":3
+ },
+ {
+  "text":"Germany and [Y] have diplomatic friendly relations.",
+  "options":[
+   "Federated States of Micronesia",
+   "Niue",
+   "Montenegro",
+   "France"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] designates Mumbai as its capital.",
+  "options":[
+   "Argentina",
+   "Argolis Regional Unit",
+   "Serbia",
+   "Maharashtra"
+  ],
+  "label":3
+ },
+ {
+  "text":"The New Times is in language [Y].",
+  "options":[
+   "English",
+   "Korean",
+   "French",
+   "Russian"
+  ],
+  "label":3
+ },
+ {
+  "text":"Arnold Bax is a [Y] in the genre.",
+  "options":[
+   "funk",
+   "jazz",
+   "trance",
+   "symphony"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is spoken as an official language by people in Kosovo.",
+  "options":[
+   "Hindi",
+   "English",
+   "Hebrew",
+   "Albanian"
+  ],
+  "label":3
+ },
+ {
+  "text":"Who does John Howard Davies work for? [Y].",
+  "options":[
+   "ESPN",
+   "NPR",
+   "Yahoo",
+   "BBC"
+  ],
+  "label":3
+ },
+ {
+  "text":"Top Cops was originally aired on [Y].",
+  "options":[
+   "PBS",
+   "History",
+   "NBC",
+   "CBS"
+  ],
+  "label":3
+ },
+ {
+  "text":"Sverresborg is an instance of [Y].",
+  "options":[
+   "hotel",
+   "fortification",
+   "algorithm",
+   "open-air museum"
+  ],
+  "label":3
+ },
+ {
+  "text":"bunker is also necessarily a [Y].",
+  "options":[
+   "protein",
+   "trail",
+   "infantry",
+   "fortification"
+  ],
+  "label":3
+ },
+ {
+  "text":"Irish Sea is named after [Y].",
+  "options":[
+   "Athena",
+   "France",
+   "Milan",
+   "Ireland"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] recognizes Posio as its official language.",
+  "options":[
+   "Spanish",
+   "Turkish",
+   "Russian",
+   "Finnish"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was Ace Kefford born? [Y].",
+  "options":[
+   "Shrewsbury",
+   "Wisconsin",
+   "Milwaukee",
+   "Birmingham"
+  ],
+  "label":3
+ },
+ {
+  "text":"The Shining Star is a work in the [Y] language.",
+  "options":[
+   "English",
+   "Finnish",
+   "Hindi",
+   "Chinese"
+  ],
+  "label":3
+ },
+ {
+  "text":"Dookudu is created in language [Y].",
+  "options":[
+   "Italian",
+   "Thai",
+   "Korean",
+   "Telugu"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the place where North Stonington is located.",
+  "options":[
+   "Vienna",
+   "Unorganized Borough",
+   "Mississippi",
+   "Connecticut"
+  ],
+  "label":3
+ },
+ {
+  "text":"Domenico Cimarosa is a [Y] in the genre.",
+  "options":[
+   "sitcom",
+   "disco",
+   "jazz",
+   "opera"
+  ],
+  "label":3
+ },
+ {
+  "text":"Kevin Eakin was given the [Y] job.",
+  "options":[
+   "goaltender",
+   "midfielder",
+   "pitcher",
+   "quarterback"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is spoken as an official language by people in Albania.",
+  "options":[
+   "Russian",
+   "Abaza",
+   "Finnish",
+   "Albanian"
+  ],
+  "label":3
+ },
+ {
+  "text":"Alathur is in the territory of [Y].",
+  "options":[
+   "Jerusalem",
+   "Leeds",
+   "Lancaster",
+   "Kerala"
+  ],
+  "label":3
+ },
+ {
+  "text":"Saverio Mercadante is the representative of the [Y] style.",
+  "options":[
+   "sitcom",
+   "reggae",
+   "jazz",
+   "opera"
+  ],
+  "label":3
+ },
+ {
+  "text":"What language does Joseph Hume use? [Y].",
+  "options":[
+   "Italian",
+   "Spanish",
+   "Catalan",
+   "English"
+  ],
+  "label":3
+ },
+ {
+  "text":"What musical instrument does Hubert Laws play? [Y].",
+  "options":[
+   "guitar",
+   "cello",
+   "piano",
+   "saxophone"
+  ],
+  "label":3
+ },
+ {
+  "text":"Ben Roethlisberger was given the [Y] job.",
+  "options":[
+   "midfielder",
+   "goaltender",
+   "outfielder",
+   "quarterback"
+  ],
+  "label":3
+ },
+ {
+  "text":"All About She originated from [Y].",
+  "options":[
+   "Norway",
+   "Serbia",
+   "Bergen",
+   "London"
+  ],
+  "label":3
+ },
+ {
+  "text":"The headquarter of Narrative Science is in [Y].",
+  "options":[
+   "Hamburg",
+   "Kyoto",
+   "London",
+   "Chicago"
+  ],
+  "label":3
+ },
+ {
+  "text":"Jeppesen is owned by [Y].",
+  "options":[
+   "Amtrak",
+   "Chicago",
+   "Google",
+   "Boeing"
+  ],
+  "label":3
+ },
+ {
+  "text":"Casablanca and [Y] are twin cities.",
+  "options":[
+   "Odessa",
+   "New York City",
+   "San Juan",
+   "Cairo"
+  ],
+  "label":3
+ },
+ {
+  "text":"Solomon Hirschell resided in [Y] until death.",
+  "options":[
+   "Naples",
+   "Rome",
+   "Stuttgart",
+   "London"
+  ],
+  "label":3
+ },
+ {
+  "text":"Frank Teschemacher is the representative of the [Y] style.",
+  "options":[
+   "sitcom",
+   "novella",
+   "symphony",
+   "jazz"
+  ],
+  "label":3
+ },
+ {
+  "text":"Bad Vilbel is located in the country of [Y].",
+  "options":[
+   "Italy",
+   "Azerbaijan",
+   "Spain",
+   "Germany"
+  ],
+  "label":3
+ },
+ {
+  "text":"Fairfield West is in the country [Y].",
+  "options":[
+   "Canada",
+   "Germany",
+   "Finland",
+   "Australia"
+  ],
+  "label":3
+ },
+ {
+  "text":"London Road Stadium is owned by [Y].",
+  "options":[
+   "Amazon",
+   "California",
+   "Denver",
+   "Peterborough"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which entity does Lewotobi belong to? [Y].",
+  "options":[
+   "mathematics",
+   "Hebrew Bible",
+   "philosophy",
+   "Flores"
+  ],
+  "label":3
+ },
+ {
+  "text":"What makes up disilyne? [Y].",
+  "options":[
+   "Tajikistan",
+   "macromolecule",
+   "iron",
+   "hydrogen"
+  ],
+  "label":3
+ },
+ {
+  "text":"The formation location of Ell & Nikki is [Y].",
+  "options":[
+   "Netherlands",
+   "Brooklyn",
+   "London",
+   "Baku"
+  ],
+  "label":3
+ },
+ {
+  "text":"Zagarolo and [Y] are neighboring countries.",
+  "options":[
+   "Oslo",
+   "Shropshire",
+   "Bremerhaven",
+   "Monte Compatri"
+  ],
+  "label":3
+ },
+ {
+  "text":"Julius II holds the political title of [Y].",
+  "options":[
+   "bishop",
+   "patriarch",
+   "archbishop",
+   "pope"
+  ],
+  "label":3
+ },
+ {
+  "text":"The birth of Eddie Locke occurred in [Y].",
+  "options":[
+   "Istanbul",
+   "Chicago",
+   "France",
+   "Detroit"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where did Ignazio Danti work? [Y].",
+  "options":[
+   "Frankfurt",
+   "Vancouver",
+   "Oslo",
+   "Rome"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which religion is Jewish cemetery affiliated with? [Y].",
+  "options":[
+   "Christianity",
+   "Islam",
+   "Sunni Islam",
+   "Judaism"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the place where Gustav Lindau worked.",
+  "options":[
+   "Moscow",
+   "Paris",
+   "Weimar",
+   "Berlin"
+  ],
+  "label":3
+ },
+ {
+  "text":"What musical instrument does Narvin Kimball play? [Y].",
+  "options":[
+   "guitar",
+   "saxophone",
+   "bass guitar",
+   "banjo"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is spoken as an official language by people in Hailuoto.",
+  "options":[
+   "English",
+   "Dutch",
+   "Swedish",
+   "Finnish"
+  ],
+  "label":3
+ },
+ {
+  "text":"Barbara Farrell Vucanovich is famous for achievements as a [Y].",
+  "options":[
+   "journalist",
+   "film producer",
+   "record producer",
+   "politician"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the continent where Skelton Glacier is located.",
+  "options":[
+   "Asia",
+   "Africa",
+   "Europe",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"Stars Earn Stripes was initially launched on [Y].",
+  "options":[
+   "MTV",
+   "CBS",
+   "PBS",
+   "NBC"
+  ],
+  "label":3
+ },
+ {
+  "text":"Ajahn Sumedho served as [Y].",
+  "options":[
+   "pope",
+   "bishop",
+   "archbishop",
+   "abbot"
+  ],
+  "label":3
+ },
+ {
+  "text":"You can go through Guangxi Zhuang Autonomous Region to reach [Y].",
+  "options":[
+   "Havelland District",
+   "Lyon",
+   "California",
+   "Guizhou"
+  ],
+  "label":3
+ },
+ {
+  "text":"Matt Groening is influential in the domain of [Y].",
+  "options":[
+   "linguistics",
+   "physician",
+   "theology",
+   "cartoonist"
+  ],
+  "label":3
+ },
+ {
+  "text":"Spitting Image is a work in the [Y] language.",
+  "options":[
+   "Greek",
+   "Tamil",
+   "French",
+   "English"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the first air channel of Nova ScienceNow.",
+  "options":[
+   "NBC",
+   "ESPN",
+   "MTV",
+   "PBS"
+  ],
+  "label":3
+ },
+ {
+  "text":"Who developed Yoshi's Universal Gravitation? [Y].",
+  "options":[
+   "Intel",
+   "Microsoft",
+   "Sega",
+   "Nintendo"
+  ],
+  "label":3
+ },
+ {
+  "text":"On what continent is Land Glacier located? [Y].",
+  "options":[
+   "Europe",
+   "Africa",
+   "Oceania",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"The Joseph Cotten Show was originally aired on [Y].",
+  "options":[
+   "Telefe",
+   "MTV",
+   "MTV2",
+   "NBC"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was The Soviettes founded? [Y].",
+  "options":[
+   "Munich",
+   "Baltimore",
+   "Turin",
+   "Minneapolis"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the continent where Mount Lister is located.",
+  "options":[
+   "Asia",
+   "Africa",
+   "Europe",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"Hesperides Hill is located on the continent of [Y].",
+  "options":[
+   "Asia",
+   "Europe",
+   "Africa",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"The Wilde Flowers originated from [Y].",
+  "options":[
+   "Sweden",
+   "Toronto",
+   "Houston",
+   "Canterbury"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] consists of shape.",
+  "options":[
+   "milk",
+   "Andes",
+   "violin",
+   "geometry"
+  ],
+  "label":3
+ },
+ {
+  "text":"Pennsylvania shares border with [Y].",
+  "options":[
+   "Russia",
+   "Bryansk Oblast",
+   "Quart de Poblet",
+   "New Jersey"
+  ],
+  "label":3
+ },
+ {
+  "text":"Hadia Tajik had work activity in [Y].",
+  "options":[
+   "Paris",
+   "Belgium",
+   "London",
+   "Oslo"
+  ],
+  "label":3
+ },
+ {
+  "text":"Officially, the people living in European Space Agency use the language [Y] for communication.",
+  "options":[
+   "Swedish",
+   "Spanish",
+   "Khmer",
+   "English"
+  ],
+  "label":3
+ },
+ {
+  "text":"In which language is Resesi written? [Y].",
+  "options":[
+   "Russian",
+   "English",
+   "Spanish",
+   "Indonesian"
+  ],
+  "label":3
+ },
+ {
+  "text":"Philippine Lotto Draw first appeared in [Y].",
+  "options":[
+   "Australia",
+   "India",
+   "Japan",
+   "Philippines"
+  ],
+  "label":3
+ },
+ {
+  "text":"The location of Aviation Industry Corporation of China was based in [Y].",
+  "options":[
+   "Irvine",
+   "Atlanta",
+   "Berlin",
+   "Beijing"
+  ],
+  "label":3
+ },
+ {
+  "text":"Nicolaus Steno made significant contributions in the field of [Y].",
+  "options":[
+   "science",
+   "philosophy",
+   "medicine",
+   "anatomy"
+  ],
+  "label":3
+ },
+ {
+  "text":"Ossessione was written in the [Y] language.",
+  "options":[
+   "English",
+   "Korean",
+   "Telugu",
+   "Italian"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where did Ludwig Gies work? [Y].",
+  "options":[
+   "Vienna",
+   "Moscow",
+   "Radebeul",
+   "Berlin"
+  ],
+  "label":3
+ },
+ {
+  "text":"What administrative division is governed from Vergina? [Y].",
+  "options":[
+   "Judah",
+   "Crete",
+   "Kansas",
+   "Macedonia"
+  ],
+  "label":3
+ },
+ {
+  "text":"The headquarter of Starz Inc. is in [Y].",
+  "options":[
+   "Dallas",
+   "Madrid",
+   "Winnipeg",
+   "Meridian"
+  ],
+  "label":3
+ },
+ {
+  "text":"Moissac Abbey is located in the country of [Y].",
+  "options":[
+   "Norway",
+   "Ireland",
+   "India",
+   "France"
+  ],
+  "label":3
+ },
+ {
+  "text":"What is the genre of Ildebrando Pizzetti? [Y].",
+  "options":[
+   "fantasy",
+   "jazz",
+   "disco",
+   "opera"
+  ],
+  "label":3
+ },
+ {
+  "text":"What is the genre of Ole Mathisen? [Y].",
+  "options":[
+   "reggae",
+   "modal jazz",
+   "opera",
+   "jazz"
+  ],
+  "label":3
+ },
+ {
+  "text":"Brian Hayward is a player who plays as a [Y].",
+  "options":[
+   "linebacker",
+   "quarterback",
+   "midfielder",
+   "goaltender"
+  ],
+  "label":3
+ },
+ {
+  "text":"The birth of Henry W. Moore occurred in [Y].",
+  "options":[
+   "Boston",
+   "Oslo",
+   "Hyderabad",
+   "Detroit"
+  ],
+  "label":3
+ },
+ {
+  "text":"On what continent is Czechoslovakia located? [Y].",
+  "options":[
+   "Antarctica",
+   "Asia",
+   "Africa",
+   "Europe"
+  ],
+  "label":3
+ },
+ {
+  "text":"Yatchan was written in the [Y] language.",
+  "options":[
+   "English",
+   "Ukrainian",
+   "French",
+   "Tamil"
+  ],
+  "label":3
+ },
+ {
+  "text":"Auchenharvie Castle is a place in [Y].",
+  "options":[
+   "Pennsylvania",
+   "Romania",
+   "Frederick County",
+   "Scotland"
+  ],
+  "label":3
+ },
+ {
+  "text":"The birth of Jade Windley occurred in [Y].",
+  "options":[
+   "Amsterdam",
+   "Munich",
+   "Sydney",
+   "Lincolnshire"
+  ],
+  "label":3
+ },
+ {
+  "text":"Lake Marble Falls is in the territory of [Y].",
+  "options":[
+   "Quebec",
+   "Swansea",
+   "Manitoba",
+   "Texas"
+  ],
+  "label":3
+ },
+ {
+  "text":"Vettaiyaadu Vilaiyaadu is a work in the [Y] language.",
+  "options":[
+   "Thai",
+   "Hindi",
+   "French",
+   "Tamil"
+  ],
+  "label":3
+ },
+ {
+  "text":"Alfred Tarski is influential in the domain of [Y].",
+  "options":[
+   "physics",
+   "geometry",
+   "sociology",
+   "logic"
+  ],
+  "label":3
+ },
+ {
+  "text":"The operation of Samsung depends on the headquarters in [Y].",
+  "options":[
+   "Canberra",
+   "Avon",
+   "Cambridge",
+   "Seoul"
+  ],
+  "label":3
+ },
+ {
+  "text":"The central government of United Kingdom is in [Y].",
+  "options":[
+   "Hamilton",
+   "Lincoln",
+   "Montpellier",
+   "London"
+  ],
+  "label":3
+ },
+ {
+  "text":"Casa de Mi Padre is created in language [Y].",
+  "options":[
+   "English",
+   "Finnish",
+   "Italian",
+   "Spanish"
+  ],
+  "label":3
+ },
+ {
+  "text":"Long Plain First Nation is a place in [Y].",
+  "options":[
+   "Montana",
+   "Quebec",
+   "Havana",
+   "Manitoba"
+  ],
+  "label":3
+ },
+ {
+  "text":"KK Cedevita occurred in [Y].",
+  "options":[
+   "Vienna",
+   "Cambridge",
+   "Ethiopia",
+   "Zagreb"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] recognizes Hanko as its official language.",
+  "options":[
+   "Punjabi",
+   "Leonese",
+   "Afrikaans",
+   "Swedish"
+  ],
+  "label":3
+ },
+ {
+  "text":"Irrational Games started their career in [Y].",
+  "options":[
+   "Birmingham",
+   "Netherlands",
+   "Lowell",
+   "Boston"
+  ],
+  "label":3
+ },
+ {
+  "text":"The nationality of Yves Larock is [Y].",
+  "options":[
+   "England",
+   "Ireland",
+   "Cyprus",
+   "Switzerland"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which country was Sgt. Frog created in? [Y].",
+  "options":[
+   "Italy",
+   "Belgium",
+   "Portugal",
+   "Japan"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which country is Bunda District located? [Y].",
+  "options":[
+   "Kenya",
+   "Australia",
+   "Sweden",
+   "Tanzania"
+  ],
+  "label":3
+ },
+ {
+  "text":"Dolly Wells is known as a [Y] by profession.",
+  "options":[
+   "journalist",
+   "novelist",
+   "screenwriter",
+   "actor"
+  ],
+  "label":3
+ },
+ {
+  "text":"Pierre Schneiter grew up speaking [Y] as their first language.",
+  "options":[
+   "Dutch",
+   "Northern Sami",
+   "Telugu",
+   "French"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was Rhema Broadcasting Group founded? [Y].",
+  "options":[
+   "Milan",
+   "Paris",
+   "Scotland",
+   "Christchurch"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the language that is used by Laura Gore.",
+  "options":[
+   "Dutch",
+   "Armenian",
+   "French",
+   "Italian"
+  ],
+  "label":3
+ },
+ {
+  "text":"FS-1015 is one of the creations by [Y].",
+  "options":[
+   "Sega",
+   "IBM",
+   "Apple",
+   "NATO"
+  ],
+  "label":3
+ },
+ {
+  "text":"Mohamed Morsi has a role in the religion [Y].",
+  "options":[
+   "Shia Islam",
+   "Christianity",
+   "Hinduism",
+   "Islam"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the first air channel of As the World Turns.",
+  "options":[
+   "BBC",
+   "HBO",
+   "MTV",
+   "CBS"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which entity does mathematical physics belong to? [Y].",
+  "options":[
+   "Judaism",
+   "firearm",
+   "Anatolia",
+   "mathematics"
+  ],
+  "label":3
+ },
+ {
+  "text":"The location of Rouen Mountains on the Earth is the [Y] continent.",
+  "options":[
+   "Europe",
+   "Oceania",
+   "Asia",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where is the headquarters of WWE? [Y].",
+  "options":[
+   "Amsterdam",
+   "London",
+   "Israel",
+   "Stamford"
+  ],
+  "label":3
+ },
+ {
+  "text":"Android TV is one of the creations by [Y].",
+  "options":[
+   "Lotus Software",
+   "Square",
+   "John Backus",
+   "Google"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the mother tongue of Boris Vian.",
+  "options":[
+   "Dutch",
+   "Armenian",
+   "Tamil",
+   "French"
+  ],
+  "label":3
+ },
+ {
+  "text":"Philip Wharton, 4th Baron Wharton is known as a [Y] by profession.",
+  "options":[
+   "novelist",
+   "actor",
+   "composer",
+   "diplomat"
+  ],
+  "label":3
+ },
+ {
+  "text":"Phil Knight is employed by [Y].",
+  "options":[
+   "IBM",
+   "Nintendo",
+   "Toyota",
+   "Nike"
+  ],
+  "label":3
+ },
+ {
+  "text":"The location of Rhine on the Earth is the [Y] continent.",
+  "options":[
+   "Asia",
+   "Antarctica",
+   "Africa",
+   "Europe"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where is the capital of Meriwether County? [Y].",
+  "options":[
+   "Athens",
+   "Hamilton",
+   "Portsmouth",
+   "Greenville"
+  ],
+  "label":3
+ },
+ {
+  "text":"What language is officially spoken in India? [Y].",
+  "options":[
+   "Spanish",
+   "Urdu",
+   "Aghul",
+   "English"
+  ],
+  "label":3
+ },
+ {
+  "text":"Metropolitan France is a part of the continent [Y].",
+  "options":[
+   "Asia",
+   "Antarctica",
+   "Americas",
+   "Europe"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the shareholder of McNichols Sports Arena.",
+  "options":[
+   "Juventus FC",
+   "Johannesburg",
+   "Microsoft",
+   "Denver"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the first air channel of Mike & Molly.",
+  "options":[
+   "HBO",
+   "AMC",
+   "NBC",
+   "CBS"
+  ],
+  "label":3
+ },
+ {
+  "text":"Dante Rivera saw the light of the world in [Y].",
+  "options":[
+   "Germany",
+   "London",
+   "Paris",
+   "Manhattan"
+  ],
+  "label":3
+ },
+ {
+  "text":"Wylie Bay is a part of the continent [Y].",
+  "options":[
+   "Europe",
+   "Asia",
+   "Oceania",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"Miloslav Vlk has the position of [Y].",
+  "options":[
+   "abbot",
+   "antipope",
+   "mayor",
+   "cardinal"
+  ],
+  "label":3
+ },
+ {
+  "text":"Francisco Varela made significant contributions in the field of [Y].",
+  "options":[
+   "physiology",
+   "evolution",
+   "anatomy",
+   "biology"
+  ],
+  "label":3
+ },
+ {
+  "text":"T. K. Blue can perform on the [Y].",
+  "options":[
+   "cello",
+   "piano",
+   "banjo",
+   "flute"
+  ],
+  "label":3
+ },
+ {
+  "text":"ERT World is located in the country of [Y].",
+  "options":[
+   "Haiti",
+   "Australia",
+   "Spain",
+   "Greece"
+  ],
+  "label":3
+ },
+ {
+  "text":"Who developed Dynamic-link library? [Y].",
+  "options":[
+   "IBM",
+   "Ecma International",
+   "Intel",
+   "Microsoft"
+  ],
+  "label":3
+ },
+ {
+  "text":"Edmond L. Browning holds the political title of [Y].",
+  "options":[
+   "archbishop",
+   "sultan",
+   "mayor",
+   "bishop"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] has Maria Cristina Falls as an instance.",
+  "options":[
+   "river",
+   "mausoleum",
+   "constituency",
+   "waterfall"
+  ],
+  "label":3
+ },
+ {
+  "text":"The operation of Croatian National Bank depends on the headquarters in [Y].",
+  "options":[
+   "Helsinki",
+   "Knoxville",
+   "Belgrade",
+   "Zagreb"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where is Jennings located? [Y].",
+  "options":[
+   "Queensland",
+   "Indiana",
+   "Texas",
+   "Louisiana"
+  ],
+  "label":3
+ },
+ {
+  "text":"Vecinos is a work in the [Y] language.",
+  "options":[
+   "Italian",
+   "Malayalam",
+   "French",
+   "Spanish"
+  ],
+  "label":3
+ },
+ {
+  "text":"Sarah Cahill became known as a [Y] player.",
+  "options":[
+   "saxophone",
+   "trumpet",
+   "mandolin",
+   "piano"
+  ],
+  "label":3
+ },
+ {
+  "text":"Argosy Glacier is a part of the continent [Y].",
+  "options":[
+   "South America",
+   "Asia",
+   "Europe",
+   "Antarctica"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was Aeternus founded? [Y].",
+  "options":[
+   "Dalton",
+   "Brisbane",
+   "Montreal",
+   "Bergen"
+  ],
+  "label":3
+ },
+ {
+  "text":"Goodreads represents a segment of [Y].",
+  "options":[
+   "Christianity",
+   "astronomy",
+   "sociology",
+   "Amazon"
+  ],
+  "label":3
+ },
+ {
+  "text":"The location of Scheldt on the Earth is the [Y] continent.",
+  "options":[
+   "Africa",
+   "Antarctica",
+   "North America",
+   "Europe"
+  ],
+  "label":3
+ },
+ {
+  "text":"Richard Brinsley Sheridan was employed at [Y].",
+  "options":[
+   "Vienna",
+   "Paris",
+   "Stuttgart",
+   "London"
+  ],
+  "label":3
+ },
+ {
+  "text":"Helle Thorning-Schmidt used to work in [Y].",
+  "options":[
+   "Paris",
+   "Rome",
+   "Berlin",
+   "Copenhagen"
+  ],
+  "label":3
+ },
+ {
+  "text":"San Giovanni Lupatoto shares border with [Y].",
+  "options":[
+   "Saskatchewan",
+   "Honduras",
+   "Brugherio",
+   "San Martino Buon Albergo"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which country is TROS located? [Y].",
+  "options":[
+   "Japan",
+   "Mexico",
+   "Italy",
+   "Netherlands"
+  ],
+  "label":3
+ },
+ {
+  "text":"Yaganti\u2019s name comes from [Y].",
+  "options":[
+   "Kiev",
+   "Minnesota",
+   "Andrew",
+   "Shiva"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which position does Lalrindika Ralte play in? [Y].",
+  "options":[
+   "quarterback",
+   "pitcher",
+   "catcher",
+   "midfielder"
+  ],
+  "label":3
+ },
+ {
+  "text":"Anne Simpson was awarded as a great [Y].",
+  "options":[
+   "film director",
+   "journalist",
+   "actor",
+   "novelist"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] is the country of origin of Kuensel.",
+  "options":[
+   "Japan",
+   "United States of America",
+   "Australia",
+   "Bhutan"
+  ],
+  "label":3
+ },
+ {
+  "text":"Jean-Jacques Rousseau is affiliated with the [Y] religion.",
+  "options":[
+   "Hinduism",
+   "Scientology",
+   "Islam",
+   "Christianity"
+  ],
+  "label":3
+ },
+ {
+  "text":"Ueno  Imperial Grant Park is a part of [Y]'s assets.",
+  "options":[
+   "Indiana",
+   "Bavaria",
+   "Jacksonville",
+   "Tokyo"
+  ],
+  "label":3
+ },
+ {
+  "text":"What is the genre of HighNote Records? [Y].",
+  "options":[
+   "opera",
+   "blues",
+   "fantasy",
+   "jazz"
+  ],
+  "label":3
+ },
+ {
+  "text":"Eric Dixon is a [Y] player.",
+  "options":[
+   "guitar",
+   "trumpet",
+   "piano",
+   "flute"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was Florence Vidor born? [Y].",
+  "options":[
+   "Rutherford",
+   "London",
+   "Monroe",
+   "Houston"
+  ],
+  "label":3
+ },
+ {
+  "text":"Altare della Patria is in the territory of [Y].",
+  "options":[
+   "Berlin",
+   "Virginia",
+   "Arizona",
+   "Rome"
+  ],
+  "label":3
+ },
+ {
+  "text":"Wallace Carothers made significant contributions in the field of [Y].",
+  "options":[
+   "linguistics",
+   "physics",
+   "ecology",
+   "chemistry"
+  ],
+  "label":3
+ },
+ {
+  "text":"The city of Havana is twinned with [Y].",
+  "options":[
+   "Taipei",
+   "Mulhouse",
+   "Bucharest",
+   "Rio de Janeiro"
+  ],
+  "label":3
+ },
+ {
+  "text":"Man from Delmonte was founded in [Y].",
+  "options":[
+   "Bergen",
+   "Dublin",
+   "London",
+   "Manchester"
+  ],
+  "label":3
+ },
+ {
+  "text":"Patras and [Y] are twin cities.",
+  "options":[
+   "Frankfurt",
+   "Hanoi",
+   "Thessaloniki",
+   "Bari"
+  ],
+  "label":3
+ },
+ {
+  "text":"Frataxin is a subclass of [Y].",
+  "options":[
+   "archive",
+   "missile",
+   "biology",
+   "protein"
+  ],
+  "label":3
+ },
+ {
+  "text":"Bobby Darin is represented by music label [Y].",
+  "options":[
+   "Geffen Records",
+   "Motown",
+   "EMI",
+   "Capitol Records"
+  ],
+  "label":3
+ },
+ {
+  "text":"There is a border that connects [Y] with Goa.",
+  "options":[
+   "Venezuela",
+   "Bolivia",
+   "Soviet Union",
+   "Maharashtra"
+  ],
+  "label":3
+ },
+ {
+  "text":"Wan Azizah Wan Ismail is a [Y] by profession.",
+  "options":[
+   "composer",
+   "songwriter",
+   "anthropologist",
+   "politician"
+  ],
+  "label":3
+ },
+ {
+  "text":"Where was BYG Actuel founded? [Y].",
+  "options":[
+   "Manila",
+   "Milan",
+   "Pittsburgh",
+   "Paris"
+  ],
+  "label":3
+ },
+ {
+  "text":"Dospat Municipality is located in the country of [Y].",
+  "options":[
+   "India",
+   "Finland",
+   "Spain",
+   "Bulgaria"
+  ],
+  "label":3
+ },
+ {
+  "text":"Waldshut-Tiengen is located in the country of [Y].",
+  "options":[
+   "Norway",
+   "France",
+   "Australia",
+   "Germany"
+  ],
+  "label":3
+ },
+ {
+  "text":"Which position does Daniel Berg Hestad play in? [Y].",
+  "options":[
+   "pitcher",
+   "goaltender",
+   "linebacker",
+   "midfielder"
+  ],
+  "label":3
+ },
+ {
+  "text":"[Y] consists of phylogenetics.",
+  "options":[
+   "Mir",
+   "rifle",
+   "Andes",
+   "biology"
+  ],
+  "label":3
+ },
+ {
+  "text":"Arun Krushnaji Kamble has a role in the religion [Y].",
+  "options":[
+   "Christianity",
+   "Islam",
+   "Judaism",
+   "Buddhism"
+  ],
+  "label":3
+ },
+ {
+  "text":"1979 Southeast Asian Games is located in [Y].",
+  "options":[
+   "Zagreb",
+   "Barnes",
+   "Belarus",
+   "Jakarta"
+  ],
+  "label":3
+ },
+ {
+  "text":"The formation location of Essanay Studios is [Y].",
+  "options":[
+   "London",
+   "Bristol",
+   "Norway",
+   "Chicago"
+  ],
+  "label":3
+ },
+ {
+  "text":"The capital of Makkah Region is [Y].",
+  "options":[
+   "City of London",
+   "Nashville",
+   "Palermo",
+   "Mecca"
+  ],
+  "label":3
+ },
+ {
+  "text":"Castle is a place in [Y].",
+  "options":[
+   "Ghana",
+   "Utrecht",
+   "Ohio",
+   "Belfast"
+  ],
+  "label":3
+ },
+ {
+  "text":"statistician is a subclass of [Y].",
+  "options":[
+   "homicide",
+   "dog",
+   "application",
+   "mathematician"
+  ],
+  "label":3
+ },
+ {
+  "text":"succubus is a subclass of [Y].",
+  "options":[
+   "textile",
+   "helicopter",
+   "protein",
+   "demon"
+  ],
+  "label":3
+ },
+ {
+  "text":"Warsteiner is in the country [Y].",
+  "options":[
+   "Bolivia",
+   "Russia",
+   "Indonesia",
+   "Germany"
+  ],
+  "label":3
+ }
+]
