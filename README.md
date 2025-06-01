@@ -27,7 +27,15 @@ This project introduces a novel method to empirically measure and analyze the gl
     pip install -r requirements.txt
     ```
 
-3. **Run experiments:**
+3. Modify the path for your project
+    ```python3
+    ### In NeuronProbe.__init__.py
+    DATA_CACHE_ROOT = "<path/to/your/data/cache/root>" 
+    ### In NeurGrad.__init__.py
+    MODEL_PATH_ROOT = "<path/to/your/local/models/root>"
+    ```
+
+4. **Run experiments:**
     See the `examples/` directory and the instructions in each folders for details.
 
 ## Citation

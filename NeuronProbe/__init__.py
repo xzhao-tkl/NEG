@@ -1,9 +1,7 @@
 import os
 import pathlib
 
-DISK_ROOT = "/net/tokyo100-10g/data/str01_01/xzhao"
-DATA_CACHE_ROOT = os.path.join(DISK_ROOT, "linguistic_probing")
-
+DATA_CACHE_ROOT = "<path/to/your/data/cache/root>"  # Change this to your actual data cache root path
 GRANEUR_LOG_ROOT = pathlib.Path(__file__).parent.absolute() / "../logs"
 GRANEUR_DATASET_ROOT = os.path.join(DATA_CACHE_ROOT, "datasets")
 GRANEUR_NEURONS_CACHE_ROOT = os.path.join(DATA_CACHE_ROOT, "grad_neurons")

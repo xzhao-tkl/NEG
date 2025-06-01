@@ -17,7 +17,7 @@ from datasets.utils.logging import set_verbosity_error
 set_verbosity_error()
 
 BASE_DIR = Path("./")
-DATASET_CACHE_ROOT = Path("/net/tokyo100-10g/data/str01_01/xzhao/huggingface/datasets/")
+DATASET_CACHE_ROOT = Path("<path/to/your/dataset/cache/root>")  # Replace with your actual path
 
 universal_pos_tags = [
     "ADJ", "ADP", "ADV", "AUX", 

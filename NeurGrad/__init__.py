@@ -7,7 +7,7 @@ from transformers import (
     AutoTokenizer
 )
 
-HF_MODEL_HUB_ROOT = "/net/tokyo100-10g/data/str01_01/xzhao/huggingface/hub"
+MODEL_PATH_ROOT = "<path/to/your/local/models/root>"
 
 BERT_MODELS = {
     "bert-base-uncased": "bert-base-uncased", 
@@ -106,7 +106,6 @@ INTERMIDIATE_SIZE = {
     "qwen2.5-7b-it": 18944 
 }
 
-MODEL_PATH_ROOT = "/net/tokyo100-10g/data/str01_01/xzhao/models/llama_hf/"
 LLAMA_MODEL_PATHS = {
     "llama2-7b": os.path.join(MODEL_PATH_ROOT, "llama2_7b"),
     "llama2-7b-it": os.path.join(MODEL_PATH_ROOT, "llama2_7b_it"),
