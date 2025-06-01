@@ -37,7 +37,7 @@ If you use this code, please cite our paper:
 ```
 @inproceedings{xzhao2025neuron,
   title={Neuron Empirical Gradient: Discovering and Quantifying Neurons Global Linear Controllability},
-  author={Your, Author and Coauthor, Name},
+  author={Xin Zhao and Zehui Jiang and Naoki Yoshinaga},
   booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)},
   year={2025}
 }
