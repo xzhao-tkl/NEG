@@ -6,13 +6,24 @@ This repository contains the official implementation for the ACL 2025 paper:
 
 ## Overview
 
-This project introduces a novel method to empirically measure and analyze the global linear controllability of individual neurons in neural networks. Our approach provides new insights into neuron-level interpretability and intervention.
+This project introduces a novel method to empirically measure and analyze the global linear controllability of individual neurons in LLMs. 
+Our approach provides new insights into neuron-level interpretability and intervention.
+
+
 
 ## Features
 
-- Implementation of the Neuron Empirical Gradient (NEG) method.
-- Tools for discovering and quantifying neuron controllability.
-- Scripts for reproducing experiments and results from the paper.
+#### **`NeurGrad`: Neuron Intervention & NEG calculation & NeurGrad**  
+    
+- Implements neuron intervention experiment to quantify the linear controllability of individual neurons. 
+
+- Provides the calculation method for Neuron Empirical Gradient (NEG) (NeurGrad) and the efficient NEG estimation method NeurGrad, enabling scalable analysis of neuron linearity in large language models.
+
+#### **`NeuronProbe`: Skill Neuron Probing & MCEval8K Benchmark**  
+
+- Includes skill-neuron probing methods to assess whether NEG captures diverse language skills at the neuron level. 
+
+- Contains code for constructing the MCEval8K benchmark—a multi-genre, multi-choice evaluation suite designed to test knowledge and skill diversity in LLMs.
 
 ## Getting Started
 
